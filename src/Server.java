@@ -466,6 +466,13 @@ public class Server {
 				e.printStackTrace();
 			}
 		}
+		if(!master){
+			this.garbage_counter-=(this.throw_number)*4;
+		}else{
+			this.garbage_counter-=this.throw_number*2;
+		}
+		System.out.println("garbage "+this.garbage_counter);
+		
 
 		//send shutdown signal
 		sendShutdown(client_a);
@@ -475,13 +482,7 @@ public class Server {
 		}
 		calculateTotals();
 		displayResults();
-		if(!master){
-			this.garbage_counter-=(this.throw_number)*4+2;
-		}else{
-			this.garbage_counter-=this.throw_number*2+1;
-		}
-		System.out.println("garbage "+this.garbage_counter);
-		
+	
 		this.running=false;
 		try {
 			udpThread.join(100);
