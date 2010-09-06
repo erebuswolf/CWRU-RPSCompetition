@@ -335,8 +335,8 @@ public class Server {
 									continue;
 							}
 						}
-						garbage_counter++;
 					}
+					garbage_counter++;
 				}
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
@@ -475,7 +475,11 @@ public class Server {
 		}
 		calculateTotals();
 		displayResults();
-		
+		if(!master){
+			this.garbage_counter-=(this.throw_number)*4+2;
+		}else{
+			this.garbage_counter-=this.throw_number*2+1;
+		}
 		System.out.println("garbage "+this.garbage_counter);
 		
 		this.running=false;
@@ -514,6 +518,7 @@ public class Server {
 
 		if(args.length<6){
 			System.out.println("usage: Server secure_port_a secure_port_b muticast_port broadcast_ip throw_number timeout_ms");
+			System.out.println("example:Java Server 5500 5501 6789 230.0.0.1 1000 100000000 false");
 			System.exit(1);
 		}
 		System.out.println("Server Starting");
