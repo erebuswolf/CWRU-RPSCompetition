@@ -625,7 +625,7 @@ public class Server {
 			this.BThrowTime=BThrowTime;
 		}
 		public void findWinner(){
-			if(AThrow==RPSThrow.garbage && AThrow==BThrow){
+			if(AThrow==BThrow){
 				winner=Winner.Tie;
 			}
 			else if(AThrow!=RPSThrow.garbage&&BThrow==RPSThrow.garbage){
