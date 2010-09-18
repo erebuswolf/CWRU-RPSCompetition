@@ -1,3 +1,4 @@
+
 /**
  * 
  * @author Jesse Fish
@@ -7,7 +8,7 @@ import java.io.*;
 import java.net.*;
 import java.util.Random;
 
-public class Server {
+public class ExampleServer {
 	private InetAddress group=null;
 	private MulticastSocket s=null;
 	private int throw_number;
@@ -38,7 +39,7 @@ public class Server {
 	private int Bwins=0;
 	private int ties=0;
 	
-	public Server(int secure_port_a, int secure_port_b, int multicast_port, String broadcast_ip, int throw_number,int timeout_ns, boolean master){
+	public ExampleServer(int secure_port_a, int secure_port_b, int multicast_port, String broadcast_ip, int throw_number,int timeout_ns, boolean master){
 		this.master=master;
 		this.multicast_port=multicast_port;
 		this.broadcast_ip=broadcast_ip;
@@ -504,10 +505,6 @@ public class Server {
 			}
 		}
 	}
-	public void writeResultsToFile(String file){
-		
-		
-	}
 	
 	public void displayResults(){
 		
@@ -541,7 +538,7 @@ public class Server {
 				master=true;
 			}
 		}
-		Server server=new Server(secure_port_a, secure_port_b, multicast_port, broadcast_ip, throw_number, timeout_ms, master);
+		ExampleServer server=new ExampleServer(secure_port_a, secure_port_b, multicast_port, broadcast_ip, throw_number, timeout_ms, master);
 
 		server.connectClients(secure_port_a,secure_port_b);
 		server.setupClients();
