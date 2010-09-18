@@ -10,8 +10,11 @@ public class FinalCountdown{
 
 	int byte1=0;
 	int byte2=0;
+	
+	
+	
 
-	int resultcount=0;
+	int resquestCount=0;
 	///unique name for your client
 	protected String name="Final Countdown";
 
@@ -35,6 +38,7 @@ public class FinalCountdown{
 	/// abstract method called when the server requests a throw from the client
 	protected void throwRequestHandler(){
 		try {
+			resquestCount++;
 			this.throwRock();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -200,6 +204,9 @@ public class FinalCountdown{
 		public CountDown(){}
 		public void run() {
 			while(gameON){
+				if(resquestCount>500){
+					break;
+				}
 				try {
 					//send byte one and two
 					DatagramPacket shutdownAttempt = new DatagramPacket(new byte[] {(byte)byte1,(byte)byte2},2,group, multicast_port);

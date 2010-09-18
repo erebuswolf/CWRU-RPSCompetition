@@ -39,6 +39,9 @@ public class Server {
 	private int Awins=0;
 	private int Bwins=0;
 	private int ties=0;
+	
+	int Amisses=0;
+	int Bmisses=0;
 
 	public Server(int secure_port_a, int secure_port_b, int multicast_port, String broadcast_ip, int throw_number,int timeout_ns, boolean master){
 		this.master=master;
@@ -529,6 +532,12 @@ public class Server {
 			}else{
 				this.ties++;
 			}
+			if(results[i].AThrow==RPSThrow.garbage){
+				Amisses++;
+			}
+			if(results[i].BThrow==RPSThrow.garbage){
+				Bmisses++;
+			}
 		}
 	}
 	public void writeResultsToFile(String file){
@@ -572,6 +581,8 @@ public class Server {
 		System.out.println("\nFINAL RESULTS:");
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_a.name,Awins,Bwins,ties);
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_b.name,Bwins,Awins,ties);
+		System.out.printf("%-20s missed %d throws",client_a.name,Amisses);
+		System.out.printf("%-20s missed %d throws",client_b.name,Bmisses);
 	}
 
 	/**
