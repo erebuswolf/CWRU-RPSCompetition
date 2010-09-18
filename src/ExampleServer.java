@@ -521,7 +521,7 @@ public class ExampleServer {
 
 		if(args.length<6){
 			System.out.println("usage: Server secure_port_a secure_port_b muticast_port broadcast_ip throw_number timeout_ms");
-			System.out.println("example:Java Server 5500 5501 6789 230.0.0.1 1000 100000000 false");
+			System.out.println("example:java Server 5500 5501 6789 230.0.0.1 1000 70000000 false");
 			System.exit(1);
 		}
 		System.out.println("Server Starting");

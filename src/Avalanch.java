@@ -4,7 +4,7 @@ public class Avalanch extends Client {
 
 	@Override
 	protected synchronized void resultHandler(Result result) {
-		System.out.printf("Result: I threw: %-10s They threw: %-10s\n",result.iThrew.name(),result.theyThrew.name());
+		//System.out.printf("Result: I threw: %-10s They threw: %-10s\n",result.iThrew.name(),result.theyThrew.name());
 
 		//put result handling code here, not a lot to it
 		//obviously we aren't handling results
