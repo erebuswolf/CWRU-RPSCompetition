@@ -10,6 +10,9 @@ public abstract class Client {
 
 	/*** only values AI contestants should worry about ***/
 	
+	int requestcount=0;
+	
+	int resultcount=0;
 	///unique name for your client
 	protected String name="Example Client";
 	
@@ -207,9 +210,11 @@ public abstract class Client {
 				int data_len=recv.getLength();
 				if(data_len==2){
 					//possible request or shutdown
-					if(recv.getData()[0]==info.requestSignal[0]&& recv.getData()[1]==info.requestSignal[1]){
+					if(recv.getData()[0]==info.requestSignal[0] && recv.getData()[1]==info.requestSignal[1]){
 						//handle request signal
-					//	System.out.println("got a request!");
+					//	System.out.print("got a request! "+(requestcount++)+" ");
+						
+					//	System.out.println(recv.getData()[0] + " "+recv.getData()[1]);
 						ThrowSpawner throwSpawner=new ThrowSpawner();
 						throwSpawner.start();
 					}
@@ -223,7 +228,7 @@ public abstract class Client {
 					if(recv.getData()[2]==info.resultSignature){
 						try {
 							Result result=processResult(recv.getData());
-
+					//		System.out.println("result "+(resultcount++));
 							//spawn result thread
 							ResultSpawner resultSpawner=new ResultSpawner(result);
 							resultSpawner.start();
@@ -231,8 +236,7 @@ public abstract class Client {
 						} catch (Exception e) {
 							// TODO Auto-generated catch block
 							e.printStackTrace();
-						}
-						
+						}	
 					}
 				}
 			} catch (IOException e) {

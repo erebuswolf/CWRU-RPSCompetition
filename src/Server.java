@@ -33,6 +33,8 @@ public class Server {
 
 	private ThrowResult results [];
 
+	int sentrequests=0;
+
 	private long start;
 	private int Awins=0;
 	private int Bwins=0;
@@ -224,7 +226,7 @@ public class Server {
 				out_a.write(broadcast_ip.getBytes());
 				out_b.write(broadcast_ip.getBytes());
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
-				
+
 				out_a.write(port_array.length);
 				out_a.write(port_array);
 				System.out.println("port bytes");
@@ -239,25 +241,25 @@ public class Server {
 				/*** generate and send client info ***/
 				generateInfo(client_a,null);
 				generateInfo(client_b,client_a);
-				
-				
+
+
 				out_a.write(client_a.getBytes());
 				System.out.println("A Bytes");
-				
+
 				for(int i=0;i<client_a.getBytes().length;i++){
 					System.out.print(client_a.getBytes()[i] +" ");
 				}System.out.println();
-				
-				
+
+
 				out_b.write(client_b.getBytes());
 				System.out.println("B Bytes");
-				
+
 				for(int i=0;i<client_b.getBytes().length;i++){
 					System.out.print(client_b.getBytes()[i] +" ");
 				}System.out.println();
-				
-				
-				
+
+
+
 				/*** print client information generated ***/
 				System.out.println("client A: ");
 				client_a.print();
@@ -367,6 +369,7 @@ public class Server {
 			}
 		}
 	}
+	
 	private void getMasterThrow(){
 		if(client_a.lastThrow==RPSThrow.rock){
 			client_b.lastThrow=RPSThrow.paper;
@@ -396,6 +399,7 @@ public class Server {
 	}
 	private void sendRequset(ClientInfo client){
 		DatagramPacket requeset = new DatagramPacket(new byte[] {client.requestSignal[0],client.requestSignal[1]},2,group, multicast_port);
+	//	System.out.println("sent request "+client.requestSignal[0]+client.requestSignal[1]+" "+(sentrequests++));
 		try {
 			s.send(requeset);
 		} catch (IOException e) {
@@ -404,9 +408,9 @@ public class Server {
 		}
 	}
 	private void sendShutdown(ClientInfo client){
-		DatagramPacket requeset = new DatagramPacket(new byte[] {client.shutdownSignal[0],client.shutdownSignal[1]},2,group, multicast_port);
+		DatagramPacket shutdown = new DatagramPacket(new byte[] {client.shutdownSignal[0],client.shutdownSignal[1]},2,group, multicast_port);
 		try {
-			s.send(requeset);
+			s.send(shutdown);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -462,9 +466,9 @@ public class Server {
 			synchronized(this){
 				resultLock=true;
 			}
-			//		System.out.println("results are in at "+elapsed + "ns");
+			System.out.println("results are in at "+elapsed + "ns");
 			//determine winner
-			//	System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
+			System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
 
 			results[throwCount]=new ThrowResult(client_a.lastThrow,client_b.lastThrow,(client_a.submitTime-start),(client_b.submitTime-start));
 			results[throwCount].findWinner();
@@ -535,7 +539,7 @@ public class Server {
 			fileOut.print("\""+client_a.name+comma+client_b.name+comma);
 			if(Awins>Bwins&&Awins>(Awins+Bwins+ties)/2.){
 				fileOut.println("The winner is "+client_a.name+"\"");
-			}else if(Bwins>Bwins&&Bwins>(Awins+Bwins+ties)/2.){
+			}else if(Bwins>Awins&&Bwins>(Awins+Bwins+ties)/2.){
 				fileOut.println("The winner is "+client_b.name+"\"");
 			}else{
 				fileOut.println("Clients TIE!"+"\"");

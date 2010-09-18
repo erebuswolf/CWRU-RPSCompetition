@@ -26,7 +26,6 @@ public class ExampleServer {
 	private ServerSocket serverSocket_b = null;
 	private Socket clientSocket_b = null;
 
-	private int garbage_counter=0;
 
 	private boolean resultLock=false;
 	
@@ -225,9 +224,11 @@ public class ExampleServer {
 				out_a.write(broadcast_ip.getBytes());
 				out_b.write(broadcast_ip.getBytes());
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
+				
+				out_a.write(port_array.length);
 				out_a.write(port_array);
+				out_b.write(port_array.length);
 				out_b.write(port_array);
-
 
 				/*** generate and send client info ***/
 				generateInfo(client_a,null);
@@ -337,7 +338,6 @@ public class ExampleServer {
 							}
 						}
 					}
-					garbage_counter++;
 				}
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
@@ -440,9 +440,9 @@ public class ExampleServer {
 			synchronized(this){
 				resultLock=true;
 			}
-	//		System.out.println("results are in at "+elapsed + "ns");
+			System.out.println("results are in at "+elapsed + "ns");
 			//determine winner
-		//	System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
+			System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
 
 			results[throwCount]=new ThrowResult(client_a.lastThrow,client_b.lastThrow,(client_a.submitTime-start),(client_b.submitTime-start));
 			results[throwCount].findWinner();
@@ -467,13 +467,6 @@ public class ExampleServer {
 				e.printStackTrace();
 			}
 		}
-		
-		if(!master){
-			this.garbage_counter-=(this.throw_number)*4;
-		}else{
-			this.garbage_counter-=this.throw_number*2;
-		}
-		System.out.println("garbage "+this.garbage_counter);
 		
 
 		//send shutdown signal
@@ -520,8 +513,8 @@ public class ExampleServer {
 		// TODO Auto-generated method stub
 
 		if(args.length<6){
-			System.out.println("usage: Server secure_port_a secure_port_b muticast_port broadcast_ip throw_number timeout_ms");
-			System.out.println("example:java Server 5500 5501 6789 230.0.0.1 1000 70000000 false");
+			System.out.println("usage: ExampleServer secure_port_a secure_port_b muticast_port broadcast_ip throw_number timeout_ms");
+			System.out.println("example:java ExampleServer 5500 5501 6789 230.0.0.1 1000 70000000 false");
 			System.exit(1);
 		}
 		System.out.println("Server Starting");
@@ -567,7 +560,7 @@ public class ExampleServer {
 			this.BThrowTime=BThrowTime;
 		}
 		public void findWinner(){
-			if(AThrow!=RPSThrow.garbage && AThrow==BThrow){
+			if(AThrow==BThrow){
 				winner=Winner.Tie;
 			}
 			else if(AThrow!=RPSThrow.garbage&&BThrow==RPSThrow.garbage){

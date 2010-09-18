@@ -3,7 +3,7 @@ import java.io.IOException;
 public class ThrowDoubles extends Client {
 	
 	State state = State.p;
-	
+	int throwcount=0;
 	@Override
 	protected synchronized void resultHandler(Result result) {
 		//System.out.println("Back.");
@@ -15,26 +15,32 @@ public class ThrowDoubles extends Client {
 			switch (state) {
 			case p:
 				this.throwPaper();
+				System.out.println("threw paper "+(throwcount++));
 				state = State.pp;
 				break;
 			case pp:
 				this.throwPaper();
+				System.out.println("threw paper "+(throwcount++));
 				state = State.r;
 				break;
 			case r:
 				this.throwRock();
+				System.out.println("threw rock "+(throwcount++));
 				state = State.rr;
 				break;
 			case rr:
 				this.throwRock();
+				System.out.println("threw rock "+(throwcount++));
 				state = State.s;
 				break;
 			case s:
 				this.throwScissors();
+				System.out.println("threw ss "+(throwcount++));
 				state = State.ss;
 				break;
 			case ss:
 				this.throwScissors();
+				System.out.println("threw ss "+(throwcount++));
 				state = State.p;
 				break;
 			}

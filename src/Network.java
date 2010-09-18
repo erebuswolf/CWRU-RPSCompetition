@@ -27,10 +27,10 @@ public class Network {
 			
 			bytes_read+=read_temp;
 
-			for(int i=0;i<input_bytes.length;i++){
+		/*	for(int i=0;i<input_bytes.length;i++){
 				System.out.print(input_bytes[i] +" ");
 			}System.out.println();
-			
+			*/
 			for(int i=lastBytesRead;i<bytes_read;i++){
 				output_bytes[i]=input_bytes[i-lastBytesRead];
 			}
