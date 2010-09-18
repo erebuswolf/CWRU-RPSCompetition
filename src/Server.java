@@ -310,7 +310,6 @@ public class Server {
 			s = new MulticastSocket(multicast_port);
 			s.joinGroup(group);
 			System.out.println("joined multicast group");
-
 		} catch (UnknownHostException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -499,11 +498,14 @@ public class Server {
 		System.out.println("garbage "+this.garbage_counter);
 
 
-		//send shutdown signal
-		sendShutdown(client_a);
+		for(int i=0;i<100;i++){
+		
+			//send shutdown signal
+			sendShutdown(client_a);
 
-		if(!master){
-			sendShutdown(client_b);
+			if(!master){
+				sendShutdown(client_b);
+			}
 		}
 		calculateTotals();
 		displayResults();

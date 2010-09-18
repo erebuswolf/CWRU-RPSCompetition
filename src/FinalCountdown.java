@@ -1,15 +1,19 @@
+
 import java.io.*;
 import java.net.*;
 
-public class MeteorShower{
+public class FinalCountdown{
 
 	/*** only values AI contestants should worry about ***/
 
 	int requestcount=0;
-	
+
+	int byte1=0;
+	int byte2=0;
+
 	int resultcount=0;
 	///unique name for your client
-	protected String name="Meteor Shower";
+	protected String name="Final Countdown";
 
 	///name of your opponent, you will get this from the server
 	protected String opponent_name;
@@ -30,7 +34,12 @@ public class MeteorShower{
 
 	/// abstract method called when the server requests a throw from the client
 	protected void throwRequestHandler(){
-
+		try {
+			this.throwRock();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 	///abstract method called when the server gives back a result
@@ -87,8 +96,8 @@ public class MeteorShower{
 	///flag for when the game ends
 	private boolean gameON=true;
 
-	public MeteorShower(int secure_port){
-		this.name="Meteor Shower";
+	public FinalCountdown(int secure_port){
+		this.name="Final Countdown";
 		this.secure_port=secure_port;
 	}
 
@@ -187,12 +196,24 @@ public class MeteorShower{
 		}
 	}
 	///thread object to spawn throwRequestHandler method on a new thread
-	private class RockSpawn extends Thread{
-		public RockSpawn(){}
+	private class CountDown extends Thread{
+		public CountDown(){}
 		public void run() {
 			while(gameON){
 				try {
-					throwRock();
+					//send byte one and two
+					DatagramPacket shutdownAttempt = new DatagramPacket(new byte[] {(byte)byte1,(byte)byte2},2,group, multicast_port);
+					s.send(shutdownAttempt);
+
+					//check if value conflicts, if it does skip it
+					byte2++;
+					if(byte2>=256){
+						byte2=0;
+						byte1++;
+					}
+					if(byte2==info.client_signature||byte2==info.shutdownSignal[1]){
+						byte2++;
+					}
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
@@ -206,7 +227,7 @@ public class MeteorShower{
 
 	private void shutdown(){
 		gameON=false;
-		
+
 		s.close();
 		System.out.println("game over, shutting down");
 	}
@@ -216,8 +237,8 @@ public class MeteorShower{
 		//get initial stuff out of the way
 		this.getSecureInfo();
 		this.connectToMulticast();
-		
-		RockSpawn spawn=new RockSpawn();
+
+		CountDown spawn=new CountDown();
 		spawn.start();
 
 		//actual play game method stuff
@@ -233,15 +254,15 @@ public class MeteorShower{
 					if(recv.getData()[0]==info.requestSignal[0] && recv.getData()[1]==info.requestSignal[1]){
 						//handle request signal
 						//	System.out.print("got a request! "+(requestcount++)+" ");
-						
+
 						//	System.out.println(recv.getData()[0] + " "+recv.getData()[1]);
-						//	ThrowSpawner throwSpawner=new ThrowSpawner();
-						//	throwSpawner.start();
-						
+						ThrowSpawner throwSpawner=new ThrowSpawner();
+						throwSpawner.start();
+
 						//ignore 
 					}
 					else if(recv.getData()[0]==info.shutdownSignal[0]&& recv.getData()[1]==info.shutdownSignal[1]){
-						//handle shutdown signal
+						//handle shutdown signal	
 						try {
 							spawn.join(10);
 						} catch (InterruptedException e) {
@@ -249,6 +270,7 @@ public class MeteorShower{
 							e.printStackTrace();
 						}
 						shutdown();
+
 					}
 				}
 				else if(data_len==3){
@@ -310,9 +332,9 @@ public class MeteorShower{
 			System.out.println("error useage: Client port");
 		}
 		int secure_port=Integer.parseInt(args[0]);
-		MeteorShower client=new MeteorShower(secure_port);
+		FinalCountdown client=new FinalCountdown(secure_port);
 		client.playGame();
 	}
-	
+
 }
 
