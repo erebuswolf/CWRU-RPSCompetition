@@ -211,8 +211,11 @@ public class FinalCountdown{
 						byte2=0;
 						byte1++;
 					}
-					if(byte2==info.client_signature||byte2==info.shutdownSignal[1]){
+					if((byte)byte2==(info.shutdownSignal[1])){
 						byte2++;
+					}
+					if((byte)byte1==(info.shutdownSignal[0])){
+						byte1++;
 					}
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
