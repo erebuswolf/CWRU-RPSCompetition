@@ -252,6 +252,7 @@ public class ExampleServer {
 				out_a.write(broadcast_ip.getBytes());
 				
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
+				out_a.write(port_array.length);
 				out_a.write(port_array);
 				/*** generate and send client info ***/
 				generateInfo(client_a,null);

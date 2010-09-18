@@ -229,11 +229,6 @@ public class Server {
 
 				out_a.write(port_array.length);
 				out_a.write(port_array);
-				System.out.println("port bytes");
-				for(int i=0;i<port_array.length;i++){
-					System.out.print(port_array[i]+" ");
-				}
-				System.out.println();
 				out_b.write(port_array.length);
 				out_b.write(port_array);
 
@@ -275,6 +270,8 @@ public class Server {
 				out_a.write(broadcast_ip.getBytes());
 
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
+
+				out_a.write(port_array.length);
 				out_a.write(port_array);
 				/*** generate and send client info ***/
 				generateInfo(client_a,null);
