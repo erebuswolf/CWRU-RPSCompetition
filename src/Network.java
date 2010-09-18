@@ -4,7 +4,9 @@ import java.io.InputStream;
 
 public class Network {
 	public static final byte [] getBytesOfLength(InputStream in, int length){
+		System.out.println("debug: len "+length);
 		byte [] input_bytes=new byte[length];
+		byte [] output_bytes=new byte[length];
 		int bytes_read=0;
 		String input_values="";
 		while(bytes_read<length){
@@ -17,25 +19,30 @@ public class Network {
 				e.printStackTrace();
 			}
 
+			
 			if(read_temp==-1){
 				continue;
 			}
+			int lastBytesRead=bytes_read;
+			
 			bytes_read+=read_temp;
-			//System.out.println("bytes read: "+bytes_read);
 
-			/*	for(int i=0;i<input_bytes.length;i++){
+			for(int i=0;i<input_bytes.length;i++){
 				System.out.print(input_bytes[i] +" ");
 			}System.out.println();
-			 */
-
-			input_values+=(new String(input_bytes).substring(0, read_temp));
+			
+			for(int i=lastBytesRead;i<bytes_read;i++){
+				output_bytes[i]=input_bytes[i-lastBytesRead];
+			}
+			
+			//input_values+=(new String(input_bytes).substring(0, read_temp));
 			//System.out.println("value read "+input_values +" "+input_values.length()+" "+ input_values.getBytes().length+" "+bytes_read);
 
 			input_bytes=new byte[length];
 		}
-		return input_values.getBytes();
+		return output_bytes;
 	}
-
+	
 	public static final int getByte(InputStream in){
 		int byte_value=-1;
 		while(byte_value==-1){

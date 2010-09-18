@@ -130,7 +130,15 @@ public abstract class Client {
 			broadcast_ip=new String(Network.getBytesOfLength(in, broadcast_bytes_length));	
 			//read broadcast port
 			System.out.println("broadcast "+broadcast_ip);
-			byte[] portIntbytes=Network.getBytesOfLength(in, 4);
+			int port_length=Network.getByte(in);
+			byte[] portIntbytes=Network.getBytesOfLength(in, port_length);
+			
+			System.out.println("port bytes");
+			for(int i=0;i<portIntbytes.length;i++){
+				System.out.print(portIntbytes[i]+" ");
+			}
+			System.out.println();
+			
 			multicast_port=Network.byteArrayToInt(portIntbytes);
 			System.out.println("port is "+this.multicast_port);
 			

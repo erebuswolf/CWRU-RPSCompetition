@@ -28,7 +28,7 @@ public class Server {
 	private int garbage_counter=0;
 
 	private boolean resultLock=false;
-	
+
 	private boolean running=true;
 
 	private ThrowResult results [];
@@ -37,7 +37,7 @@ public class Server {
 	private int Awins=0;
 	private int Bwins=0;
 	private int ties=0;
-	
+
 	public Server(int secure_port_a, int secure_port_b, int multicast_port, String broadcast_ip, int throw_number,int timeout_ns, boolean master){
 		this.master=master;
 		this.multicast_port=multicast_port;
@@ -55,7 +55,7 @@ public class Server {
 	private void generateInfo(ClientInfo client, ClientInfo check_against){
 
 		Random a=new Random();
-		
+
 		client.scissors=(byte)a.nextInt();
 
 		do{
@@ -224,17 +224,40 @@ public class Server {
 				out_a.write(broadcast_ip.getBytes());
 				out_b.write(broadcast_ip.getBytes());
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
+				
+				out_a.write(port_array.length);
 				out_a.write(port_array);
+				System.out.println("port bytes");
+				for(int i=0;i<port_array.length;i++){
+					System.out.print(port_array[i]+" ");
+				}
+				System.out.println();
+				out_b.write(port_array.length);
 				out_b.write(port_array);
 
 
 				/*** generate and send client info ***/
 				generateInfo(client_a,null);
 				generateInfo(client_b,client_a);
-
+				
+				
 				out_a.write(client_a.getBytes());
+				System.out.println("A Bytes");
+				
+				for(int i=0;i<client_a.getBytes().length;i++){
+					System.out.print(client_a.getBytes()[i] +" ");
+				}System.out.println();
+				
+				
 				out_b.write(client_b.getBytes());
-
+				System.out.println("B Bytes");
+				
+				for(int i=0;i<client_b.getBytes().length;i++){
+					System.out.print(client_b.getBytes()[i] +" ");
+				}System.out.println();
+				
+				
+				
 				/*** print client information generated ***/
 				System.out.println("client A: ");
 				client_a.print();
@@ -248,7 +271,7 @@ public class Server {
 				/*** send broadcast info***/
 				out_a.write(broadcast_ip.getBytes().length);
 				out_a.write(broadcast_ip.getBytes());
-				
+
 				byte[] port_array=Network.intToByteArray(this.multicast_port);
 				out_a.write(port_array);
 				/*** generate and send client info ***/
@@ -416,7 +439,7 @@ public class Server {
 			if(!master){
 				sendRequset(client_b);
 			}
-	//		System.out.println("Start Throw:"+(throwCount+1));
+			//		System.out.println("Start Throw:"+(throwCount+1));
 			long elapsed=0;
 			//while A and B haven't responded
 			boolean check=true;
@@ -439,9 +462,9 @@ public class Server {
 			synchronized(this){
 				resultLock=true;
 			}
-	//		System.out.println("results are in at "+elapsed + "ns");
+			//		System.out.println("results are in at "+elapsed + "ns");
 			//determine winner
-		//	System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
+			//	System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
 
 			results[throwCount]=new ThrowResult(client_a.lastThrow,client_b.lastThrow,(client_a.submitTime-start),(client_b.submitTime-start));
 			results[throwCount].findWinner();
@@ -466,24 +489,25 @@ public class Server {
 				e.printStackTrace();
 			}
 		}
-		
+
 		if(!master){
 			this.garbage_counter-=(this.throw_number)*4;
 		}else{
 			this.garbage_counter-=this.throw_number*2;
 		}
 		System.out.println("garbage "+this.garbage_counter);
-		
+
 
 		//send shutdown signal
 		sendShutdown(client_a);
-		
+
 		if(!master){
 			sendShutdown(client_b);
 		}
 		calculateTotals();
 		displayResults();
-	
+
+		writeResultsToFile("result_"+System.currentTimeMillis()+".csv");
 		this.running=false;
 		try {
 			udpThread.join(100);
@@ -505,17 +529,48 @@ public class Server {
 		}
 	}
 	public void writeResultsToFile(String file){
-		
-		
+		try {
+			String comma="\",\"";
+			PrintWriter fileOut=new PrintWriter(new File(file));
+			fileOut.print("\""+client_a.name+comma+client_b.name+comma);
+			if(Awins>Bwins&&Awins>(Awins+Bwins+ties)/2.){
+				fileOut.println("The winner is "+client_a.name+"\"");
+			}else if(Bwins>Bwins&&Bwins>(Awins+Bwins+ties)/2.){
+				fileOut.println("The winner is "+client_b.name+"\"");
+			}else{
+				fileOut.println("Clients TIE!"+"\"");
+			}
+			fileOut.println("\""+Awins+comma+Bwins+comma+ties+"\"");
+			for(int i=0;i<this.results.length;i++){
+				fileOut.print("\""+results[i].AThrow+comma+results[i].AThrowTime+comma+
+						results[i].BThrow+comma+results[i].BThrowTime+comma);
+
+				switch(results[i].winner){
+				case A:
+					fileOut.println(client_a.name+" won\"");
+					break;
+				case B:
+					fileOut.println(client_b.name+" won\"");
+					break;
+				default:
+					fileOut.println("Tie\"");
+					break;
+				}
+			}
+			fileOut.close();
+		} catch (FileNotFoundException e) {
+			System.out.println("file write error");
+			e.printStackTrace();
+		}
 	}
-	
+
 	public void displayResults(){
-		
+
 		System.out.println("\nFINAL RESULTS:");
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_a.name,Awins,Bwins,ties);
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_b.name,Bwins,Awins,ties);
 	}
-	
+
 	/**
 	 * @param args
 	 */
@@ -524,7 +579,7 @@ public class Server {
 
 		if(args.length<6){
 			System.out.println("usage: Server secure_port_a secure_port_b muticast_port broadcast_ip throw_number timeout_ms");
-			System.out.println("example:Java Server 5500 5501 6789 230.0.0.1 1000 100000000 false");
+			System.out.println("example:Java Server 5500 5501 6789 230.0.0.1 1000 10000000 false");
 			System.exit(1);
 		}
 		System.out.println("Server Starting");
@@ -570,7 +625,7 @@ public class Server {
 			this.BThrowTime=BThrowTime;
 		}
 		public void findWinner(){
-			if(AThrow!=RPSThrow.garbage && AThrow==BThrow){
+			if(AThrow==RPSThrow.garbage && AThrow==BThrow){
 				winner=Winner.Tie;
 			}
 			else if(AThrow!=RPSThrow.garbage&&BThrow==RPSThrow.garbage){
