@@ -1,0 +1,7471 @@
+debug: len 11
+debug: len 9
+broadcast 230.0.0.1
+debug: len 4
+port bytes
+0 0 26 -123 
+port is 6789
+debug: len 10
+name: pinky
+garbage: 121
+rock: -105
+paper: -22
+scissors: -26
+request: -93 -90
+client_signature: -98
+shutdownSignal: 4 -73
+resultSignature: 28
+
+My oppenent is pigeon_milk
+joined multicast group
+0 0 0 
+0 0 0 
+0 0 0 
+no clue, throwing a rand
+I throw 2
+-------
+they threw 2
+0 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+0 0 0 
+0 0 0 
+1 0 0 
+I throw 1
+-------
+they threw 0
+1 0 0 
+0 0 0 
+1 0 0 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+1 0 1 
+0 0 0 
+1 0 0 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+1 0 1 
+0 0 0 
+1 0 1 
+I throw 1
+-------
+they threw 2
+1 0 1 
+0 0 0 
+1 0 2 
+I throw 1
+-------
+they threw 0
+1 0 1 
+0 0 0 
+2 0 2 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+1 0 2 
+0 0 0 
+2 0 2 
+I throw 2
+-------
+they threw 0
+1 0 2 
+0 0 0 
+3 0 2 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+2 0 2 
+0 0 0 
+3 0 2 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+3 0 2 
+0 0 0 
+3 0 2 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+4 0 2 
+0 0 0 
+3 0 2 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 3 
+0 0 0 
+3 0 2 
+I throw 1
+-------
+they threw 0
+4 0 3 
+0 0 0 
+4 0 2 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 4 
+0 0 0 
+4 0 2 
+I throw 1
+-------
+they threw 0
+4 0 4 
+0 0 0 
+5 0 2 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 5 
+0 0 0 
+5 0 2 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+4 0 5 
+0 0 0 
+5 0 3 
+I throw 1
+-------
+they threw 2
+4 0 5 
+0 0 0 
+5 0 4 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 5 
+0 0 0 
+5 0 5 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+4 0 5 
+0 0 0 
+5 0 6 
+I throw 2
+-------
+they threw 2
+4 0 5 
+0 0 0 
+5 0 7 
+I throw 1
+-------
+they threw 2
+4 0 5 
+0 0 0 
+5 0 8 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+4 0 5 
+0 0 0 
+5 0 9 
+I throw 2
+-------
+they threw 2
+4 0 5 
+0 0 0 
+5 0 10 
+I throw 1
+-------
+they threw 2
+4 0 5 
+0 0 0 
+5 0 11 
+I throw 1
+-------
+they threw 0
+4 0 5 
+0 0 0 
+6 0 11 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 6 
+0 0 0 
+6 0 11 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+4 0 6 
+0 0 0 
+6 0 12 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+4 0 6 
+0 0 0 
+6 0 13 
+I throw 1
+-------
+they threw 2
+4 0 6 
+0 0 0 
+6 0 14 
+I throw 2
+-------
+they threw 0
+4 0 6 
+0 0 0 
+7 0 14 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+5 0 6 
+0 0 0 
+7 0 14 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+5 0 7 
+0 0 0 
+7 0 14 
+I throw 2
+-------
+they threw 0
+5 0 7 
+0 0 0 
+8 0 14 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+6 0 7 
+0 0 0 
+8 0 14 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+6 0 8 
+0 0 0 
+8 0 14 
+I throw 2
+-------
+they threw 2
+6 0 8 
+0 0 0 
+8 0 15 
+I throw 2
+-------
+they threw 2
+6 0 8 
+0 0 0 
+8 0 16 
+I throw 2
+-------
+they threw 2
+6 0 8 
+0 0 0 
+8 0 17 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+6 0 8 
+0 0 0 
+9 0 17 
+I throw 2
+-------
+they threw 2
+6 0 9 
+0 0 0 
+9 0 17 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+6 0 9 
+0 0 0 
+10 0 17 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+6 0 10 
+0 0 0 
+10 0 17 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+6 0 10 
+0 0 0 
+11 0 17 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+7 0 10 
+0 0 0 
+11 0 17 
+I throw 2
+-------
+they threw 0
+8 0 10 
+0 0 0 
+11 0 17 
+I throw 1
+-------
+they threw 2
+8 0 11 
+0 0 0 
+11 0 17 
+I throw 1
+-------
+they threw 0
+8 0 11 
+0 0 0 
+12 0 17 
+I throw 1
+-------
+they threw 0
+9 0 11 
+0 0 0 
+12 0 17 
+I throw 2
+-------
+they threw 0
+10 0 11 
+0 0 0 
+12 0 17 
+I throw 1
+-------
+they threw 2
+10 0 12 
+0 0 0 
+12 0 17 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+10 0 12 
+0 0 0 
+12 0 18 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+10 0 12 
+0 0 0 
+13 0 18 
+I throw 1
+-------
+they threw 2
+10 0 13 
+0 0 0 
+13 0 18 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+10 0 13 
+0 0 0 
+13 0 19 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+10 0 13 
+0 0 0 
+14 0 19 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+11 0 13 
+0 0 0 
+14 0 19 
+I throw 1
+-------
+they threw 2
+11 0 14 
+0 0 0 
+14 0 19 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+11 0 14 
+0 0 0 
+14 0 20 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+11 0 14 
+0 0 0 
+15 0 20 
+I throw 1
+-------
+they threw 0
+12 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+they threw 0
+13 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+14 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+15 0 14 
+0 0 0 
+15 0 20 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+16 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+they threw 0
+17 0 14 
+0 0 0 
+15 0 20 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+18 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+they threw 0
+19 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+20 0 14 
+0 0 0 
+15 0 20 
+I throw 2
+-------
+they threw 2
+20 0 15 
+0 0 0 
+15 0 20 
+I throw 1
+-------
+they threw 2
+20 0 15 
+0 0 0 
+15 0 21 
+I throw 1
+-------
+they threw 0
+20 0 15 
+0 0 0 
+16 0 21 
+I throw 1
+-------
+they threw 0
+21 0 15 
+0 0 0 
+16 0 21 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+21 0 16 
+0 0 0 
+16 0 21 
+I throw 1
+-------
+they threw 2
+21 0 16 
+0 0 0 
+16 0 22 
+I throw 2
+-------
+they threw 0
+21 0 16 
+0 0 0 
+17 0 22 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+22 0 16 
+0 0 0 
+17 0 22 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+22 0 17 
+0 0 0 
+17 0 22 
+I throw 1
+-------
+they threw 0
+22 0 17 
+0 0 0 
+18 0 22 
+I throw 2
+-------
+they threw 0
+23 0 17 
+0 0 0 
+18 0 22 
+I throw 1
+-------
+they threw 2
+23 0 18 
+0 0 0 
+18 0 22 
+I throw 2
+-------
+they threw 0
+23 0 18 
+0 0 0 
+19 0 22 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 18 
+0 0 0 
+19 0 22 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 19 
+0 0 0 
+19 0 22 
+I throw 2
+-------
+they threw 0
+24 0 19 
+0 0 0 
+20 0 22 
+I throw 1
+-------
+they threw 2
+24 0 20 
+0 0 0 
+20 0 22 
+I throw 1
+-------
+they threw 0
+24 0 20 
+0 0 0 
+21 0 22 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 21 
+0 0 0 
+21 0 22 
+I throw 2
+-------
+they threw 2
+24 0 21 
+0 0 0 
+21 0 23 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 21 
+0 0 0 
+22 0 23 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 22 
+0 0 0 
+22 0 23 
+I throw 2
+-------
+they threw 0
+24 0 22 
+0 0 0 
+23 0 23 
+I throw 1
+-------
+they threw 2
+24 0 23 
+0 0 0 
+23 0 23 
+I throw 1
+-------
+they threw 0
+24 0 23 
+0 0 0 
+24 0 23 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 24 
+0 0 0 
+24 0 23 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+24 0 24 
+0 0 0 
+25 0 23 
+I throw 1
+-------
+they threw 2
+24 0 25 
+0 0 0 
+25 0 23 
+I throw 1
+-------
+they threw 0
+24 0 25 
+0 0 0 
+26 0 23 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 26 
+0 0 0 
+26 0 23 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+24 0 26 
+0 0 0 
+27 0 23 
+I throw 2
+-------
+they threw 2
+24 0 27 
+0 0 0 
+27 0 23 
+I throw 1
+-------
+they threw 2
+24 0 27 
+0 0 0 
+27 0 24 
+I throw 1
+-------
+they threw 0
+24 0 27 
+0 0 0 
+28 0 24 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 28 
+0 0 0 
+28 0 24 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 28 
+0 0 0 
+29 0 24 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 29 
+0 0 0 
+29 0 24 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+24 0 29 
+0 0 0 
+30 0 24 
+I throw 2
+-------
+they threw 2
+24 0 30 
+0 0 0 
+30 0 24 
+I throw 1
+-------
+they threw 2
+24 0 30 
+0 0 0 
+30 0 25 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 30 
+0 0 0 
+30 0 26 
+I throw 1
+-------
+they threw 0
+24 0 30 
+0 0 0 
+31 0 26 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 31 
+0 0 0 
+31 0 26 
+I throw 1
+-------
+they threw 0
+24 0 31 
+0 0 0 
+32 0 26 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 32 
+0 0 0 
+32 0 26 
+I throw 1
+-------
+they threw 0
+24 0 32 
+0 0 0 
+33 0 26 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 33 
+0 0 0 
+33 0 26 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 33 
+0 0 0 
+34 0 26 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 34 
+0 0 0 
+34 0 26 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+24 0 34 
+0 0 0 
+35 0 26 
+I throw 1
+-------
+they threw 2
+24 0 35 
+0 0 0 
+35 0 26 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 27 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 28 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 29 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 30 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 31 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 32 
+I throw 2
+-------
+they threw 2
+24 0 35 
+0 0 0 
+35 0 33 
+I throw 1
+-------
+they threw 2
+24 0 35 
+0 0 0 
+35 0 34 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 35 
+0 0 0 
+35 0 35 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 35 
+0 0 0 
+36 0 35 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 36 
+0 0 0 
+36 0 35 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+24 0 36 
+0 0 0 
+37 0 35 
+I throw 2
+-------
+they threw 2
+24 0 37 
+0 0 0 
+37 0 35 
+I throw 1
+-------
+they threw 2
+24 0 37 
+0 0 0 
+37 0 36 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+24 0 37 
+0 0 0 
+37 0 37 
+I throw 2
+-------
+they threw 2
+24 0 37 
+0 0 0 
+37 0 38 
+I throw 2
+-------
+they threw 2
+24 0 37 
+0 0 0 
+37 0 39 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+24 0 37 
+0 0 0 
+38 0 39 
+I throw 2
+-------
+they threw 0
+25 0 37 
+0 0 0 
+38 0 39 
+I throw 2
+-------
+they threw 2
+25 0 38 
+0 0 0 
+38 0 39 
+I throw 1
+-------
+they threw 2
+25 0 38 
+0 0 0 
+38 0 40 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+25 0 38 
+0 0 0 
+38 0 41 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+25 0 38 
+0 0 0 
+39 0 41 
+I throw 1
+-------
+they threw 0
+26 0 38 
+0 0 0 
+39 0 41 
+I throw 2
+-------
+they threw 0
+27 0 38 
+0 0 0 
+39 0 41 
+I throw 2
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 41 
+I throw 2
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 42 
+I throw 1
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 43 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+27 0 39 
+0 0 0 
+39 0 44 
+I throw 1
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 45 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+27 0 39 
+0 0 0 
+39 0 46 
+I throw 2
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 47 
+I throw 1
+-------
+they threw 2
+27 0 39 
+0 0 0 
+39 0 48 
+I throw 2
+-------
+they threw 0
+27 0 39 
+0 0 0 
+40 0 48 
+I throw 1
+-------
+they threw 2
+27 0 40 
+0 0 0 
+40 0 48 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+27 0 40 
+0 0 0 
+40 0 49 
+I throw 2
+-------
+they threw 2
+27 0 40 
+0 0 0 
+40 0 50 
+I throw 1
+-------
+they threw 2
+27 0 40 
+0 0 0 
+40 0 51 
+I throw 2
+-------
+they threw 0
+27 0 40 
+0 0 0 
+41 0 51 
+I throw 2
+-------
+they threw 2
+27 0 41 
+0 0 0 
+41 0 51 
+I throw 2
+-------
+they threw 2
+27 0 41 
+0 0 0 
+41 0 52 
+I throw 2
+-------
+they threw 2
+27 0 41 
+0 0 0 
+41 0 53 
+I throw 1
+-------
+they threw 2
+27 0 41 
+0 0 0 
+41 0 54 
+I throw 2
+-------
+they threw 0
+27 0 41 
+0 0 0 
+42 0 54 
+I throw 1
+-------
+they threw 2
+27 0 42 
+0 0 0 
+42 0 54 
+I throw 1
+-------
+they threw 0
+27 0 42 
+0 0 0 
+43 0 54 
+I throw 2
+-------
+they threw 0
+28 0 42 
+0 0 0 
+43 0 54 
+I throw 2
+-------
+they threw 2
+28 0 43 
+0 0 0 
+43 0 54 
+I throw 2
+-------
+they threw 2
+28 0 43 
+0 0 0 
+43 0 55 
+I throw 1
+-------
+they threw 2
+28 0 43 
+0 0 0 
+43 0 56 
+I throw 1
+-------
+they threw 0
+28 0 43 
+0 0 0 
+44 0 56 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+28 0 44 
+0 0 0 
+44 0 56 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+28 0 44 
+0 0 0 
+44 0 57 
+I throw 1
+-------
+they threw 2
+28 0 44 
+0 0 0 
+44 0 58 
+I throw 1
+-------
+they threw 0
+28 0 44 
+0 0 0 
+45 0 58 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+28 0 45 
+0 0 0 
+45 0 58 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+28 0 45 
+0 0 0 
+46 0 58 
+I throw 1
+-------
+they threw 0
+29 0 45 
+0 0 0 
+46 0 58 
+I throw 1
+-------
+they threw 0
+30 0 45 
+0 0 0 
+46 0 58 
+I throw 1
+-------
+they threw 0
+31 0 45 
+0 0 0 
+46 0 58 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+31 0 46 
+0 0 0 
+46 0 58 
+I throw 1
+-------
+they threw 0
+31 0 46 
+0 0 0 
+47 0 58 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+31 0 47 
+0 0 0 
+47 0 58 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+31 0 47 
+0 0 0 
+47 0 59 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 47 
+0 0 0 
+47 0 60 
+I throw 1
+-------
+they threw 2
+31 0 47 
+0 0 0 
+47 0 61 
+I throw 1
+-------
+they threw 0
+31 0 47 
+0 0 0 
+48 0 61 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+31 0 48 
+0 0 0 
+48 0 61 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 48 
+0 0 0 
+48 0 62 
+I throw 2
+-------
+they threw 2
+31 0 48 
+0 0 0 
+48 0 63 
+I throw 2
+-------
+they threw 2
+31 0 48 
+0 0 0 
+48 0 64 
+I throw 2
+-------
+they threw 2
+31 0 48 
+0 0 0 
+48 0 65 
+I throw 1
+-------
+they threw 2
+31 0 48 
+0 0 0 
+48 0 66 
+I throw 2
+-------
+they threw 0
+31 0 48 
+0 0 0 
+49 0 66 
+I throw 1
+-------
+they threw 2
+31 0 49 
+0 0 0 
+49 0 66 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+31 0 49 
+0 0 0 
+49 0 67 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 49 
+0 0 0 
+49 0 68 
+I throw 1
+-------
+they threw 2
+31 0 49 
+0 0 0 
+49 0 69 
+I throw 2
+-------
+they threw 0
+31 0 49 
+0 0 0 
+50 0 69 
+I throw 1
+-------
+they threw 2
+31 0 50 
+0 0 0 
+50 0 69 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 50 
+0 0 0 
+50 0 70 
+I throw 2
+-------
+they threw 2
+31 0 50 
+0 0 0 
+50 0 71 
+I throw 1
+-------
+they threw 2
+31 0 50 
+0 0 0 
+50 0 72 
+I throw 2
+-------
+they threw 0
+31 0 50 
+0 0 0 
+51 0 72 
+I throw 2
+-------
+they threw 2
+31 0 51 
+0 0 0 
+51 0 72 
+I throw 2
+-------
+they threw 2
+31 0 51 
+0 0 0 
+51 0 73 
+I throw 1
+-------
+they threw 2
+31 0 51 
+0 0 0 
+51 0 74 
+I throw 1
+-------
+they threw 0
+31 0 51 
+0 0 0 
+52 0 74 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 52 
+0 0 0 
+52 0 74 
+I throw 2
+-------
+they threw 2
+31 0 52 
+0 0 0 
+52 0 75 
+I throw 2
+-------
+they threw 2
+31 0 52 
+0 0 0 
+52 0 76 
+I throw 2
+-------
+they threw 2
+31 0 52 
+0 0 0 
+52 0 77 
+I throw 2
+-------
+they threw 2
+31 0 52 
+0 0 0 
+52 0 78 
+I throw 1
+-------
+they threw 2
+31 0 52 
+0 0 0 
+52 0 79 
+I throw 1
+-------
+they threw 0
+31 0 52 
+0 0 0 
+53 0 79 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+31 0 53 
+0 0 0 
+53 0 79 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+31 0 53 
+0 0 0 
+54 0 79 
+I throw 2
+-------
+they threw 2
+31 0 54 
+0 0 0 
+54 0 79 
+I throw 2
+-------
+they threw 2
+31 0 54 
+0 0 0 
+54 0 80 
+I throw 2
+-------
+they threw 2
+31 0 54 
+0 0 0 
+54 0 81 
+I throw 2
+-------
+they threw 2
+31 0 54 
+0 0 0 
+54 0 82 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+31 0 54 
+0 0 0 
+55 0 82 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+32 0 54 
+0 0 0 
+55 0 82 
+I throw 2
+-------
+they threw 2
+32 0 55 
+0 0 0 
+55 0 82 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+32 0 55 
+0 0 0 
+56 0 82 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+32 0 56 
+0 0 0 
+56 0 82 
+I throw 1
+-------
+they threw 0
+32 0 56 
+0 0 0 
+57 0 82 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+32 0 57 
+0 0 0 
+57 0 82 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+32 0 57 
+0 0 0 
+58 0 82 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+33 0 57 
+0 0 0 
+58 0 82 
+I throw 2
+-------
+they threw 2
+33 0 58 
+0 0 0 
+58 0 82 
+I throw 1
+-------
+they threw 2
+33 0 58 
+0 0 0 
+58 0 83 
+I throw 2
+-------
+they threw 0
+33 0 58 
+0 0 0 
+59 0 83 
+I throw 1
+-------
+they threw 2
+33 0 59 
+0 0 0 
+59 0 83 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+33 0 59 
+0 0 0 
+59 0 84 
+I throw 1
+-------
+they threw 0
+33 0 59 
+0 0 0 
+60 0 84 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+33 0 60 
+0 0 0 
+60 0 84 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+33 0 60 
+0 0 0 
+61 0 84 
+I throw 2
+-------
+they threw 0
+34 0 60 
+0 0 0 
+61 0 84 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+35 0 60 
+0 0 0 
+61 0 84 
+I throw 2
+-------
+they threw 0
+36 0 60 
+0 0 0 
+61 0 84 
+I throw 1
+-------
+they threw 2
+36 0 61 
+0 0 0 
+61 0 84 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+36 0 61 
+0 0 0 
+61 0 85 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+36 0 61 
+0 0 0 
+62 0 85 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+36 0 62 
+0 0 0 
+62 0 85 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+36 0 62 
+0 0 0 
+62 0 86 
+I throw 1
+-------
+they threw 2
+36 0 62 
+0 0 0 
+62 0 87 
+I throw 2
+-------
+they threw 0
+36 0 62 
+0 0 0 
+63 0 87 
+I throw 2
+-------
+they threw 2
+36 0 63 
+0 0 0 
+63 0 87 
+I throw 2
+-------
+they threw 2
+36 0 63 
+0 0 0 
+63 0 88 
+I throw 1
+-------
+they threw 2
+36 0 63 
+0 0 0 
+63 0 89 
+I throw 2
+-------
+they threw 0
+36 0 63 
+0 0 0 
+64 0 89 
+I throw 2
+-------
+they threw 2
+36 0 64 
+0 0 0 
+64 0 89 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+36 0 64 
+0 0 0 
+65 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+36 0 65 
+0 0 0 
+65 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+36 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+37 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+38 0 65 
+0 0 0 
+66 0 89 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+39 0 65 
+0 0 0 
+66 0 89 
+I throw 1
+-------
+they threw 0
+40 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+they threw 0
+41 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+42 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+43 0 65 
+0 0 0 
+66 0 89 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+44 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+they threw 0
+45 0 65 
+0 0 0 
+66 0 89 
+I throw 2
+-------
+they threw 2
+45 0 66 
+0 0 0 
+66 0 89 
+I throw 1
+-------
+they threw 2
+45 0 66 
+0 0 0 
+66 0 90 
+I throw 1
+-------
+they threw 0
+45 0 66 
+0 0 0 
+67 0 90 
+I throw 1
+-------
+they threw 0
+46 0 66 
+0 0 0 
+67 0 90 
+I throw 2
+-------
+they threw 0
+47 0 66 
+0 0 0 
+67 0 90 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+48 0 66 
+0 0 0 
+67 0 90 
+I throw 2
+-------
+they threw 0
+49 0 66 
+0 0 0 
+67 0 90 
+I throw 1
+-------
+they threw 2
+49 0 67 
+0 0 0 
+67 0 90 
+I throw 1
+-------
+they threw 0
+49 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+they threw 0
+50 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+51 0 67 
+0 0 0 
+68 0 90 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+52 0 67 
+0 0 0 
+68 0 90 
+I throw 1
+-------
+they threw 0
+53 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+they threw 0
+54 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+55 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+56 0 67 
+0 0 0 
+68 0 90 
+I throw 2
+-------
+they threw 2
+56 0 68 
+0 0 0 
+68 0 90 
+I throw 1
+-------
+they threw 2
+56 0 68 
+0 0 0 
+68 0 91 
+I throw 1
+-------
+they threw 0
+56 0 68 
+0 0 0 
+69 0 91 
+I throw 1
+-------
+they threw 0
+57 0 68 
+0 0 0 
+69 0 91 
+I throw 1
+-------
+they threw 0
+58 0 68 
+0 0 0 
+69 0 91 
+I throw 1
+-------
+they threw 0
+59 0 68 
+0 0 0 
+69 0 91 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+59 0 69 
+0 0 0 
+69 0 91 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+59 0 69 
+0 0 0 
+69 0 92 
+I throw 1
+-------
+they threw 2
+59 0 69 
+0 0 0 
+69 0 93 
+I throw 1
+-------
+they threw 0
+59 0 69 
+0 0 0 
+70 0 93 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+59 0 70 
+0 0 0 
+70 0 93 
+I throw 1
+-------
+they threw 0
+59 0 70 
+0 0 0 
+71 0 93 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+59 0 71 
+0 0 0 
+71 0 93 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+59 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+60 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+they threw 0
+61 0 71 
+0 0 0 
+72 0 93 
+I throw 2
+-------
+they threw 0
+62 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+63 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+they threw 0
+64 0 71 
+0 0 0 
+72 0 93 
+I throw 2
+-------
+they threw 0
+65 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+66 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+they threw 0
+67 0 71 
+0 0 0 
+72 0 93 
+I throw 2
+-------
+they threw 0
+68 0 71 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+they threw 2
+68 0 72 
+0 0 0 
+72 0 93 
+I throw 1
+-------
+they threw 0
+68 0 72 
+0 0 0 
+73 0 93 
+I throw 1
+-------
+they threw 0
+69 0 72 
+0 0 0 
+73 0 93 
+I throw 2
+-------
+they threw 0
+70 0 72 
+0 0 0 
+73 0 93 
+I throw 1
+-------
+they threw 2
+70 0 73 
+0 0 0 
+73 0 93 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+70 0 73 
+0 0 0 
+73 0 94 
+I throw 2
+-------
+they threw 2
+70 0 73 
+0 0 0 
+73 0 95 
+I throw 2
+-------
+they threw 2
+70 0 73 
+0 0 0 
+73 0 96 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+70 0 73 
+0 0 0 
+74 0 96 
+I throw 1
+-------
+they threw 0
+71 0 73 
+0 0 0 
+74 0 96 
+I throw 2
+-------
+they threw 0
+72 0 73 
+0 0 0 
+74 0 96 
+I throw 2
+-------
+they threw 2
+72 0 74 
+0 0 0 
+74 0 96 
+I throw 2
+-------
+they threw 2
+72 0 74 
+0 0 0 
+74 0 97 
+I throw 2
+-------
+they threw 2
+72 0 74 
+0 0 0 
+74 0 98 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+72 0 74 
+0 0 0 
+75 0 98 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+72 0 75 
+0 0 0 
+75 0 98 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+72 0 75 
+0 0 0 
+76 0 98 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+73 0 75 
+0 0 0 
+76 0 98 
+I throw 1
+-------
+they threw 0
+74 0 75 
+0 0 0 
+76 0 98 
+I throw 2
+-------
+they threw 0
+75 0 75 
+0 0 0 
+76 0 98 
+I throw 2
+-------
+they threw 2
+75 0 76 
+0 0 0 
+76 0 98 
+I throw 2
+-------
+they threw 2
+75 0 76 
+0 0 0 
+76 0 99 
+I throw 1
+-------
+they threw 2
+75 0 76 
+0 0 0 
+76 0 100 
+I throw 2
+-------
+they threw 0
+75 0 76 
+0 0 0 
+77 0 100 
+I throw 1
+-------
+they threw 2
+75 0 77 
+0 0 0 
+77 0 100 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+75 0 77 
+0 0 0 
+77 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+75 0 77 
+0 0 0 
+78 0 101 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+76 0 77 
+0 0 0 
+78 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+76 0 78 
+0 0 0 
+78 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+76 0 78 
+0 0 0 
+79 0 101 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+77 0 78 
+0 0 0 
+79 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+77 0 79 
+0 0 0 
+79 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+77 0 79 
+0 0 0 
+80 0 101 
+I throw 1
+-------
+they threw 2
+77 0 80 
+0 0 0 
+80 0 101 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+77 0 80 
+0 0 0 
+80 0 102 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+77 0 80 
+0 0 0 
+81 0 102 
+I throw 2
+-------
+they threw 2
+77 0 81 
+0 0 0 
+81 0 102 
+I throw 2
+-------
+they threw 2
+77 0 81 
+0 0 0 
+81 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+77 0 81 
+0 0 0 
+82 0 103 
+I throw 2
+-------
+they threw 2
+77 0 82 
+0 0 0 
+82 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+77 0 82 
+0 0 0 
+83 0 103 
+I throw 2
+-------
+they threw 0
+78 0 82 
+0 0 0 
+83 0 103 
+I throw 2
+-------
+they threw 2
+78 0 83 
+0 0 0 
+83 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+78 0 83 
+0 0 0 
+84 0 103 
+I throw 1
+-------
+they threw 2
+78 0 84 
+0 0 0 
+84 0 103 
+I throw 2
+-------
+they threw 0
+78 0 84 
+0 0 0 
+85 0 103 
+I throw 1
+-------
+they threw 2
+78 0 85 
+0 0 0 
+85 0 103 
+I throw 1
+-------
+they threw 0
+78 0 85 
+0 0 0 
+86 0 103 
+I throw 1
+-------
+they threw 0
+79 0 85 
+0 0 0 
+86 0 103 
+I throw 1
+-------
+they threw 0
+80 0 85 
+0 0 0 
+86 0 103 
+I throw 1
+-------
+they threw 0
+81 0 85 
+0 0 0 
+86 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+81 0 86 
+0 0 0 
+86 0 103 
+I throw 2
+-------
+they threw 0
+81 0 86 
+0 0 0 
+87 0 103 
+I throw 2
+-------
+they threw 2
+81 0 87 
+0 0 0 
+87 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+81 0 87 
+0 0 0 
+88 0 103 
+I throw 2
+-------
+they threw 2
+81 0 88 
+0 0 0 
+88 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+81 0 88 
+0 0 0 
+89 0 103 
+I throw 1
+-------
+they threw 2
+81 0 89 
+0 0 0 
+89 0 103 
+I throw 1
+-------
+they threw 0
+81 0 89 
+0 0 0 
+90 0 103 
+I throw 1
+-------
+they threw 0
+82 0 89 
+0 0 0 
+90 0 103 
+I throw 2
+-------
+they threw 0
+83 0 89 
+0 0 0 
+90 0 103 
+I throw 1
+-------
+they threw 2
+83 0 90 
+0 0 0 
+90 0 103 
+I throw 1
+-------
+they threw 0
+83 0 90 
+0 0 0 
+91 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+83 0 91 
+0 0 0 
+91 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+83 0 91 
+0 0 0 
+92 0 103 
+I throw 1
+-------
+they threw 0
+84 0 91 
+0 0 0 
+92 0 103 
+I throw 2
+-------
+they threw 0
+85 0 91 
+0 0 0 
+92 0 103 
+I throw 2
+-------
+they threw 2
+85 0 92 
+0 0 0 
+92 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+85 0 92 
+0 0 0 
+93 0 103 
+I throw 1
+-------
+they threw 0
+86 0 92 
+0 0 0 
+93 0 103 
+I throw 1
+-------
+they threw 0
+87 0 92 
+0 0 0 
+93 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+87 0 93 
+0 0 0 
+93 0 103 
+I throw 1
+-------
+they threw 0
+87 0 93 
+0 0 0 
+94 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+87 0 94 
+0 0 0 
+94 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+87 0 94 
+0 0 0 
+95 0 103 
+I throw 1
+-------
+they threw 0
+88 0 94 
+0 0 0 
+95 0 103 
+I throw 1
+-------
+they threw 0
+89 0 94 
+0 0 0 
+95 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+89 0 95 
+0 0 0 
+95 0 103 
+I throw 1
+-------
+they threw 0
+89 0 95 
+0 0 0 
+96 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+89 0 96 
+0 0 0 
+96 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+89 0 96 
+0 0 0 
+97 0 103 
+I throw 2
+-------
+they threw 2
+89 0 97 
+0 0 0 
+97 0 103 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+89 0 97 
+0 0 0 
+98 0 103 
+I throw 1
+-------
+they threw 2
+89 0 98 
+0 0 0 
+98 0 103 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+89 0 98 
+0 0 0 
+98 0 104 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+89 0 98 
+0 0 0 
+98 0 105 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+89 0 98 
+0 0 0 
+99 0 105 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+89 0 99 
+0 0 0 
+99 0 105 
+I throw 1
+-------
+they threw 0
+89 0 99 
+0 0 0 
+100 0 105 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+89 0 100 
+0 0 0 
+100 0 105 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+89 0 100 
+0 0 0 
+100 0 106 
+I throw 1
+-------
+they threw 2
+89 0 100 
+0 0 0 
+100 0 107 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+89 0 100 
+0 0 0 
+100 0 108 
+I throw 2
+-------
+they threw 0
+89 0 100 
+0 0 0 
+101 0 108 
+I throw 2
+-------
+they threw 2
+89 0 101 
+0 0 0 
+101 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+89 0 101 
+0 0 0 
+102 0 108 
+I throw 2
+-------
+they threw 2
+89 0 102 
+0 0 0 
+102 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+89 0 102 
+0 0 0 
+103 0 108 
+I throw 2
+-------
+they threw 2
+89 0 103 
+0 0 0 
+103 0 108 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+89 0 103 
+0 0 0 
+104 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+89 0 104 
+0 0 0 
+104 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+89 0 104 
+0 0 0 
+105 0 108 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+90 0 104 
+0 0 0 
+105 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 105 
+0 0 0 
+105 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+90 0 105 
+0 0 0 
+106 0 108 
+I throw 1
+-------
+they threw 2
+90 0 106 
+0 0 0 
+106 0 108 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 106 
+0 0 0 
+106 0 109 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+90 0 106 
+0 0 0 
+107 0 109 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 107 
+0 0 0 
+107 0 109 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+90 0 107 
+0 0 0 
+108 0 109 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 108 
+0 0 0 
+108 0 109 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+90 0 108 
+0 0 0 
+109 0 109 
+I throw 1
+-------
+they threw 2
+90 0 109 
+0 0 0 
+109 0 109 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 109 
+0 0 0 
+109 0 110 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+90 0 109 
+0 0 0 
+110 0 110 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 110 
+0 0 0 
+110 0 110 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+90 0 110 
+0 0 0 
+111 0 110 
+I throw 1
+-------
+they threw 2
+90 0 111 
+0 0 0 
+111 0 110 
+I throw 2
+-------
+they threw 0
+90 0 111 
+0 0 0 
+112 0 110 
+I throw 1
+-------
+they threw 2
+90 0 112 
+0 0 0 
+112 0 110 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+90 0 112 
+0 0 0 
+112 0 111 
+I throw 2
+-------
+they threw 0
+90 0 112 
+0 0 0 
+113 0 111 
+I throw 1
+-------
+they threw 2
+90 0 113 
+0 0 0 
+113 0 111 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+90 0 113 
+0 0 0 
+113 0 112 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+90 0 113 
+0 0 0 
+114 0 112 
+I throw 2
+-------
+they threw 0
+91 0 113 
+0 0 0 
+114 0 112 
+I throw 1
+-------
+they threw 2
+91 0 114 
+0 0 0 
+114 0 112 
+I throw 2
+-------
+they threw 0
+91 0 114 
+0 0 0 
+115 0 112 
+I throw 1
+-------
+they threw 2
+91 0 115 
+0 0 0 
+115 0 112 
+I throw 1
+-------
+they threw 0
+91 0 115 
+0 0 0 
+116 0 112 
+I throw 2
+-------
+they threw 0
+92 0 115 
+0 0 0 
+116 0 112 
+I throw 2
+-------
+they threw 2
+92 0 116 
+0 0 0 
+116 0 112 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+92 0 116 
+0 0 0 
+117 0 112 
+I throw 2
+-------
+they threw 0
+93 0 116 
+0 0 0 
+117 0 112 
+I throw 1
+-------
+they threw 2
+93 0 117 
+0 0 0 
+117 0 112 
+I throw 2
+-------
+they threw 0
+93 0 117 
+0 0 0 
+118 0 112 
+I throw 2
+-------
+they threw 2
+93 0 118 
+0 0 0 
+118 0 112 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+93 0 118 
+0 0 0 
+119 0 112 
+I throw 1
+-------
+they threw 0
+94 0 118 
+0 0 0 
+119 0 112 
+I throw 1
+-------
+they threw 0
+95 0 118 
+0 0 0 
+119 0 112 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+95 0 119 
+0 0 0 
+119 0 112 
+I throw 2
+-------
+they threw 0
+95 0 119 
+0 0 0 
+120 0 112 
+I throw 2
+-------
+they threw 2
+95 0 120 
+0 0 0 
+120 0 112 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+95 0 120 
+0 0 0 
+121 0 112 
+I throw 1
+-------
+they threw 2
+95 0 121 
+0 0 0 
+121 0 112 
+I throw 2
+-------
+they threw 0
+95 0 121 
+0 0 0 
+122 0 112 
+I throw 1
+-------
+they threw 2
+95 0 122 
+0 0 0 
+122 0 112 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+95 0 122 
+0 0 0 
+122 0 113 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+95 0 122 
+0 0 0 
+123 0 113 
+I throw 1
+-------
+they threw 0
+96 0 122 
+0 0 0 
+123 0 113 
+I throw 1
+-------
+they threw 0
+97 0 122 
+0 0 0 
+123 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+97 0 123 
+0 0 0 
+123 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+97 0 123 
+0 0 0 
+124 0 113 
+I throw 1
+-------
+they threw 2
+97 0 124 
+0 0 0 
+124 0 113 
+I throw 2
+-------
+they threw 0
+97 0 124 
+0 0 0 
+125 0 113 
+I throw 1
+-------
+they threw 2
+97 0 125 
+0 0 0 
+125 0 113 
+I throw 2
+-------
+they threw 0
+97 0 125 
+0 0 0 
+126 0 113 
+I throw 1
+-------
+they threw 2
+97 0 126 
+0 0 0 
+126 0 113 
+I throw 2
+-------
+they threw 0
+97 0 126 
+0 0 0 
+127 0 113 
+I throw 1
+-------
+they threw 2
+97 0 127 
+0 0 0 
+127 0 113 
+I throw 1
+-------
+they threw 0
+97 0 127 
+0 0 0 
+128 0 113 
+I throw 1
+-------
+they threw 0
+98 0 127 
+0 0 0 
+128 0 113 
+I throw 1
+-------
+they threw 0
+99 0 127 
+0 0 0 
+128 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+99 0 128 
+0 0 0 
+128 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+99 0 128 
+0 0 0 
+129 0 113 
+I throw 2
+-------
+they threw 2
+99 0 129 
+0 0 0 
+129 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+99 0 129 
+0 0 0 
+130 0 113 
+I throw 2
+-------
+they threw 2
+99 0 130 
+0 0 0 
+130 0 113 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+99 0 130 
+0 0 0 
+131 0 113 
+I throw 2
+-------
+they threw 0
+100 0 130 
+0 0 0 
+131 0 113 
+I throw 2
+-------
+they threw 2
+100 0 131 
+0 0 0 
+131 0 113 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+100 0 131 
+0 0 0 
+132 0 113 
+I throw 2
+-------
+they threw 0
+101 0 131 
+0 0 0 
+132 0 113 
+I throw 2
+-------
+they threw 2
+101 0 132 
+0 0 0 
+132 0 113 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+101 0 132 
+0 0 0 
+133 0 113 
+I throw 1
+-------
+they threw 0
+102 0 132 
+0 0 0 
+133 0 113 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+102 0 133 
+0 0 0 
+133 0 113 
+I throw 1
+-------
+they threw 0
+102 0 133 
+0 0 0 
+134 0 113 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+102 0 134 
+0 0 0 
+134 0 113 
+I throw 1
+-------
+they threw 2
+102 0 134 
+0 0 0 
+134 0 114 
+I throw 1
+-------
+they threw 0
+102 0 134 
+0 0 0 
+135 0 114 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+102 0 135 
+0 0 0 
+135 0 114 
+I throw 2
+-------
+they threw 2
+102 0 135 
+0 0 0 
+135 0 115 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+102 0 135 
+0 0 0 
+136 0 115 
+I throw 2
+-------
+they threw 2
+102 0 136 
+0 0 0 
+136 0 115 
+I throw 2
+-------
+they threw 2
+102 0 136 
+0 0 0 
+136 0 116 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+102 0 136 
+0 0 0 
+137 0 116 
+I throw 2
+-------
+they threw 2
+102 0 137 
+0 0 0 
+137 0 116 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+102 0 137 
+0 0 0 
+138 0 116 
+I throw 2
+-------
+they threw 0
+103 0 137 
+0 0 0 
+138 0 116 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+104 0 137 
+0 0 0 
+138 0 116 
+I throw 2
+-------
+they threw 0
+105 0 137 
+0 0 0 
+138 0 116 
+I throw 2
+-------
+they threw 2
+105 0 138 
+0 0 0 
+138 0 116 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+105 0 138 
+0 0 0 
+139 0 116 
+I throw 2
+-------
+they threw 0
+106 0 138 
+0 0 0 
+139 0 116 
+I throw 2
+-------
+they threw 2
+106 0 139 
+0 0 0 
+139 0 116 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+106 0 139 
+0 0 0 
+140 0 116 
+I throw 2
+-------
+they threw 2
+106 0 140 
+0 0 0 
+140 0 116 
+I throw 2
+-------
+they threw 2
+106 0 140 
+0 0 0 
+140 0 117 
+I throw 1
+-------
+they threw 2
+106 0 140 
+0 0 0 
+140 0 118 
+I throw 1
+-------
+they threw 0
+106 0 140 
+0 0 0 
+141 0 118 
+I throw 1
+-------
+they threw 0
+107 0 140 
+0 0 0 
+141 0 118 
+I throw 1
+-------
+they threw 0
+108 0 140 
+0 0 0 
+141 0 118 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+108 0 141 
+0 0 0 
+141 0 118 
+I throw 2
+-------
+they threw 2
+108 0 141 
+0 0 0 
+141 0 119 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+108 0 141 
+0 0 0 
+142 0 119 
+I throw 1
+-------
+they threw 0
+109 0 141 
+0 0 0 
+142 0 119 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+109 0 142 
+0 0 0 
+142 0 119 
+I throw 1
+-------
+they threw 0
+109 0 142 
+0 0 0 
+143 0 119 
+I throw 1
+-------
+they threw 0
+110 0 142 
+0 0 0 
+143 0 119 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+110 0 143 
+0 0 0 
+143 0 119 
+I throw 1
+-------
+they threw 2
+110 0 143 
+0 0 0 
+143 0 120 
+I throw 1
+-------
+they threw 0
+110 0 143 
+0 0 0 
+144 0 120 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+110 0 144 
+0 0 0 
+144 0 120 
+I throw 1
+-------
+they threw 2
+110 0 144 
+0 0 0 
+144 0 121 
+I throw 2
+-------
+they threw 0
+110 0 144 
+0 0 0 
+145 0 121 
+I throw 2
+-------
+they threw 2
+110 0 145 
+0 0 0 
+145 0 121 
+I throw 1
+-------
+they threw 2
+110 0 145 
+0 0 0 
+145 0 122 
+I throw 2
+-------
+they threw 0
+110 0 145 
+0 0 0 
+146 0 122 
+I throw 1
+-------
+they threw 2
+110 0 146 
+0 0 0 
+146 0 122 
+I throw 2
+-------
+they threw 0
+110 0 146 
+0 0 0 
+147 0 122 
+I throw 2
+-------
+they threw 2
+110 0 147 
+0 0 0 
+147 0 122 
+I throw 2
+-------
+they threw 2
+110 0 147 
+0 0 0 
+147 0 123 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+110 0 147 
+0 0 0 
+148 0 123 
+I throw 2
+-------
+they threw 0
+111 0 147 
+0 0 0 
+148 0 123 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+112 0 147 
+0 0 0 
+148 0 123 
+I throw 1
+-------
+they threw 0
+113 0 147 
+0 0 0 
+148 0 123 
+I throw 1
+-------
+they threw 0
+114 0 147 
+0 0 0 
+148 0 123 
+I throw 2
+-------
+they threw 0
+115 0 147 
+0 0 0 
+148 0 123 
+I throw 2
+-------
+they threw 2
+115 0 148 
+0 0 0 
+148 0 123 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+115 0 148 
+0 0 0 
+149 0 123 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+115 0 149 
+0 0 0 
+149 0 123 
+I throw 1
+-------
+they threw 2
+115 0 149 
+0 0 0 
+149 0 124 
+I throw 2
+-------
+they threw 0
+115 0 149 
+0 0 0 
+150 0 124 
+I throw 1
+-------
+they threw 2
+115 0 150 
+0 0 0 
+150 0 124 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+115 0 150 
+0 0 0 
+150 0 125 
+I throw 1
+-------
+they threw 0
+115 0 150 
+0 0 0 
+151 0 125 
+I throw 2
+-------
+they threw 0
+116 0 150 
+0 0 0 
+151 0 125 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+117 0 150 
+0 0 0 
+151 0 125 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+118 0 150 
+0 0 0 
+151 0 125 
+I throw 2
+-------
+they threw 2
+118 0 151 
+0 0 0 
+151 0 125 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+118 0 151 
+0 0 0 
+152 0 125 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+118 0 152 
+0 0 0 
+152 0 125 
+I throw 2
+-------
+they threw 0
+118 0 152 
+0 0 0 
+153 0 125 
+I throw 2
+-------
+they threw 2
+118 0 153 
+0 0 0 
+153 0 125 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+118 0 153 
+0 0 0 
+154 0 125 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+118 0 154 
+0 0 0 
+154 0 125 
+I throw 1
+-------
+they threw 0
+118 0 154 
+0 0 0 
+155 0 125 
+I throw 2
+-------
+they threw 0
+119 0 154 
+0 0 0 
+155 0 125 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+120 0 154 
+0 0 0 
+155 0 125 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+121 0 154 
+0 0 0 
+155 0 125 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+121 0 155 
+0 0 0 
+155 0 125 
+I throw 2
+-------
+they threw 2
+121 0 155 
+0 0 0 
+155 0 126 
+I throw 1
+-------
+they threw 2
+121 0 155 
+0 0 0 
+155 0 127 
+I throw 2
+-------
+they threw 0
+121 0 155 
+0 0 0 
+156 0 127 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+122 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+they threw 0
+123 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+124 0 155 
+0 0 0 
+156 0 127 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+125 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+they threw 0
+126 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+127 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+128 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+129 0 155 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+130 0 155 
+0 0 0 
+156 0 127 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+131 0 155 
+0 0 0 
+156 0 127 
+I throw 1
+-------
+they threw 0
+132 0 155 
+0 0 0 
+156 0 127 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+132 0 156 
+0 0 0 
+156 0 127 
+I throw 2
+-------
+they threw 0
+132 0 156 
+0 0 0 
+157 0 127 
+I throw 1
+-------
+they threw 2
+132 0 157 
+0 0 0 
+157 0 127 
+I throw 1
+-------
+they threw 0
+132 0 157 
+0 0 0 
+158 0 127 
+I throw 1
+-------
+they threw 0
+133 0 157 
+0 0 0 
+158 0 127 
+I throw 2
+-------
+they threw 0
+134 0 157 
+0 0 0 
+158 0 127 
+I throw 2
+-------
+they threw 2
+134 0 158 
+0 0 0 
+158 0 127 
+I throw 1
+-------
+they threw 2
+134 0 158 
+0 0 0 
+158 0 128 
+I throw 2
+-------
+they threw 0
+134 0 158 
+0 0 0 
+159 0 128 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+135 0 158 
+0 0 0 
+159 0 128 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+136 0 158 
+0 0 0 
+159 0 128 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+137 0 158 
+0 0 0 
+159 0 128 
+I throw 1
+-------
+they threw 0
+138 0 158 
+0 0 0 
+159 0 128 
+I throw 2
+-------
+they threw 0
+139 0 158 
+0 0 0 
+159 0 128 
+I throw 1
+-------
+they threw 2
+139 0 159 
+0 0 0 
+159 0 128 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+139 0 159 
+0 0 0 
+159 0 129 
+I throw 1
+-------
+they threw 0
+139 0 159 
+0 0 0 
+160 0 129 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+139 0 160 
+0 0 0 
+160 0 129 
+I throw 2
+-------
+they threw 0
+139 0 160 
+0 0 0 
+161 0 129 
+I throw 2
+-------
+they threw 2
+139 0 161 
+0 0 0 
+161 0 129 
+I throw 2
+-------
+they threw 2
+139 0 161 
+0 0 0 
+161 0 130 
+I throw 2
+-------
+they threw 2
+139 0 161 
+0 0 0 
+161 0 131 
+I throw 1
+-------
+they threw 2
+139 0 161 
+0 0 0 
+161 0 132 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+139 0 161 
+0 0 0 
+161 0 133 
+I throw 1
+-------
+they threw 0
+139 0 161 
+0 0 0 
+162 0 133 
+I throw 2
+-------
+they threw 0
+140 0 161 
+0 0 0 
+162 0 133 
+I throw 2
+-------
+they threw 2
+140 0 162 
+0 0 0 
+162 0 133 
+I throw 2
+-------
+they threw 2
+140 0 162 
+0 0 0 
+162 0 134 
+I throw 2
+-------
+they threw 2
+140 0 162 
+0 0 0 
+162 0 135 
+I throw 1
+-------
+they threw 2
+140 0 162 
+0 0 0 
+162 0 136 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+140 0 162 
+0 0 0 
+162 0 137 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+140 0 162 
+0 0 0 
+163 0 137 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+141 0 162 
+0 0 0 
+163 0 137 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+142 0 162 
+0 0 0 
+163 0 137 
+I throw 1
+-------
+they threw 0
+143 0 162 
+0 0 0 
+163 0 137 
+I throw 2
+-------
+they threw 0
+144 0 162 
+0 0 0 
+163 0 137 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+145 0 162 
+0 0 0 
+163 0 137 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+145 0 163 
+0 0 0 
+163 0 137 
+I throw 1
+-------
+they threw 2
+145 0 163 
+0 0 0 
+163 0 138 
+I throw 1
+-------
+they threw 0
+145 0 163 
+0 0 0 
+164 0 138 
+I throw 2
+-------
+they threw 0
+146 0 163 
+0 0 0 
+164 0 138 
+I throw 1
+-------
+they threw 2
+146 0 164 
+0 0 0 
+164 0 138 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+146 0 164 
+0 0 0 
+164 0 139 
+I throw 1
+-------
+they threw 0
+146 0 164 
+0 0 0 
+165 0 139 
+I throw 1
+-------
+they threw 0
+147 0 164 
+0 0 0 
+165 0 139 
+I throw 2
+-------
+they threw 0
+148 0 164 
+0 0 0 
+165 0 139 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+149 0 164 
+0 0 0 
+165 0 139 
+I throw 1
+-------
+they threw 2
+149 0 165 
+0 0 0 
+165 0 139 
+I throw 1
+-------
+they threw 0
+149 0 165 
+0 0 0 
+166 0 139 
+I throw 2
+-------
+they threw 0
+150 0 165 
+0 0 0 
+166 0 139 
+I throw 1
+-------
+they threw 2
+150 0 166 
+0 0 0 
+166 0 139 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+150 0 166 
+0 0 0 
+166 0 140 
+I throw 1
+-------
+they threw 2
+150 0 166 
+0 0 0 
+166 0 141 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+150 0 166 
+0 0 0 
+166 0 142 
+I throw 1
+-------
+they threw 2
+150 0 166 
+0 0 0 
+166 0 143 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+150 0 166 
+0 0 0 
+166 0 144 
+I throw 2
+-------
+they threw 0
+150 0 166 
+0 0 0 
+167 0 144 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+151 0 166 
+0 0 0 
+167 0 144 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+152 0 166 
+0 0 0 
+167 0 144 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+152 0 167 
+0 0 0 
+167 0 144 
+I throw 1
+-------
+they threw 2
+152 0 167 
+0 0 0 
+167 0 145 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+152 0 167 
+0 0 0 
+167 0 146 
+I throw 2
+-------
+they threw 0
+152 0 167 
+0 0 0 
+168 0 146 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+153 0 167 
+0 0 0 
+168 0 146 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+153 0 168 
+0 0 0 
+168 0 146 
+I throw 1
+-------
+they threw 0
+153 0 168 
+0 0 0 
+169 0 146 
+I throw 1
+-------
+they threw 0
+154 0 168 
+0 0 0 
+169 0 146 
+I throw 2
+-------
+they threw 0
+155 0 168 
+0 0 0 
+169 0 146 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+156 0 168 
+0 0 0 
+169 0 146 
+I throw 1
+-------
+they threw 0
+157 0 168 
+0 0 0 
+169 0 146 
+I throw 1
+-------
+they threw 0
+158 0 168 
+0 0 0 
+169 0 146 
+I throw 2
+-------
+they threw 0
+159 0 168 
+0 0 0 
+169 0 146 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+160 0 168 
+0 0 0 
+169 0 146 
+I throw 2
+-------
+they threw 2
+160 0 169 
+0 0 0 
+169 0 146 
+I throw 2
+-------
+they threw 2
+160 0 169 
+0 0 0 
+169 0 147 
+I throw 2
+-------
+they threw 2
+160 0 169 
+0 0 0 
+169 0 148 
+I throw 1
+-------
+they threw 2
+160 0 169 
+0 0 0 
+169 0 149 
+I throw 2
+-------
+they threw 0
+160 0 169 
+0 0 0 
+170 0 149 
+I throw 1
+-------
+they threw 2
+160 0 170 
+0 0 0 
+170 0 149 
+I throw 2
+-------
+they threw 0
+160 0 170 
+0 0 0 
+171 0 149 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+161 0 170 
+0 0 0 
+171 0 149 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+162 0 170 
+0 0 0 
+171 0 149 
+I throw 2
+-------
+they threw 0
+163 0 170 
+0 0 0 
+171 0 149 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+164 0 170 
+0 0 0 
+171 0 149 
+I throw 1
+-------
+they threw 2
+164 0 171 
+0 0 0 
+171 0 149 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+164 0 171 
+0 0 0 
+171 0 150 
+I throw 2
+-------
+they threw 2
+164 0 171 
+0 0 0 
+171 0 151 
+I throw 2
+-------
+they threw 2
+164 0 171 
+0 0 0 
+171 0 152 
+I throw 2
+-------
+they threw 2
+164 0 171 
+0 0 0 
+171 0 153 
+I throw 2
+-------
+they threw 2
+164 0 171 
+0 0 0 
+171 0 154 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+164 0 171 
+0 0 0 
+172 0 154 
+I throw 1
+-------
+they threw 2
+164 0 172 
+0 0 0 
+172 0 154 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+164 0 172 
+0 0 0 
+172 0 155 
+I throw 2
+-------
+they threw 2
+164 0 172 
+0 0 0 
+172 0 156 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+164 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+they threw 0
+165 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+they threw 0
+166 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+167 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+168 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+169 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+they threw 0
+170 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+171 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+they threw 0
+172 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+173 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+174 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+they threw 0
+175 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+they threw 0
+176 0 172 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+they threw 0
+177 0 172 
+0 0 0 
+173 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+177 0 173 
+0 0 0 
+173 0 156 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+177 0 173 
+0 0 0 
+174 0 156 
+I throw 2
+-------
+they threw 0
+178 0 173 
+0 0 0 
+174 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+179 0 173 
+0 0 0 
+174 0 156 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+180 0 173 
+0 0 0 
+174 0 156 
+I throw 2
+-------
+they threw 2
+180 0 174 
+0 0 0 
+174 0 156 
+I throw 1
+-------
+they threw 2
+180 0 174 
+0 0 0 
+174 0 157 
+I throw 1
+-------
+they threw 0
+180 0 174 
+0 0 0 
+175 0 157 
+I throw 1
+-------
+they threw 0
+181 0 174 
+0 0 0 
+175 0 157 
+I throw 1
+-------
+they threw 0
+182 0 174 
+0 0 0 
+175 0 157 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+182 0 175 
+0 0 0 
+175 0 157 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+182 0 175 
+0 0 0 
+175 0 158 
+I throw 1
+-------
+they threw 2
+182 0 175 
+0 0 0 
+175 0 159 
+I throw 1
+-------
+they threw 0
+182 0 175 
+0 0 0 
+176 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+182 0 176 
+0 0 0 
+176 0 159 
+I throw 1
+-------
+they threw 0
+182 0 176 
+0 0 0 
+177 0 159 
+I throw 2
+-------
+they threw 0
+183 0 176 
+0 0 0 
+177 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+184 0 176 
+0 0 0 
+177 0 159 
+I throw 1
+-------
+they threw 0
+185 0 176 
+0 0 0 
+177 0 159 
+I throw 2
+-------
+they threw 0
+186 0 176 
+0 0 0 
+177 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+187 0 176 
+0 0 0 
+177 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+188 0 176 
+0 0 0 
+177 0 159 
+I throw 1
+-------
+they threw 0
+189 0 176 
+0 0 0 
+177 0 159 
+I throw 1
+-------
+they threw 0
+190 0 176 
+0 0 0 
+177 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+190 0 177 
+0 0 0 
+177 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+190 0 177 
+0 0 0 
+178 0 159 
+I throw 2
+-------
+they threw 2
+190 0 178 
+0 0 0 
+178 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+190 0 178 
+0 0 0 
+179 0 159 
+I throw 1
+-------
+they threw 0
+191 0 178 
+0 0 0 
+179 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+191 0 179 
+0 0 0 
+179 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+191 0 179 
+0 0 0 
+180 0 159 
+I throw 2
+-------
+they threw 0
+192 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+193 0 179 
+0 0 0 
+180 0 159 
+I throw 2
+-------
+they threw 0
+194 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+195 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+they threw 0
+196 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+they threw 0
+197 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+they threw 0
+198 0 179 
+0 0 0 
+180 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+198 0 180 
+0 0 0 
+180 0 159 
+I throw 2
+-------
+they threw 0
+198 0 180 
+0 0 0 
+181 0 159 
+I throw 2
+-------
+they threw 2
+198 0 181 
+0 0 0 
+181 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+198 0 181 
+0 0 0 
+182 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+199 0 181 
+0 0 0 
+182 0 159 
+I throw 1
+-------
+they threw 0
+200 0 181 
+0 0 0 
+182 0 159 
+I throw 2
+-------
+they threw 0
+201 0 181 
+0 0 0 
+182 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+202 0 181 
+0 0 0 
+182 0 159 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+202 0 182 
+0 0 0 
+182 0 159 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+202 0 182 
+0 0 0 
+182 0 160 
+I throw 2
+-------
+they threw 2
+202 0 182 
+0 0 0 
+182 0 161 
+I throw 2
+-------
+they threw 2
+202 0 182 
+0 0 0 
+182 0 162 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+202 0 182 
+0 0 0 
+183 0 162 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+203 0 182 
+0 0 0 
+183 0 162 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+204 0 182 
+0 0 0 
+183 0 162 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+204 0 183 
+0 0 0 
+183 0 162 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+204 0 183 
+0 0 0 
+184 0 162 
+I throw 1
+-------
+they threw 0
+205 0 183 
+0 0 0 
+184 0 162 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+205 0 184 
+0 0 0 
+184 0 162 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+205 0 184 
+0 0 0 
+184 0 163 
+I throw 2
+-------
+they threw 0
+205 0 184 
+0 0 0 
+185 0 163 
+I throw 2
+-------
+they threw 2
+205 0 185 
+0 0 0 
+185 0 163 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+205 0 185 
+0 0 0 
+186 0 163 
+I throw 2
+-------
+they threw 0
+206 0 185 
+0 0 0 
+186 0 163 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+207 0 185 
+0 0 0 
+186 0 163 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+208 0 185 
+0 0 0 
+186 0 163 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+208 0 186 
+0 0 0 
+186 0 163 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+208 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+they threw 0
+209 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+210 0 186 
+0 0 0 
+187 0 163 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+211 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+they threw 0
+212 0 186 
+0 0 0 
+187 0 163 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+213 0 186 
+0 0 0 
+187 0 163 
+I throw 1
+-------
+they threw 0
+214 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+they threw 0
+215 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+216 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+217 0 186 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+they threw 2
+217 0 187 
+0 0 0 
+187 0 163 
+I throw 2
+-------
+they threw 2
+217 0 187 
+0 0 0 
+187 0 164 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+217 0 187 
+0 0 0 
+188 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+218 0 187 
+0 0 0 
+188 0 164 
+I throw 1
+-------
+they threw 0
+219 0 187 
+0 0 0 
+188 0 164 
+I throw 1
+-------
+they threw 0
+220 0 187 
+0 0 0 
+188 0 164 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+220 0 188 
+0 0 0 
+188 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+220 0 188 
+0 0 0 
+189 0 164 
+I throw 2
+-------
+they threw 0
+221 0 188 
+0 0 0 
+189 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+222 0 188 
+0 0 0 
+189 0 164 
+I throw 1
+-------
+they threw 0
+223 0 188 
+0 0 0 
+189 0 164 
+I throw 1
+-------
+they threw 0
+224 0 188 
+0 0 0 
+189 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+224 0 189 
+0 0 0 
+189 0 164 
+I throw 2
+-------
+they threw 0
+224 0 189 
+0 0 0 
+190 0 164 
+I throw 1
+-------
+they threw 2
+224 0 190 
+0 0 0 
+190 0 164 
+I throw 1
+-------
+they threw 0
+224 0 190 
+0 0 0 
+191 0 164 
+I throw 2
+-------
+they threw 0
+225 0 190 
+0 0 0 
+191 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+226 0 190 
+0 0 0 
+191 0 164 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+226 0 191 
+0 0 0 
+191 0 164 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+226 0 191 
+0 0 0 
+191 0 165 
+I throw 2
+-------
+they threw 2
+226 0 191 
+0 0 0 
+191 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+226 0 191 
+0 0 0 
+192 0 166 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+227 0 191 
+0 0 0 
+192 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+227 0 192 
+0 0 0 
+192 0 166 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+227 0 192 
+0 0 0 
+193 0 166 
+I throw 2
+-------
+they threw 0
+228 0 192 
+0 0 0 
+193 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+229 0 192 
+0 0 0 
+193 0 166 
+I throw 1
+-------
+they threw 2
+229 0 193 
+0 0 0 
+193 0 166 
+I throw 1
+-------
+they threw 0
+229 0 193 
+0 0 0 
+194 0 166 
+I throw 2
+-------
+they threw 0
+230 0 193 
+0 0 0 
+194 0 166 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+231 0 193 
+0 0 0 
+194 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+231 0 194 
+0 0 0 
+194 0 166 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+231 0 194 
+0 0 0 
+195 0 166 
+I throw 1
+-------
+they threw 0
+232 0 194 
+0 0 0 
+195 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+232 0 195 
+0 0 0 
+195 0 166 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+232 0 195 
+0 0 0 
+196 0 166 
+I throw 2
+-------
+they threw 0
+233 0 195 
+0 0 0 
+196 0 166 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+234 0 195 
+0 0 0 
+196 0 166 
+I throw 2
+-------
+they threw 2
+234 0 196 
+0 0 0 
+196 0 166 
+I throw 1
+-------
+they threw 2
+234 0 196 
+0 0 0 
+196 0 167 
+I throw 1
+-------
+they threw 0
+234 0 196 
+0 0 0 
+197 0 167 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+234 0 197 
+0 0 0 
+197 0 167 
+I throw 2
+-------
+they threw 0
+234 0 197 
+0 0 0 
+198 0 167 
+I throw 1
+-------
+they threw 2
+234 0 198 
+0 0 0 
+198 0 167 
+I throw 2
+-------
+they threw 0
+234 0 198 
+0 0 0 
+199 0 167 
+I throw 2
+-------
+they threw 2
+234 0 199 
+0 0 0 
+199 0 167 
+I throw 2
+-------
+they threw 2
+234 0 199 
+0 0 0 
+199 0 168 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+234 0 199 
+0 0 0 
+200 0 168 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+235 0 199 
+0 0 0 
+200 0 168 
+I throw 1
+-------
+they threw 2
+235 0 200 
+0 0 0 
+200 0 168 
+I throw 1
+-------
+they threw 0
+235 0 200 
+0 0 0 
+201 0 168 
+I throw 2
+-------
+they threw 0
+236 0 200 
+0 0 0 
+201 0 168 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+237 0 200 
+0 0 0 
+201 0 168 
+I throw 1
+-------
+they threw 2
+237 0 201 
+0 0 0 
+201 0 168 
+I throw 1
+-------
+they threw 0
+237 0 201 
+0 0 0 
+202 0 168 
+I throw 1
+-------
+they threw 0
+238 0 201 
+0 0 0 
+202 0 168 
+I throw 2
+-------
+they threw 0
+239 0 201 
+0 0 0 
+202 0 168 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+240 0 201 
+0 0 0 
+202 0 168 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+241 0 201 
+0 0 0 
+202 0 168 
+I throw 2
+-------
+they threw 2
+241 0 202 
+0 0 0 
+202 0 168 
+I throw 1
+-------
+they threw 2
+241 0 202 
+0 0 0 
+202 0 169 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+241 0 202 
+0 0 0 
+202 0 170 
+I throw 1
+-------
+they threw 2
+241 0 202 
+0 0 0 
+202 0 171 
+I throw 2
+-------
+they threw 0
+241 0 202 
+0 0 0 
+203 0 171 
+I throw 2
+-------
+they threw 2
+241 0 203 
+0 0 0 
+203 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+241 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+242 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+they threw 0
+243 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+they threw 0
+244 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+245 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+246 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+they threw 0
+247 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+they threw 0
+248 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+249 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+250 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+251 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+252 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+they threw 0
+253 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+they threw 0
+254 0 203 
+0 0 0 
+204 0 171 
+I throw 1
+-------
+they threw 0
+255 0 203 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+255 0 204 
+0 0 0 
+204 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+255 0 204 
+0 0 0 
+205 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+256 0 204 
+0 0 0 
+205 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+257 0 204 
+0 0 0 
+205 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+258 0 204 
+0 0 0 
+205 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+258 0 205 
+0 0 0 
+205 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+258 0 205 
+0 0 0 
+206 0 171 
+I throw 1
+-------
+they threw 0
+259 0 205 
+0 0 0 
+206 0 171 
+I throw 1
+-------
+they threw 0
+260 0 205 
+0 0 0 
+206 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+260 0 206 
+0 0 0 
+206 0 171 
+I throw 1
+-------
+they threw 0
+260 0 206 
+0 0 0 
+207 0 171 
+I throw 2
+-------
+they threw 0
+261 0 206 
+0 0 0 
+207 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+262 0 206 
+0 0 0 
+207 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+263 0 206 
+0 0 0 
+207 0 171 
+I throw 2
+-------
+they threw 0
+264 0 206 
+0 0 0 
+207 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+265 0 206 
+0 0 0 
+207 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+265 0 207 
+0 0 0 
+207 0 171 
+I throw 1
+-------
+they threw 0
+265 0 207 
+0 0 0 
+208 0 171 
+I throw 1
+-------
+they threw 0
+266 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+they threw 0
+267 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+268 0 207 
+0 0 0 
+208 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+269 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+they threw 0
+270 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+271 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+272 0 207 
+0 0 0 
+208 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+273 0 207 
+0 0 0 
+208 0 171 
+I throw 1
+-------
+they threw 0
+274 0 207 
+0 0 0 
+208 0 171 
+I throw 1
+-------
+they threw 0
+275 0 207 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+275 0 208 
+0 0 0 
+208 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+275 0 208 
+0 0 0 
+209 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+276 0 208 
+0 0 0 
+209 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+277 0 208 
+0 0 0 
+209 0 171 
+I throw 1
+-------
+they threw 0
+278 0 208 
+0 0 0 
+209 0 171 
+I throw 1
+-------
+they threw 0
+279 0 208 
+0 0 0 
+209 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+279 0 209 
+0 0 0 
+209 0 171 
+I throw 2
+-------
+they threw 0
+279 0 209 
+0 0 0 
+210 0 171 
+I throw 2
+-------
+they threw 2
+279 0 210 
+0 0 0 
+210 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+279 0 210 
+0 0 0 
+211 0 171 
+I throw 1
+-------
+they threw 0
+280 0 210 
+0 0 0 
+211 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+280 0 211 
+0 0 0 
+211 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+280 0 211 
+0 0 0 
+212 0 171 
+I throw 2
+-------
+they threw 0
+281 0 211 
+0 0 0 
+212 0 171 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+282 0 211 
+0 0 0 
+212 0 171 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+282 0 212 
+0 0 0 
+212 0 171 
+I throw 1
+-------
+they threw 2
+282 0 212 
+0 0 0 
+212 0 172 
+I throw 1
+-------
+they threw 0
+282 0 212 
+0 0 0 
+213 0 172 
+I throw 2
+-------
+they threw 0
+283 0 212 
+0 0 0 
+213 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+284 0 212 
+0 0 0 
+213 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+284 0 213 
+0 0 0 
+213 0 172 
+I throw 1
+-------
+they threw 0
+284 0 213 
+0 0 0 
+214 0 172 
+I throw 2
+-------
+they threw 0
+285 0 213 
+0 0 0 
+214 0 172 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+286 0 213 
+0 0 0 
+214 0 172 
+I throw 1
+-------
+they threw 2
+286 0 214 
+0 0 0 
+214 0 172 
+I throw 1
+-------
+they threw 0
+286 0 214 
+0 0 0 
+215 0 172 
+I throw 1
+-------
+they threw 0
+287 0 214 
+0 0 0 
+215 0 172 
+I throw 1
+-------
+they threw 0
+288 0 214 
+0 0 0 
+215 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+288 0 215 
+0 0 0 
+215 0 172 
+I throw 2
+-------
+they threw 0
+288 0 215 
+0 0 0 
+216 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+289 0 215 
+0 0 0 
+216 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+289 0 216 
+0 0 0 
+216 0 172 
+I throw 1
+-------
+they threw 0
+289 0 216 
+0 0 0 
+217 0 172 
+I throw 1
+-------
+they threw 0
+290 0 216 
+0 0 0 
+217 0 172 
+I throw 1
+-------
+they threw 0
+291 0 216 
+0 0 0 
+217 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+291 0 217 
+0 0 0 
+217 0 172 
+I throw 1
+-------
+they threw 0
+291 0 217 
+0 0 0 
+218 0 172 
+I throw 2
+-------
+they threw 0
+292 0 217 
+0 0 0 
+218 0 172 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+293 0 217 
+0 0 0 
+218 0 172 
+I throw 1
+-------
+they threw 2
+293 0 218 
+0 0 0 
+218 0 172 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+293 0 218 
+0 0 0 
+218 0 173 
+I throw 1
+-------
+they threw 0
+293 0 218 
+0 0 0 
+219 0 173 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+293 0 219 
+0 0 0 
+219 0 173 
+I throw 2
+-------
+they threw 0
+293 0 219 
+0 0 0 
+220 0 173 
+I throw 1
+-------
+they threw 2
+293 0 220 
+0 0 0 
+220 0 173 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+293 0 220 
+0 0 0 
+220 0 174 
+I throw 2
+-------
+they threw 2
+293 0 220 
+0 0 0 
+220 0 175 
+I throw 1
+-------
+they threw 2
+293 0 220 
+0 0 0 
+220 0 176 
+I throw 1
+-------
+they threw 0
+293 0 220 
+0 0 0 
+221 0 176 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+293 0 221 
+0 0 0 
+221 0 176 
+I throw 1
+-------
+they threw 0
+293 0 221 
+0 0 0 
+222 0 176 
+I throw 2
+-------
+they threw 0
+294 0 221 
+0 0 0 
+222 0 176 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+295 0 221 
+0 0 0 
+222 0 176 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+295 0 222 
+0 0 0 
+222 0 176 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+295 0 222 
+0 0 0 
+222 0 177 
+I throw 1
+-------
+they threw 2
+295 0 222 
+0 0 0 
+222 0 178 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+295 0 222 
+0 0 0 
+222 0 179 
+I throw 1
+-------
+they threw 0
+295 0 222 
+0 0 0 
+223 0 179 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+295 0 223 
+0 0 0 
+223 0 179 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+295 0 223 
+0 0 0 
+224 0 179 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+296 0 223 
+0 0 0 
+224 0 179 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+296 0 224 
+0 0 0 
+224 0 179 
+I throw 2
+-------
+they threw 0
+296 0 224 
+0 0 0 
+225 0 179 
+I throw 1
+-------
+they threw 2
+296 0 225 
+0 0 0 
+225 0 179 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+296 0 225 
+0 0 0 
+225 0 180 
+I throw 1
+-------
+they threw 2
+296 0 225 
+0 0 0 
+225 0 181 
+I throw 1
+-------
+they threw 0
+296 0 225 
+0 0 0 
+226 0 181 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+296 0 226 
+0 0 0 
+226 0 181 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+296 0 226 
+0 0 0 
+227 0 181 
+I throw 2
+-------
+they threw 0
+297 0 226 
+0 0 0 
+227 0 181 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+298 0 226 
+0 0 0 
+227 0 181 
+I throw 2
+-------
+they threw 2
+298 0 227 
+0 0 0 
+227 0 181 
+I throw 1
+-------
+they threw 2
+298 0 227 
+0 0 0 
+227 0 182 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+298 0 227 
+0 0 0 
+227 0 183 
+I throw 1
+-------
+they threw 0
+298 0 227 
+0 0 0 
+228 0 183 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+298 0 228 
+0 0 0 
+228 0 183 
+I throw 1
+-------
+they threw 0
+298 0 228 
+0 0 0 
+229 0 183 
+I throw 1
+-------
+they threw 0
+299 0 228 
+0 0 0 
+229 0 183 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+299 0 229 
+0 0 0 
+229 0 183 
+I throw 1
+-------
+they threw 0
+299 0 229 
+0 0 0 
+230 0 183 
+I throw 1
+-------
+they threw 0
+300 0 229 
+0 0 0 
+230 0 183 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+300 0 230 
+0 0 0 
+230 0 183 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+300 0 230 
+0 0 0 
+230 0 184 
+I throw 2
+-------
+they threw 2
+300 0 230 
+0 0 0 
+230 0 185 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+300 0 230 
+0 0 0 
+231 0 185 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+301 0 230 
+0 0 0 
+231 0 185 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+301 0 231 
+0 0 0 
+231 0 185 
+I throw 1
+-------
+they threw 2
+301 0 231 
+0 0 0 
+231 0 186 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+301 0 231 
+0 0 0 
+231 0 187 
+I throw 2
+-------
+they threw 2
+301 0 231 
+0 0 0 
+231 0 188 
+I throw 2
+-------
+they threw 2
+301 0 231 
+0 0 0 
+231 0 189 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+301 0 231 
+0 0 0 
+232 0 189 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+302 0 231 
+0 0 0 
+232 0 189 
+I throw 2
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 189 
+I throw 1
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 190 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 191 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 192 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 193 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 194 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 195 
+I throw 1
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 196 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 197 
+I throw 1
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 198 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 199 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 200 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+302 0 232 
+0 0 0 
+232 0 201 
+I throw 2
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 202 
+I throw 2
+-------
+they threw 2
+302 0 232 
+0 0 0 
+232 0 203 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+302 0 232 
+0 0 0 
+233 0 203 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 233 
+0 0 0 
+233 0 203 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 233 
+0 0 0 
+233 0 204 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+302 0 233 
+0 0 0 
+233 0 205 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+302 0 233 
+0 0 0 
+233 0 206 
+I throw 2
+-------
+they threw 2
+302 0 233 
+0 0 0 
+233 0 207 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+302 0 233 
+0 0 0 
+234 0 207 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+303 0 233 
+0 0 0 
+234 0 207 
+I throw 2
+-------
+they threw 2
+303 0 234 
+0 0 0 
+234 0 207 
+I throw 2
+-------
+they threw 2
+303 0 234 
+0 0 0 
+234 0 208 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+303 0 234 
+0 0 0 
+235 0 208 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+304 0 234 
+0 0 0 
+235 0 208 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+304 0 235 
+0 0 0 
+235 0 208 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+304 0 235 
+0 0 0 
+235 0 209 
+I throw 1
+-------
+they threw 2
+304 0 235 
+0 0 0 
+235 0 210 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+304 0 235 
+0 0 0 
+235 0 211 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+304 0 235 
+0 0 0 
+235 0 212 
+I throw 2
+-------
+they threw 2
+304 0 235 
+0 0 0 
+235 0 213 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+304 0 235 
+0 0 0 
+236 0 213 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+305 0 235 
+0 0 0 
+236 0 213 
+I throw 2
+-------
+In favor of BeatLast
+they threw 2
+305 0 236 
+0 0 0 
+236 0 213 
+I throw 2
+-------
+they threw 2
+305 0 236 
+0 0 0 
+236 0 214 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+305 0 236 
+0 0 0 
+237 0 214 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+306 0 236 
+0 0 0 
+237 0 214 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+306 0 237 
+0 0 0 
+237 0 214 
+I throw 1
+-------
+they threw 0
+306 0 237 
+0 0 0 
+238 0 214 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+306 0 238 
+0 0 0 
+238 0 214 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+306 0 238 
+0 0 0 
+238 0 215 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+306 0 238 
+0 0 0 
+238 0 216 
+I throw 1
+-------
+In favor of BeatLast
+they threw 2
+2
+0
+0
+2
+2
+2
+0
+2
+0
+0
+0
+0
+2
+0
+2
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+0
+2
+0
+0
+2
+2
+2
+2
+0
+2
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+2
+0
+2
+2
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+2
+2
+0
+0
+2
+0
+0
+2
+0
+0
+2
+0
+2
+0
+2
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+2
+0
+2
+0
+2
+0
+2
+2
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+0
+2
+2
+2
+2
+2
+0
+0
+2
+2
+2
+0
+0
+0
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+2
+0
+0
+2
+2
+2
+0
+2
+2
+2
+0
+2
+0
+0
+0
+0
+2
+0
+2
+2
+2
+2
+0
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+2
+2
+2
+2
+0
+2
+2
+2
+0
+2
+2
+2
+2
+2
+2
+0
+2
+0
+2
+2
+2
+2
+0
+0
+2
+0
+2
+0
+2
+0
+0
+2
+2
+0
+2
+2
+0
+2
+0
+0
+0
+0
+2
+2
+0
+2
+2
+2
+0
+2
+2
+2
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+2
+2
+2
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2
+2
+2
+2
+0
+0
+0
+2
+2
+2
+0
+2
+0
+0
+0
+0
+2
+2
+2
+0
+2
+2
+0
+0
+2
+0
+0
+2
+0
+2
+2
+0
+2
+2
+0
+2
+0
+0
+2
+0
+2
+0
+2
+0
+0
+0
+0
+2
+0
+2
+0
+2
+0
+2
+0
+0
+0
+2
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+0
+2
+0
+0
+0
+2
+0
+2
+0
+2
+0
+2
+2
+2
+0
+2
+0
+2
+2
+2
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+0
+2
+0
+2
+2
+0
+2
+0
+2
+0
+2
+2
+0
+2
+0
+2
+0
+2
+2
+0
+2
+2
+0
+0
+2
+0
+2
+0
+0
+2
+0
+0
+2
+0
+2
+0
+0
+0
+2
+0
+2
+0
+2
+0
+2
+2
+0
+0
+0
+2
+0
+2
+0
+2
+0
+2
+0
+2
+0
+0
+0
+2
+0
+2
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+2
+0
+2
+2
+0
+2
+2
+0
+2
+2
+0
+2
+0
+0
+0
+0
+2
+0
+0
+2
+0
+2
+2
+2
+0
+0
+0
+2
+2
+0
+0
+2
+0
+0
+2
+2
+0
+2
+2
+0
+2
+2
+0
+2
+0
+2
+2
+0
+0
+0
+0
+0
+0
+2
+0
+2
+2
+0
+2
+2
+0
+0
+0
+0
+2
+0
+2
+0
+2
+0
+2
+0
+0
+0
+0
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+2
+2
+0
+2
+0
+2
+2
+2
+2
+2
+0
+0
+2
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+2
+2
+0
+0
+0
+0
+2
+0
+0
+2
+2
+2
+2
+2
+2
+0
+0
+0
+2
+2
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+2
+0
+2
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2
+2
+0
+0
+0
+2
+2
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+2
+2
+2
+2
+0
+0
+0
+2
+0
+0
+2
+2
+0
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+2
+2
+2
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+2
+0
+0
+0
+2
+2
+0
+2
+0
+2
+0
+2
+2
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2
+2
+2
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+2
+0
+0
+0
+2
+2
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+2
+0
+2
+0
+2
+2
+2
+2
+0
+2
+0
+0
+0
+2
+2
+2
+2
+0
+2
+0
+0
+2
+0
+2
+2
+2
+0
+2
+0
+0
+0
+2
+2
+2
+0
+2
+0
+0
+2
+0
+0
+2
+2
+2
+0
+0
+2
+2
+2
+2
+2
+0
+0
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+0
+2
+2
+2
+2
+2
+0
+0
+2
+2
+0
+0
+2
+2
+2
+2
+2
+2
+0
+0
+2
+2
+0
+0
+2
+0
+2
+2
+2
+2
+game over, shutting down

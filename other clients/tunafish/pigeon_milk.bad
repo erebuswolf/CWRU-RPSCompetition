@@ -1,0 +1,10273 @@
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 1, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+1, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+1, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+0, 0, 3 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 1, 1 => 0.00000, 0.50000, 0.50000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 1 => 0.00000, 0.66667, 0.33333
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+0, 0, 2 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 3, 2 => 0.00000, 0.60000, 0.40000
+Op play 2?
+I played 3, op played 3
+I tied
+
+1, 0, 2 => 0.33333, 0.00000, 0.66667
+Op play 3?
+I played 1, op played 1
+I tied
+
+0, 0, 4 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 3 => 0.25000, 0.00000, 0.75000
+Op play 3?
+I played 1, op played 2
+I lost
+
+1, 1, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+0, 1, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+1, 1, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+3, 1, 0 => 0.75000, 0.25000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+1, 1, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 1, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+1, 2, 0 => 0.33333, 0.66667, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 2, 1 => 0.00000, 0.66667, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+2, 1, 1 => 0.50000, 0.25000, 0.25000
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 0, 2 => 0.33333, 0.00000, 0.66667
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 1, 1 => 0.50000, 0.25000, 0.25000
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 1, 2 => 0.25000, 0.25000, 0.50000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 4 => 0.00000, 0.33333, 0.66667
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 4, 4 => 0.00000, 0.50000, 0.50000
+Op play 2?
+I played 3, op played 3
+I tied
+
+3, 0, 2 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 1, 3 => 0.20000, 0.20000, 0.60000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 7 => 0.00000, 0.22222, 0.77778
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 1, 3 => 0.20000, 0.20000, 0.60000
+Op play 3?
+I played 1, op played 3
+I won
+
+1, 3, 6 => 0.10000, 0.30000, 0.60000
+Op play 3?
+I played 1, op played 2
+I lost
+
+3, 2, 1 => 0.50000, 0.33333, 0.16667
+Op play 1?
+I played 2, op played 3
+I lost
+
+1, 4, 0 => 0.20000, 0.80000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+3, 2, 1 => 0.50000, 0.33333, 0.16667
+Op play 1?
+I played 2, op played 3
+I lost
+
+1, 4, 0 => 0.20000, 0.80000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+3, 2, 1 => 0.50000, 0.33333, 0.16667
+Op play 1?
+I played 2, op played 2
+I tied
+
+4, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+2, 1, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+2, 3, 0 => 0.40000, 0.60000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+3, 2, 1 => 0.50000, 0.33333, 0.16667
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 2, 4 => 0.14286, 0.28571, 0.57143
+Op play 3?
+I played 1, op played 3
+I won
+
+2, 3, 7 => 0.16667, 0.25000, 0.58333
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 1, 6 => 0.12500, 0.12500, 0.75000
+Op play 3?
+I played 1, op played 3
+I won
+
+2, 7, 6 => 0.13333, 0.46667, 0.40000
+Op play 2?
+I played 3, op played 3
+I tied
+
+6, 0, 2 => 0.75000, 0.00000, 0.25000
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 1, 7 => 0.11111, 0.11111, 0.77778
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 1, 6 => 0.12500, 0.12500, 0.75000
+Op play 3?
+I played 1, op played 2
+I lost
+
+4, 1, 2 => 0.57143, 0.14286, 0.28571
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 1, 6 => 0.22222, 0.11111, 0.66667
+Op play 3?
+I played 1, op played 2
+I lost
+
+5, 1, 2 => 0.62500, 0.12500, 0.25000
+Op play 1?
+I played 2, op played 2
+I tied
+
+4, 2, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+4, 4, 0 => 0.50000, 0.50000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+2, 4, 0 => 0.33333, 0.66667, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+4, 4, 1 => 0.44444, 0.44444, 0.11111
+Op play 2?
+I played 3, op played 3
+I tied
+
+4, 0, 1 => 0.80000, 0.00000, 0.20000
+Op play 1?
+I played 2, op played 3
+I lost
+
+3, 4, 0 => 0.42857, 0.57143, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+4, 4, 3 => 0.36364, 0.36364, 0.27273
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 3, 6 => 0.18182, 0.27273, 0.54545
+Op play 3?
+I played 1, op played 2
+I lost
+
+6, 3, 2 => 0.54545, 0.27273, 0.18182
+Op play 1?
+I played 2, op played 2
+I tied
+
+4, 5, 1 => 0.40000, 0.50000, 0.10000
+Op play 2?
+I played 3, op played 2
+I won
+
+1, 1, 2 => 0.25000, 0.25000, 0.50000
+Op play 3?
+I played 1, op played 3
+I won
+
+2, 3, 7 => 0.16667, 0.25000, 0.58333
+Op play 3?
+I played 1, op played 2
+I lost
+
+4, 4, 3 => 0.36364, 0.36364, 0.27273
+Op play 2?
+I played 3, op played 3
+I tied
+
+4, 0, 2 => 0.66667, 0.00000, 0.33333
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 3, 6 => 0.25000, 0.25000, 0.50000
+Op play 3?
+I played 1, op played 3
+I won
+
+5, 4, 8 => 0.29412, 0.23529, 0.47059
+Op play 3?
+I played 1, op played 3
+I won
+
+2, 6, 9 => 0.11765, 0.35294, 0.52941
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 2, 7 => 0.10000, 0.20000, 0.70000
+Op play 3?
+I played 1, op played 1
+I tied
+
+2, 3, 5 => 0.20000, 0.30000, 0.50000
+Op play 3?
+I played 1, op played 1
+I tied
+
+4, 3, 5 => 0.33333, 0.25000, 0.41667
+Op play 3?
+I played 1, op played 1
+I tied
+
+7, 3, 5 => 0.46667, 0.20000, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+3, 4, 1 => 0.37500, 0.50000, 0.12500
+Op play 2?
+I played 3, op played 3
+I tied
+
+5, 0, 2 => 0.71429, 0.00000, 0.28571
+Op play 1?
+I played 2, op played 2
+I tied
+
+3, 4, 2 => 0.33333, 0.44444, 0.22222
+Op play 2?
+I played 3, op played 1
+I lost
+
+6, 2, 2 => 0.60000, 0.20000, 0.20000
+Op play 1?
+I played 2, op played 3
+I lost
+
+4, 5, 0 => 0.44444, 0.55556, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+6, 4, 4 => 0.42857, 0.28571, 0.28571
+Op play 1?
+I played 2, op played 3
+I lost
+
+6, 5, 0 => 0.54545, 0.45455, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 3, 6 => 0.18182, 0.27273, 0.54545
+Op play 3?
+I played 1, op played 2
+I lost
+
+5, 5, 3 => 0.38462, 0.38462, 0.23077
+Op play 2?
+I played 3, op played 1
+I lost
+
+6, 2, 4 => 0.50000, 0.16667, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 5, 2 => 0.41667, 0.41667, 0.16667
+Op play 2?
+I played 3, op played 1
+I lost
+
+6, 3, 5 => 0.42857, 0.21429, 0.35714
+Op play 1?
+I played 2, op played 3
+I lost
+
+9, 5, 0 => 0.64286, 0.35714, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 6, 6 => 0.14286, 0.42857, 0.42857
+Op play 3?
+I played 1, op played 3
+I won
+
+5, 4, 10 => 0.26316, 0.21053, 0.52632
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 4, 7 => 0.15385, 0.30769, 0.53846
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 5, 3 => 0.46667, 0.33333, 0.20000
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 8, 2 => 0.37500, 0.50000, 0.12500
+Op play 2?
+I played 3, op played 2
+I won
+
+1, 1, 6 => 0.12500, 0.12500, 0.75000
+Op play 3?
+I played 1, op played 1
+I tied
+
+4, 3, 5 => 0.33333, 0.25000, 0.41667
+Op play 3?
+I played 1, op played 3
+I won
+
+4, 6, 9 => 0.21053, 0.31579, 0.47368
+Op play 3?
+I played 1, op played 1
+I tied
+
+5, 3, 8 => 0.31250, 0.18750, 0.50000
+Op play 3?
+I played 1, op played 1
+I tied
+
+8, 5, 6 => 0.42105, 0.26316, 0.31579
+Op play 1?
+I played 2, op played 3
+I lost
+
+8, 4, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+7, 4, 1 => 0.58333, 0.33333, 0.08333
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 6, 8 => 0.12500, 0.37500, 0.50000
+Op play 3?
+I played 1, op played 2
+I lost
+
+8, 7, 3 => 0.44444, 0.38889, 0.16667
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 11, 2 => 0.31579, 0.57895, 0.10526
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 7, 5 => 0.33333, 0.38889, 0.27778
+Op play 2?
+I played 3, op played 3
+I tied
+
+5, 2, 2 => 0.55556, 0.22222, 0.22222
+Op play 1?
+I played 2, op played 3
+I lost
+
+9, 4, 1 => 0.64286, 0.28571, 0.07143
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 6, 3 => 0.35714, 0.42857, 0.21429
+Op play 2?
+I played 3, op played 3
+I tied
+
+5, 2, 4 => 0.45455, 0.18182, 0.36364
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 6, 9 => 0.16667, 0.33333, 0.50000
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 9, 3 => 0.36842, 0.47368, 0.15789
+Op play 2?
+I played 3, op played 3
+I tied
+
+7, 1, 3 => 0.63636, 0.09091, 0.27273
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 6, 4 => 0.37500, 0.37500, 0.25000
+Op play 1?
+I played 2, op played 3
+I lost
+
+9, 5, 1 => 0.60000, 0.33333, 0.06667
+Op play 1?
+I played 2, op played 1
+I won
+
+2, 9, 8 => 0.10526, 0.47368, 0.42105
+Op play 2?
+I played 3, op played 1
+I lost
+
+5, 3, 5 => 0.38462, 0.23077, 0.38462
+Op play 3?
+I played 1, op played 1
+I tied
+
+5, 3, 7 => 0.33333, 0.20000, 0.46667
+Op play 3?
+I played 1, op played 1
+I tied
+
+8, 5, 8 => 0.38095, 0.23810, 0.38095
+Op play 1?
+I played 2, op played 3
+I lost
+
+10, 5, 3 => 0.55556, 0.27778, 0.16667
+Op play 2?
+I played 3, op played 3
+I tied
+
+6, 2, 3 => 0.54545, 0.18182, 0.27273
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 8, 9 => 0.19048, 0.38095, 0.42857
+Op play 3?
+I played 1, op played 3
+I won
+
+9, 4, 11 => 0.37500, 0.16667, 0.45833
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 9, 8 => 0.15000, 0.45000, 0.40000
+Op play 2?
+I played 3, op played 2
+I won
+
+2, 1, 3 => 0.33333, 0.16667, 0.50000
+Op play 3?
+I played 1, op played 2
+I lost
+
+5, 5, 5 => 0.33333, 0.33333, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 10, 5 => 0.28571, 0.47619, 0.23810
+Op play 1?
+I played 2, op played 3
+I lost
+
+11, 5, 2 => 0.61111, 0.27778, 0.11111
+Op play 2?
+I played 3, op played 1
+I lost
+
+7, 5, 8 => 0.35000, 0.25000, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+7, 3, 8 => 0.38889, 0.16667, 0.44444
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 6, 4 => 0.41176, 0.35294, 0.23529
+Op play 1?
+I played 2, op played 3
+I lost
+
+10, 7, 2 => 0.52632, 0.36842, 0.10526
+Op play 2?
+I played 3, op played 3
+I tied
+
+8, 2, 3 => 0.61538, 0.15385, 0.23077
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 9, 12 => 0.16000, 0.36000, 0.48000
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 3, 5 => 0.50000, 0.18750, 0.31250
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 6, 3 => 0.59091, 0.27273, 0.13636
+Op play 2?
+I played 3, op played 2
+I won
+
+3, 4, 4 => 0.27273, 0.36364, 0.36364
+Op play 2?
+I played 3, op played 1
+I lost
+
+9, 3, 6 => 0.50000, 0.16667, 0.33333
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 8, 3 => 0.54167, 0.33333, 0.12500
+Op play 2?
+I played 3, op played 2
+I won
+
+6, 4, 4 => 0.42857, 0.28571, 0.28571
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 6, 6 => 0.29412, 0.35294, 0.35294
+Op play 2?
+I played 3, op played 2
+I won
+
+4, 3, 4 => 0.36364, 0.27273, 0.36364
+Op play 3?
+I played 1, op played 3
+I won
+
+6, 6, 8 => 0.30000, 0.30000, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+8, 4, 10 => 0.36364, 0.18182, 0.45455
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 8, 8 => 0.20000, 0.40000, 0.40000
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 4, 10 => 0.44000, 0.16000, 0.40000
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 2, 4 => 0.64706, 0.11765, 0.23529
+Op play 3?
+I played 1, op played 3
+I won
+
+7, 4, 8 => 0.36842, 0.21053, 0.42105
+Op play 3?
+I played 1, op played 1
+I tied
+
+10, 4, 10 => 0.41667, 0.16667, 0.41667
+Op play 2?
+I played 3, op played 3
+I tied
+
+8, 2, 4 => 0.57143, 0.14286, 0.28571
+Op play 1?
+I played 2, op played 3
+I lost
+
+11, 8, 3 => 0.50000, 0.36364, 0.13636
+Op play 2?
+I played 3, op played 2
+I won
+
+5, 5, 5 => 0.33333, 0.33333, 0.33333
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 8, 9 => 0.19048, 0.38095, 0.42857
+Op play 3?
+I played 1, op played 1
+I tied
+
+7, 5, 10 => 0.31818, 0.22727, 0.45455
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 7, 7 => 0.26316, 0.36842, 0.36842
+Op play 3?
+I played 1, op played 3
+I won
+
+8, 4, 8 => 0.40000, 0.20000, 0.40000
+Op play 3?
+I played 1, op played 2
+I lost
+
+5, 7, 7 => 0.26316, 0.36842, 0.36842
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 4, 7 => 0.42105, 0.21053, 0.36842
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 11, 3 => 0.48148, 0.40741, 0.11111
+Op play 3?
+I played 1, op played 1
+I tied
+
+7, 5, 9 => 0.33333, 0.23810, 0.42857
+Op play 3?
+I played 1, op played 2
+I lost
+
+8, 6, 6 => 0.40000, 0.30000, 0.30000
+Op play 1?
+I played 2, op played 3
+I lost
+
+11, 10, 5 => 0.42308, 0.38462, 0.19231
+Op play 3?
+I played 1, op played 1
+I tied
+
+7, 7, 9 => 0.30435, 0.30435, 0.39130
+Op play 3?
+I played 1, op played 1
+I tied
+
+10, 8, 11 => 0.34483, 0.27586, 0.37931
+Op play 2?
+I played 3, op played 3
+I tied
+
+8, 2, 6 => 0.50000, 0.12500, 0.37500
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 11, 3 => 0.48148, 0.40741, 0.11111
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 6, 6 => 0.36842, 0.31579, 0.31579
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 11, 4 => 0.46429, 0.39286, 0.14286
+Op play 3?
+I played 1, op played 3
+I won
+
+8, 5, 8 => 0.38095, 0.23810, 0.38095
+Op play 1?
+I played 2, op played 3
+I lost
+
+12, 9, 4 => 0.48000, 0.36000, 0.16000
+Op play 2?
+I played 3, op played 1
+I lost
+
+9, 5, 10 => 0.37500, 0.20833, 0.41667
+Op play 1?
+I played 2, op played 2
+I tied
+
+8, 9, 7 => 0.33333, 0.37500, 0.29167
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 3, 7 => 0.47368, 0.15789, 0.36842
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 10, 12 => 0.24138, 0.34483, 0.41379
+Op play 1?
+I played 2, op played 3
+I lost
+
+13, 10, 4 => 0.48148, 0.37037, 0.14815
+Op play 3?
+I played 1, op played 2
+I lost
+
+8, 6, 8 => 0.36364, 0.27273, 0.36364
+Op play 1?
+I played 2, op played 3
+I lost
+
+14, 12, 7 => 0.42424, 0.36364, 0.21212
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 6, 10 => 0.30435, 0.26087, 0.43478
+Op play 1?
+I played 2, op played 1
+I won
+
+5, 9, 11 => 0.20000, 0.36000, 0.44000
+Op play 2?
+I played 3, op played 2
+I won
+
+4, 4, 4 => 0.33333, 0.33333, 0.33333
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 2, 6 => 0.52941, 0.11765, 0.35294
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 7, 9 => 0.27273, 0.31818, 0.40909
+Op play 3?
+I played 1, op played 3
+I won
+
+8, 6, 9 => 0.34783, 0.26087, 0.39130
+Op play 3?
+I played 1, op played 1
+I tied
+
+11, 6, 13 => 0.36667, 0.20000, 0.43333
+Op play 2?
+I played 3, op played 1
+I lost
+
+7, 4, 8 => 0.36842, 0.21053, 0.42105
+Op play 3?
+I played 1, op played 3
+I won
+
+9, 5, 9 => 0.39130, 0.21739, 0.39130
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 7, 9 => 0.23810, 0.33333, 0.42857
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 6, 8 => 0.33333, 0.28571, 0.38095
+Op play 3?
+I played 1, op played 3
+I won
+
+9, 6, 9 => 0.37500, 0.25000, 0.37500
+Op play 1?
+I played 2, op played 3
+I lost
+
+14, 11, 4 => 0.48276, 0.37931, 0.13793
+Op play 3?
+I played 1, op played 1
+I tied
+
+10, 7, 10 => 0.37037, 0.25926, 0.37037
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 3, 8 => 0.45000, 0.15000, 0.40000
+Op play 1?
+I played 2, op played 2
+I tied
+
+6, 8, 11 => 0.24000, 0.32000, 0.44000
+Op play 2?
+I played 3, op played 2
+I won
+
+5, 3, 7 => 0.33333, 0.20000, 0.46667
+Op play 3?
+I played 1, op played 2
+I lost
+
+7, 7, 10 => 0.29167, 0.29167, 0.41667
+Op play 1?
+I played 2, op played 1
+I won
+
+5, 11, 11 => 0.18519, 0.40741, 0.40741
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 9, 9 => 0.21739, 0.39130, 0.39130
+Op play 3?
+I played 1, op played 1
+I tied
+
+9, 6, 11 => 0.34615, 0.23077, 0.42308
+Op play 1?
+I played 2, op played 3
+I lost
+
+15, 11, 6 => 0.46875, 0.34375, 0.18750
+Op play 3?
+I played 1, op played 2
+I lost
+
+10, 6, 11 => 0.37037, 0.22222, 0.40741
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 5, 10 => 0.34783, 0.21739, 0.43478
+Op play 1?
+I played 2, op played 2
+I tied
+
+9, 10, 10 => 0.31034, 0.34483, 0.34483
+Op play 1?
+I played 2, op played 3
+I lost
+
+17, 12, 4 => 0.51515, 0.36364, 0.12121
+Op play 3?
+I played 1, op played 1
+I tied
+
+10, 7, 13 => 0.33333, 0.23333, 0.43333
+Op play 2?
+I played 3, op played 1
+I lost
+
+7, 5, 10 => 0.31818, 0.22727, 0.45455
+Op play 1?
+I played 2, op played 2
+I tied
+
+8, 10, 12 => 0.26667, 0.33333, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 10, 12 => 0.21429, 0.35714, 0.42857
+Op play 1?
+I played 2, op played 3
+I lost
+
+15, 14, 4 => 0.45455, 0.42424, 0.12121
+Op play 3?
+I played 1, op played 1
+I tied
+
+12, 7, 13 => 0.37500, 0.21875, 0.40625
+Op play 2?
+I played 3, op played 1
+I lost
+
+7, 8, 10 => 0.28000, 0.32000, 0.40000
+Op play 2?
+I played 3, op played 2
+I won
+
+4, 4, 5 => 0.30769, 0.30769, 0.38462
+Op play 3?
+I played 1, op played 1
+I tied
+
+11, 6, 13 => 0.36667, 0.20000, 0.43333
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 5, 8 => 0.40909, 0.22727, 0.36364
+Op play 1?
+I played 2, op played 2
+I tied
+
+8, 11, 12 => 0.25806, 0.35484, 0.38710
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 10, 13 => 0.20690, 0.34483, 0.44828
+Op play 1?
+I played 2, op played 3
+I lost
+
+18, 14, 4 => 0.50000, 0.38889, 0.11111
+Op play 3?
+I played 1, op played 2
+I lost
+
+13, 6, 12 => 0.41935, 0.19355, 0.38710
+Op play 2?
+I played 3, op played 2
+I won
+
+5, 4, 5 => 0.35714, 0.28571, 0.35714
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 10, 12 => 0.21429, 0.35714, 0.42857
+Op play 1?
+I played 2, op played 2
+I tied
+
+9, 9, 10 => 0.32143, 0.32143, 0.35714
+Op play 1?
+I played 2, op played 2
+I tied
+
+9, 11, 12 => 0.28125, 0.34375, 0.37500
+Op play 1?
+I played 2, op played 2
+I tied
+
+10, 13, 12 => 0.28571, 0.37143, 0.34286
+Op play 2?
+I played 3, op played 2
+I won
+
+7, 5, 7 => 0.36842, 0.26316, 0.36842
+Op play 3?
+I played 1, op played 2
+I lost
+
+11, 8, 10 => 0.37931, 0.27586, 0.34483
+Op play 2?
+I played 3, op played 2
+I won
+
+7, 5, 5 => 0.41176, 0.29412, 0.29412
+Op play 1?
+I played 2, op played 2
+I tied
+
+8, 13, 10 => 0.25806, 0.41935, 0.32258
+Op play 1?
+I played 2, op played 3
+I lost
+
+20, 13, 4 => 0.54054, 0.35135, 0.10811
+Op play 3?
+I played 1, op played 1
+I tied
+
+15, 7, 14 => 0.41667, 0.19444, 0.38889
+Op play 2?
+I played 3, op played 1
+I lost
+
+7, 12, 10 => 0.24138, 0.41379, 0.34483
+Op play 1?
+I played 2, op played 3
+I lost
+
+21, 16, 4 => 0.51220, 0.39024, 0.09756
+Op play 3?
+I played 1, op played 1
+I tied
+
+16, 8, 14 => 0.42105, 0.21053, 0.36842
+Op play 2?
+I played 3, op played 2
+I won
+
+6, 6, 5 => 0.35294, 0.35294, 0.29412
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 7, 11 => 0.30769, 0.26923, 0.42308
+Op play 1?
+I played 2, op played 2
+I tied
+
+11, 13, 13 => 0.29730, 0.35135, 0.35135
+Op play 3?
+I played 1, op played 1
+I tied
+
+12, 7, 14 => 0.36364, 0.21212, 0.42424
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 7, 8 => 0.37500, 0.29167, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 14, 13 => 0.30769, 0.35897, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 8, 13 => 0.27586, 0.27586, 0.44828
+Op play 2?
+I played 3, op played 2
+I won
+
+8, 6, 5 => 0.42105, 0.31579, 0.26316
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 12, 12 => 0.20000, 0.40000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 11, 12 => 0.20690, 0.37931, 0.41379
+Op play 1?
+I played 2, op played 3
+I lost
+
+19, 16, 4 => 0.48718, 0.41026, 0.10256
+Op play 3?
+I played 1, op played 2
+I lost
+
+13, 10, 12 => 0.37143, 0.28571, 0.34286
+Op play 1?
+I played 2, op played 3
+I lost
+
+19, 19, 7 => 0.42222, 0.42222, 0.15556
+Op play 3?
+I played 1, op played 1
+I tied
+
+17, 9, 15 => 0.41463, 0.21951, 0.36585
+Op play 2?
+I played 3, op played 2
+I won
+
+10, 6, 5 => 0.47619, 0.28571, 0.23810
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 12, 11 => 0.25806, 0.38710, 0.35484
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 14, 14 => 0.17647, 0.41176, 0.41176
+Op play 1?
+I played 2, op played 2
+I tied
+
+11, 13, 11 => 0.31429, 0.37143, 0.31429
+Op play 2?
+I played 3, op played 2
+I won
+
+10, 8, 7 => 0.40000, 0.32000, 0.28000
+Op play 2?
+I played 3, op played 3
+I tied
+
+9, 7, 6 => 0.40909, 0.31818, 0.27273
+Op play 1?
+I played 2, op played 3
+I lost
+
+20, 17, 4 => 0.48780, 0.41463, 0.09756
+Op play 3?
+I played 1, op played 1
+I tied
+
+16, 11, 15 => 0.38095, 0.26190, 0.35714
+Op play 1?
+I played 2, op played 3
+I lost
+
+21, 15, 6 => 0.50000, 0.35714, 0.14286
+Op play 3?
+I played 1, op played 1
+I tied
+
+16, 11, 17 => 0.36364, 0.25000, 0.38636
+Op play 3?
+I played 1, op played 3
+I won
+
+10, 8, 12 => 0.33333, 0.26667, 0.40000
+Op play 2?
+I played 3, op played 3
+I tied
+
+14, 6, 9 => 0.48276, 0.20690, 0.31034
+Op play 3?
+I played 1, op played 1
+I tied
+
+15, 8, 17 => 0.37500, 0.20000, 0.42500
+Op play 2?
+I played 3, op played 1
+I lost
+
+8, 11, 12 => 0.25806, 0.35484, 0.38710
+Op play 1?
+I played 2, op played 3
+I lost
+
+27, 17, 4 => 0.56250, 0.35417, 0.08333
+Op play 3?
+I played 1, op played 3
+I won
+
+9, 6, 12 => 0.33333, 0.22222, 0.44444
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 14, 13 => 0.18182, 0.42424, 0.39394
+Op play 1?
+I played 2, op played 3
+I lost
+
+22, 18, 5 => 0.48889, 0.40000, 0.11111
+Op play 3?
+I played 1, op played 1
+I tied
+
+18, 11, 19 => 0.37500, 0.22917, 0.39583
+Op play 3?
+I played 1, op played 2
+I lost
+
+11, 8, 13 => 0.34375, 0.25000, 0.40625
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 7, 7 => 0.44000, 0.28000, 0.28000
+Op play 2?
+I played 3, op played 2
+I won
+
+9, 6, 6 => 0.42857, 0.28571, 0.28571
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 13, 14 => 0.22857, 0.37143, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 12, 16 => 0.20000, 0.34286, 0.45714
+Op play 1?
+I played 2, op played 2
+I tied
+
+11, 15, 11 => 0.29730, 0.40541, 0.29730
+Op play 2?
+I played 3, op played 1
+I lost
+
+9, 10, 13 => 0.28125, 0.31250, 0.40625
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 14, 13 => 0.35714, 0.33333, 0.30952
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 18, 13 => 0.27907, 0.41860, 0.30233
+Op play 2?
+I played 3, op played 3
+I tied
+
+12, 8, 9 => 0.41379, 0.27586, 0.31034
+Op play 3?
+I played 1, op played 2
+I lost
+
+9, 8, 11 => 0.32143, 0.28571, 0.39286
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 18, 13 => 0.27907, 0.41860, 0.30233
+Op play 2?
+I played 3, op played 2
+I won
+
+12, 8, 10 => 0.40000, 0.26667, 0.33333
+Op play 2?
+I played 3, op played 2
+I won
+
+10, 7, 6 => 0.43478, 0.30435, 0.26087
+Op play 2?
+I played 3, op played 1
+I lost
+
+10, 11, 12 => 0.30303, 0.33333, 0.36364
+Op play 3?
+I played 1, op played 1
+I tied
+
+14, 10, 16 => 0.35000, 0.25000, 0.40000
+Op play 3?
+I played 1, op played 2
+I lost
+
+11, 9, 15 => 0.31429, 0.25714, 0.42857
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 11, 7 => 0.37931, 0.37931, 0.24138
+Op play 3?
+I played 1, op played 2
+I lost
+
+9, 10, 12 => 0.29032, 0.32258, 0.38710
+Op play 1?
+I played 2, op played 3
+I lost
+
+24, 17, 7 => 0.50000, 0.35417, 0.14583
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 6, 13 => 0.36667, 0.20000, 0.43333
+Op play 2?
+I played 3, op played 2
+I won
+
+11, 7, 7 => 0.44000, 0.28000, 0.28000
+Op play 2?
+I played 3, op played 1
+I lost
+
+12, 11, 12 => 0.34286, 0.31429, 0.34286
+Op play 1?
+I played 2, op played 3
+I lost
+
+27, 18, 7 => 0.51923, 0.34615, 0.13462
+Op play 3?
+I played 1, op played 2
+I lost
+
+12, 10, 16 => 0.31579, 0.26316, 0.42105
+Op play 3?
+I played 1, op played 1
+I tied
+
+13, 10, 18 => 0.31707, 0.24390, 0.43902
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 9, 14 => 0.32353, 0.26471, 0.41176
+Op play 2?
+I played 3, op played 2
+I won
+
+13, 7, 8 => 0.46429, 0.25000, 0.28571
+Op play 3?
+I played 1, op played 2
+I lost
+
+11, 11, 14 => 0.30556, 0.30556, 0.38889
+Op play 3?
+I played 1, op played 2
+I lost
+
+10, 10, 13 => 0.30303, 0.30303, 0.39394
+Op play 3?
+I played 1, op played 3
+I won
+
+10, 8, 12 => 0.33333, 0.26667, 0.40000
+Op play 2?
+I played 3, op played 2
+I won
+
+13, 9, 7 => 0.44828, 0.31034, 0.24138
+Op play 2?
+I played 3, op played 3
+I tied
+
+10, 10, 8 => 0.35714, 0.35714, 0.28571
+Op play 3?
+I played 1, op played 2
+I lost
+
+10, 11, 15 => 0.27778, 0.30556, 0.41667
+Op play 3?
+I played 1, op played 1
+I tied
+
+13, 10, 19 => 0.30952, 0.23810, 0.45238
+Op play 3?
+I played 1, op played 1
+I tied
+
+16, 12, 20 => 0.33333, 0.25000, 0.41667
+Op play 3?
+I played 1, op played 1
+I tied
+
+19, 13, 20 => 0.36538, 0.25000, 0.38462
+Op play 3?
+I played 1, op played 1
+I tied
+
+22, 14, 20 => 0.39286, 0.25000, 0.35714
+Op play 1?
+I played 2, op played 3
+I lost
+
+24, 16, 10 => 0.48000, 0.32000, 0.20000
+Op play 1?
+I played 2, op played 2
+I tied
+
+11, 15, 13 => 0.28205, 0.38462, 0.33333
+Op play 2?
+I played 3, op played 3
+I tied
+
+13, 12, 8 => 0.39394, 0.36364, 0.24242
+Op play 3?
+I played 1, op played 2
+I lost
+
+12, 12, 15 => 0.30769, 0.30769, 0.38462
+Op play 3?
+I played 1, op played 2
+I lost
+
+11, 11, 15 => 0.29730, 0.29730, 0.40541
+Op play 3?
+I played 1, op played 1
+I tied
+
+17, 10, 20 => 0.36170, 0.21277, 0.42553
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 13, 14 => 0.28947, 0.34211, 0.36842
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 10, 13 => 0.32353, 0.29412, 0.38235
+Op play 3?
+I played 1, op played 1
+I tied
+
+21, 10, 22 => 0.39623, 0.18868, 0.41509
+Op play 3?
+I played 1, op played 3
+I won
+
+12, 13, 17 => 0.28571, 0.30952, 0.40476
+Op play 3?
+I played 1, op played 3
+I won
+
+14, 10, 14 => 0.36842, 0.26316, 0.36842
+Op play 1?
+I played 2, op played 3
+I lost
+
+24, 16, 6 => 0.52174, 0.34783, 0.13043
+Op play 3?
+I played 1, op played 3
+I won
+
+12, 10, 15 => 0.32432, 0.27027, 0.40541
+Op play 3?
+I played 1, op played 2
+I lost
+
+13, 12, 16 => 0.31707, 0.29268, 0.39024
+Op play 3?
+I played 1, op played 1
+I tied
+
+17, 10, 23 => 0.34000, 0.20000, 0.46000
+Op play 3?
+I played 1, op played 3
+I won
+
+12, 14, 20 => 0.26087, 0.30435, 0.43478
+Op play 3?
+I played 1, op played 2
+I lost
+
+15, 12, 17 => 0.34091, 0.27273, 0.38636
+Op play 3?
+I played 1, op played 3
+I won
+
+11, 12, 15 => 0.28947, 0.31579, 0.39474
+Op play 3?
+I played 1, op played 3
+I won
+
+13, 12, 17 => 0.30952, 0.28571, 0.40476
+Op play 3?
+I played 1, op played 1
+I tied
+
+21, 10, 26 => 0.36842, 0.17544, 0.45614
+Op play 3?
+I played 1, op played 1
+I tied
+
+23, 12, 26 => 0.37705, 0.19672, 0.42623
+Op play 3?
+I played 1, op played 2
+I lost
+
+16, 11, 19 => 0.34783, 0.23913, 0.41304
+Op play 3?
+I played 1, op played 3
+I won
+
+12, 12, 17 => 0.29268, 0.29268, 0.41463
+Op play 3?
+I played 1, op played 2
+I lost
+
+15, 12, 19 => 0.32609, 0.26087, 0.41304
+Op play 3?
+I played 1, op played 3
+I won
+
+12, 14, 18 => 0.27273, 0.31818, 0.40909
+Op play 3?
+I played 1, op played 3
+I won
+
+17, 13, 18 => 0.35417, 0.27083, 0.37500
+Op play 3?
+I played 1, op played 2
+I lost
+
+15, 13, 21 => 0.30612, 0.26531, 0.42857
+Op play 3?
+I played 1, op played 1
+I tied
+
+18, 11, 26 => 0.32727, 0.20000, 0.47273
+Op play 3?
+I played 1, op played 3
+I won
+
+13, 20, 22 => 0.23636, 0.36364, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+23, 11, 26 => 0.38333, 0.18333, 0.43333
+Op play 3?
+I played 1, op played 1
+I tied
+
+23, 15, 28 => 0.34848, 0.22727, 0.42424
+Op play 3?
+I played 1, op played 3
+I won
+
+15, 17, 21 => 0.28302, 0.32075, 0.39623
+Op play 3?
+I played 1, op played 3
+I won
+
+17, 15, 20 => 0.32692, 0.28846, 0.38462
+Op play 3?
+I played 1, op played 2
+I lost
+
+18, 13, 21 => 0.34615, 0.25000, 0.40385
+Op play 3?
+I played 1, op played 3
+I won
+
+13, 16, 22 => 0.25490, 0.31373, 0.43137
+Op play 3?
+I played 1, op played 1
+I tied
+
+24, 11, 27 => 0.38710, 0.17742, 0.43548
+Op play 3?
+I played 1, op played 3
+I won
+
+16, 19, 25 => 0.26667, 0.31667, 0.41667
+Op play 3?
+I played 1, op played 3
+I won
+
+18, 18, 22 => 0.31034, 0.31034, 0.37931
+Op play 3?
+I played 1, op played 3
+I won
+
+17, 17, 22 => 0.30357, 0.30357, 0.39286
+Op play 3?
+I played 1, op played 1
+I tied
+
+26, 11, 30 => 0.38806, 0.16418, 0.44776
+Op play 3?
+I played 1, op played 3
+I won
+
+17, 19, 30 => 0.25758, 0.28788, 0.45455
+Op play 3?
+I played 1, op played 1
+I tied
+
+26, 11, 31 => 0.38235, 0.16176, 0.45588
+Op play 3?
+I played 1, op played 3
+I won
+
+20, 19, 29 => 0.29412, 0.27941, 0.42647
+Op play 3?
+I played 1, op played 1
+I tied
+
+26, 11, 35 => 0.36111, 0.15278, 0.48611
+Op play 3?
+I played 1, op played 1
+I tied
+
+24, 15, 35 => 0.32432, 0.20270, 0.47297
+Op play 3?
+I played 1, op played 1
+I tied
+
+28, 15, 32 => 0.37333, 0.20000, 0.42667
+Op play 3?
+I played 1, op played 1
+I tied
+
+30, 17, 33 => 0.37500, 0.21250, 0.41250
+Op play 3?
+I played 1, op played 3
+I won
+
+21, 18, 27 => 0.31818, 0.27273, 0.40909
+Op play 3?
+I played 1, op played 2
+I lost
+
+17, 12, 25 => 0.31481, 0.22222, 0.46296
+Op play 3?
+I played 1, op played 3
+I won
+
+19, 17, 25 => 0.31148, 0.27869, 0.40984
+Op play 3?
+I played 1, op played 1
+I tied
+
+28, 11, 36 => 0.37333, 0.14667, 0.48000
+Op play 3?
+I played 1, op played 2
+I lost
+
+16, 11, 24 => 0.31373, 0.21569, 0.47059
+Op play 3?
+I played 1, op played 1
+I tied
+
+22, 12, 32 => 0.33333, 0.18182, 0.48485
+Op play 3?
+I played 1, op played 1
+I tied
+
+29, 15, 33 => 0.37662, 0.19481, 0.42857
+Op play 3?
+I played 1, op played 2
+I lost
+
+19, 11, 25 => 0.34545, 0.20000, 0.45455
+Op play 3?
+I played 1, op played 3
+I won
+
+20, 19, 22 => 0.32787, 0.31148, 0.36066
+Op play 3?
+I played 1, op played 1
+I tied
+
+29, 15, 35 => 0.36709, 0.18987, 0.44304
+Op play 3?
+I played 1, op played 2
+I lost
+
+20, 11, 26 => 0.35088, 0.19298, 0.45614
+Op play 3?
+I played 1, op played 1
+I tied
+
+27, 14, 32 => 0.36986, 0.19178, 0.43836
+Op play 3?
+I played 1, op played 3
+I won
+
+24, 22, 27 => 0.32877, 0.30137, 0.36986
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 19, 25 => 0.36232, 0.27536, 0.36232
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 18, 25 => 0.36765, 0.26471, 0.36765
+Op play 3?
+I played 1, op played 2
+I lost
+
+20, 13, 27 => 0.33333, 0.21667, 0.45000
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 18, 26 => 0.36232, 0.26087, 0.37681
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 22, 26 => 0.34247, 0.30137, 0.35616
+Op play 3?
+I played 1, op played 1
+I tied
+
+33, 16, 37 => 0.38372, 0.18605, 0.43023
+Op play 3?
+I played 1, op played 1
+I tied
+
+32, 22, 36 => 0.35556, 0.24444, 0.40000
+Op play 3?
+I played 1, op played 3
+I won
+
+24, 22, 32 => 0.30769, 0.28205, 0.41026
+Op play 3?
+I played 1, op played 2
+I lost
+
+19, 12, 32 => 0.30159, 0.19048, 0.50794
+Op play 3?
+I played 1, op played 2
+I lost
+
+17, 12, 22 => 0.33333, 0.23529, 0.43137
+Op play 3?
+I played 1, op played 1
+I tied
+
+25, 14, 36 => 0.33333, 0.18667, 0.48000
+Op play 3?
+I played 1, op played 2
+I lost
+
+21, 12, 27 => 0.35000, 0.20000, 0.45000
+Op play 3?
+I played 1, op played 1
+I tied
+
+26, 16, 36 => 0.33333, 0.20513, 0.46154
+Op play 3?
+I played 1, op played 2
+I lost
+
+24, 12, 27 => 0.38095, 0.19048, 0.42857
+Op play 3?
+I played 1, op played 2
+I lost
+
+20, 13, 22 => 0.36364, 0.23636, 0.40000
+Op play 3?
+I played 1, op played 2
+I lost
+
+20, 15, 22 => 0.35088, 0.26316, 0.38596
+Op play 3?
+I played 1, op played 1
+I tied
+
+25, 19, 36 => 0.31250, 0.23750, 0.45000
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 16, 27 => 0.37681, 0.23188, 0.39130
+Op play 3?
+I played 1, op played 1
+I tied
+
+26, 23, 36 => 0.30588, 0.27059, 0.42353
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 25, 33 => 0.30120, 0.30120, 0.39759
+Op play 3?
+I played 1, op played 3
+I won
+
+27, 22, 32 => 0.33333, 0.27160, 0.39506
+Op play 3?
+I played 1, op played 1
+I tied
+
+34, 19, 41 => 0.36170, 0.20213, 0.43617
+Op play 3?
+I played 1, op played 2
+I lost
+
+28, 15, 27 => 0.40000, 0.21429, 0.38571
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 17, 15 => 0.17949, 0.43590, 0.38462
+Op play 1?
+I played 2, op played 3
+I lost
+
+24, 20, 7 => 0.47059, 0.39216, 0.13725
+Op play 3?
+I played 1, op played 3
+I won
+
+22, 19, 24 => 0.33846, 0.29231, 0.36923
+Op play 3?
+I played 1, op played 2
+I lost
+
+25, 16, 28 => 0.36232, 0.23188, 0.40580
+Op play 3?
+I played 1, op played 1
+I tied
+
+25, 21, 40 => 0.29070, 0.24419, 0.46512
+Op play 3?
+I played 1, op played 1
+I tied
+
+31, 23, 37 => 0.34066, 0.25275, 0.40659
+Op play 3?
+I played 1, op played 2
+I lost
+
+30, 15, 30 => 0.40000, 0.20000, 0.40000
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 20, 14 => 0.26087, 0.43478, 0.30435
+Op play 2?
+I played 3, op played 3
+I tied
+
+12, 14, 8 => 0.35294, 0.41176, 0.23529
+Op play 3?
+I played 1, op played 2
+I lost
+
+23, 19, 22 => 0.35938, 0.29688, 0.34375
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 22, 16 => 0.24000, 0.44000, 0.32000
+Op play 2?
+I played 3, op played 2
+I won
+
+14, 14, 11 => 0.35897, 0.35897, 0.28205
+Op play 2?
+I played 3, op played 3
+I tied
+
+10, 14, 9 => 0.30303, 0.42424, 0.27273
+Op play 3?
+I played 1, op played 2
+I lost
+
+24, 19, 22 => 0.36923, 0.29231, 0.33846
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 24, 16 => 0.23077, 0.46154, 0.30769
+Op play 2?
+I played 3, op played 1
+I lost
+
+10, 12, 14 => 0.27778, 0.33333, 0.38889
+Op play 3?
+I played 1, op played 2
+I lost
+
+22, 17, 21 => 0.36667, 0.28333, 0.35000
+Op play 1?
+I played 2, op played 2
+I tied
+
+14, 22, 16 => 0.26923, 0.42308, 0.30769
+Op play 2?
+I played 3, op played 2
+I won
+
+14, 12, 14 => 0.35000, 0.30000, 0.35000
+Op play 1?
+I played 2, op played 3
+I lost
+
+23, 16, 8 => 0.48936, 0.34043, 0.17021
+Op play 3?
+I played 1, op played 1
+I tied
+
+28, 23, 33 => 0.33333, 0.27381, 0.39286
+Op play 3?
+I played 1, op played 1
+I tied
+
+31, 24, 38 => 0.33333, 0.25806, 0.40860
+Op play 3?
+I played 1, op played 1
+I tied
+
+36, 25, 39 => 0.36000, 0.25000, 0.39000
+Op play 3?
+I played 1, op played 1
+I tied
+
+39, 26, 41 => 0.36792, 0.24528, 0.38679
+Op play 3?
+I played 1, op played 1
+I tied
+
+43, 26, 41 => 0.39091, 0.23636, 0.37273
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 13, 16 => 0.19444, 0.36111, 0.44444
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 14, 16 => 0.21053, 0.36842, 0.42105
+Op play 1?
+I played 2, op played 1
+I won
+
+10, 14, 16 => 0.25000, 0.35000, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+29, 21, 31 => 0.35802, 0.25926, 0.38272
+Op play 3?
+I played 1, op played 3
+I won
+
+25, 25, 32 => 0.30488, 0.30488, 0.39024
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 22, 39 => 0.39604, 0.21782, 0.38614
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 17, 16 => 0.26667, 0.37778, 0.35556
+Op play 2?
+I played 3, op played 2
+I won
+
+13, 11, 14 => 0.34211, 0.28947, 0.36842
+Op play 3?
+I played 1, op played 1
+I tied
+
+29, 20, 34 => 0.34940, 0.24096, 0.40964
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 20, 27 => 0.38158, 0.26316, 0.35526
+Op play 1?
+I played 2, op played 1
+I won
+
+10, 17, 18 => 0.22222, 0.37778, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+29, 23, 33 => 0.34118, 0.27059, 0.38824
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 26, 38 => 0.38462, 0.25000, 0.36538
+Op play 1?
+I played 2, op played 1
+I won
+
+13, 13, 16 => 0.30952, 0.30952, 0.38095
+Op play 3?
+I played 1, op played 1
+I tied
+
+32, 23, 33 => 0.36364, 0.26136, 0.37500
+Op play 3?
+I played 1, op played 1
+I tied
+
+44, 26, 38 => 0.40741, 0.24074, 0.35185
+Op play 1?
+I played 2, op played 1
+I won
+
+17, 13, 16 => 0.36957, 0.28261, 0.34783
+Op play 1?
+I played 2, op played 1
+I won
+
+17, 14, 16 => 0.36170, 0.29787, 0.34043
+Op play 1?
+I played 2, op played 1
+I won
+
+20, 14, 16 => 0.40000, 0.28000, 0.32000
+Op play 1?
+I played 2, op played 1
+I won
+
+21, 14, 16 => 0.41176, 0.27451, 0.31373
+Op play 1?
+I played 2, op played 3
+I lost
+
+25, 21, 9 => 0.45455, 0.38182, 0.16364
+Op play 3?
+I played 1, op played 2
+I lost
+
+28, 20, 27 => 0.37333, 0.26667, 0.36000
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 17, 18 => 0.31373, 0.33333, 0.35294
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 23, 22 => 0.36620, 0.32394, 0.30986
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 18, 19 => 0.30189, 0.33962, 0.35849
+Op play 3?
+I played 1, op played 3
+I won
+
+26, 18, 29 => 0.35616, 0.24658, 0.39726
+Op play 3?
+I played 1, op played 3
+I won
+
+29, 23, 31 => 0.34940, 0.27711, 0.37349
+Op play 3?
+I played 1, op played 1
+I tied
+
+45, 26, 40 => 0.40541, 0.23423, 0.36036
+Op play 1?
+I played 2, op played 2
+I tied
+
+12, 20, 16 => 0.25000, 0.41667, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+10, 14, 14 => 0.26316, 0.36842, 0.36842
+Op play 3?
+I played 1, op played 3
+I won
+
+23, 19, 24 => 0.34848, 0.28788, 0.36364
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 20, 28 => 0.37662, 0.25974, 0.36364
+Op play 1?
+I played 2, op played 3
+I lost
+
+25, 21, 11 => 0.43860, 0.36842, 0.19298
+Op play 1?
+I played 2, op played 3
+I lost
+
+24, 17, 9 => 0.48000, 0.34000, 0.18000
+Op play 3?
+I played 1, op played 1
+I tied
+
+38, 26, 34 => 0.38776, 0.26531, 0.34694
+Op play 1?
+I played 2, op played 3
+I lost
+
+27, 19, 11 => 0.47368, 0.33333, 0.19298
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 16, 18 => 0.32000, 0.32000, 0.36000
+Op play 3?
+I played 1, op played 3
+I won
+
+28, 19, 29 => 0.36842, 0.25000, 0.38158
+Op play 3?
+I played 1, op played 1
+I tied
+
+41, 27, 41 => 0.37615, 0.24771, 0.37615
+Op play 1?
+I played 2, op played 3
+I lost
+
+28, 19, 11 => 0.48276, 0.32759, 0.18966
+Op play 1?
+I played 2, op played 3
+I lost
+
+28, 17, 10 => 0.50909, 0.30909, 0.18182
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 18, 20 => 0.29630, 0.33333, 0.37037
+Op play 3?
+I played 1, op played 1
+I tied
+
+35, 24, 35 => 0.37234, 0.25532, 0.37234
+Op play 3?
+I played 1, op played 1
+I tied
+
+48, 27, 40 => 0.41739, 0.23478, 0.34783
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 14, 19 => 0.42105, 0.24561, 0.33333
+Op play 1?
+I played 2, op played 3
+I lost
+
+28, 22, 11 => 0.45902, 0.36066, 0.18033
+Op play 1?
+I played 2, op played 3
+I lost
+
+29, 17, 11 => 0.50877, 0.29825, 0.19298
+Op play 1?
+I played 2, op played 2
+I tied
+
+13, 18, 16 => 0.27660, 0.38298, 0.34043
+Op play 2?
+I played 3, op played 1
+I lost
+
+10, 14, 16 => 0.25000, 0.35000, 0.40000
+Op play 3?
+I played 1, op played 3
+I won
+
+24, 22, 24 => 0.34286, 0.31429, 0.34286
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 16, 20 => 0.30769, 0.30769, 0.38462
+Op play 3?
+I played 1, op played 1
+I tied
+
+38, 24, 35 => 0.39175, 0.24742, 0.36082
+Op play 1?
+I played 2, op played 3
+I lost
+
+29, 20, 14 => 0.46032, 0.31746, 0.22222
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 18, 17 => 0.30000, 0.36000, 0.34000
+Op play 2?
+I played 3, op played 3
+I tied
+
+13, 19, 8 => 0.32500, 0.47500, 0.20000
+Op play 3?
+I played 1, op played 3
+I won
+
+26, 19, 24 => 0.37681, 0.27536, 0.34783
+Op play 1?
+I played 2, op played 1
+I won
+
+18, 16, 20 => 0.33333, 0.29630, 0.37037
+Op play 3?
+I played 1, op played 2
+I lost
+
+28, 23, 23 => 0.37838, 0.31081, 0.31081
+Op play 1?
+I played 2, op played 3
+I lost
+
+28, 22, 15 => 0.43077, 0.33846, 0.23077
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 18, 18 => 0.29412, 0.35294, 0.35294
+Op play 3?
+I played 1, op played 3
+I won
+
+27, 20, 24 => 0.38028, 0.28169, 0.33803
+Op play 1?
+I played 2, op played 3
+I lost
+
+28, 20, 12 => 0.46667, 0.33333, 0.20000
+Op play 1?
+I played 2, op played 1
+I won
+
+19, 17, 21 => 0.33333, 0.29825, 0.36842
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 23, 25 => 0.37662, 0.29870, 0.32468
+Op play 1?
+I played 2, op played 2
+I tied
+
+16, 30, 18 => 0.25000, 0.46875, 0.28125
+Op play 2?
+I played 3, op played 3
+I tied
+
+12, 18, 10 => 0.30000, 0.45000, 0.25000
+Op play 2?
+I played 3, op played 1
+I lost
+
+9, 11, 14 => 0.26471, 0.32353, 0.41176
+Op play 1?
+I played 2, op played 2
+I tied
+
+18, 20, 19 => 0.31579, 0.35088, 0.33333
+Op play 2?
+I played 3, op played 2
+I won
+
+15, 11, 14 => 0.37500, 0.27500, 0.35000
+Op play 1?
+I played 2, op played 1
+I won
+
+20, 17, 19 => 0.35714, 0.30357, 0.33929
+Op play 1?
+I played 2, op played 2
+I tied
+
+16, 22, 17 => 0.29091, 0.40000, 0.30909
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 11, 15 => 0.39535, 0.25581, 0.34884
+Op play 1?
+I played 2, op played 2
+I tied
+
+14, 21, 18 => 0.26415, 0.39623, 0.33962
+Op play 2?
+I played 3, op played 3
+I tied
+
+14, 17, 10 => 0.34146, 0.41463, 0.24390
+Op play 2?
+I played 3, op played 2
+I won
+
+15, 9, 9 => 0.45455, 0.27273, 0.27273
+Op play 2?
+I played 3, op played 2
+I won
+
+15, 10, 9 => 0.44118, 0.29412, 0.26471
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 22, 24 => 0.36111, 0.30556, 0.33333
+Op play 1?
+I played 2, op played 1
+I won
+
+18, 22, 22 => 0.29032, 0.35484, 0.35484
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 14, 8 => 0.33333, 0.42424, 0.24242
+Op play 3?
+I played 1, op played 3
+I won
+
+28, 19, 25 => 0.38889, 0.26389, 0.34722
+Op play 1?
+I played 2, op played 1
+I won
+
+18, 21, 21 => 0.30000, 0.35000, 0.35000
+Op play 3?
+I played 1, op played 1
+I tied
+
+38, 24, 38 => 0.38000, 0.24000, 0.38000
+Op play 1?
+I played 2, op played 1
+I won
+
+21, 17, 22 => 0.35000, 0.28333, 0.36667
+Op play 3?
+I played 1, op played 1
+I tied
+
+41, 24, 37 => 0.40196, 0.23529, 0.36275
+Op play 1?
+I played 2, op played 3
+I lost
+
+30, 24, 14 => 0.44118, 0.35294, 0.20588
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 20, 25 => 0.25000, 0.33333, 0.41667
+Op play 3?
+I played 1, op played 1
+I tied
+
+36, 22, 37 => 0.37895, 0.23158, 0.38947
+Op play 3?
+I played 1, op played 1
+I tied
+
+50, 27, 42 => 0.42017, 0.22689, 0.35294
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 17, 23 => 0.39394, 0.25758, 0.34848
+Op play 1?
+I played 2, op played 2
+I tied
+
+17, 23, 18 => 0.29310, 0.39655, 0.31034
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 16, 15 => 0.35417, 0.33333, 0.31250
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 22, 22 => 0.25424, 0.37288, 0.37288
+Op play 3?
+I played 1, op played 3
+I won
+
+28, 20, 26 => 0.37838, 0.27027, 0.35135
+Op play 1?
+I played 2, op played 1
+I won
+
+21, 21, 21 => 0.33333, 0.33333, 0.33333
+Op play 3?
+I played 1, op played 1
+I tied
+
+43, 24, 40 => 0.40187, 0.22430, 0.37383
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 19, 22 => 0.38806, 0.28358, 0.32836
+Op play 1?
+I played 2, op played 1
+I won
+
+27, 19, 22 => 0.39706, 0.27941, 0.32353
+Op play 1?
+I played 2, op played 1
+I won
+
+31, 19, 23 => 0.42466, 0.26027, 0.31507
+Op play 1?
+I played 2, op played 3
+I lost
+
+29, 29, 13 => 0.40845, 0.40845, 0.18310
+Op play 2?
+I played 3, op played 3
+I tied
+
+13, 14, 9 => 0.36111, 0.38889, 0.25000
+Op play 3?
+I played 1, op played 2
+I lost
+
+27, 23, 24 => 0.36486, 0.31081, 0.32432
+Op play 1?
+I played 2, op played 3
+I lost
+
+29, 25, 17 => 0.40845, 0.35211, 0.23944
+Op play 1?
+I played 2, op played 2
+I tied
+
+17, 21, 24 => 0.27419, 0.33871, 0.38710
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 19, 25 => 0.37143, 0.27143, 0.35714
+Op play 1?
+I played 2, op played 3
+I lost
+
+29, 27, 16 => 0.40278, 0.37500, 0.22222
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 21, 23 => 0.35294, 0.30882, 0.33824
+Op play 1?
+I played 2, op played 2
+I tied
+
+17, 26, 19 => 0.27419, 0.41935, 0.30645
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 19, 15 => 0.33333, 0.37255, 0.29412
+Op play 2?
+I played 3, op played 2
+I won
+
+16, 14, 9 => 0.41026, 0.35897, 0.23077
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 22, 26 => 0.37662, 0.28571, 0.33766
+Op play 1?
+I played 2, op played 2
+I tied
+
+17, 30, 23 => 0.24286, 0.42857, 0.32857
+Op play 2?
+I played 3, op played 3
+I tied
+
+15, 21, 11 => 0.31915, 0.44681, 0.23404
+Op play 2?
+I played 3, op played 2
+I won
+
+15, 16, 9 => 0.37500, 0.40000, 0.22500
+Op play 3?
+I played 1, op played 3
+I won
+
+29, 20, 26 => 0.38667, 0.26667, 0.34667
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 24, 20 => 0.25424, 0.40678, 0.33898
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 20, 15 => 0.32692, 0.38462, 0.28846
+Op play 2?
+I played 3, op played 1
+I lost
+
+12, 13, 16 => 0.29268, 0.31707, 0.39024
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 25, 35 => 0.40000, 0.25000, 0.35000
+Op play 1?
+I played 2, op played 2
+I tied
+
+16, 25, 22 => 0.25397, 0.39683, 0.34921
+Op play 2?
+I played 3, op played 1
+I lost
+
+11, 15, 19 => 0.24444, 0.33333, 0.42222
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 22, 25 => 0.35616, 0.30137, 0.34247
+Op play 1?
+I played 2, op played 2
+I tied
+
+18, 33, 24 => 0.24000, 0.44000, 0.32000
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 21, 20 => 0.32787, 0.34426, 0.32787
+Op play 2?
+I played 3, op played 2
+I won
+
+18, 18, 10 => 0.39130, 0.39130, 0.21739
+Op play 2?
+I played 3, op played 2
+I won
+
+16, 19, 10 => 0.35556, 0.42222, 0.22222
+Op play 2?
+I played 3, op played 2
+I won
+
+16, 22, 10 => 0.33333, 0.45833, 0.20833
+Op play 2?
+I played 3, op played 1
+I lost
+
+15, 14, 16 => 0.33333, 0.31111, 0.35556
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 29, 35 => 0.38462, 0.27885, 0.33654
+Op play 1?
+I played 2, op played 2
+I tied
+
+20, 26, 22 => 0.29412, 0.38235, 0.32353
+Op play 2?
+I played 3, op played 1
+I lost
+
+12, 20, 19 => 0.23529, 0.39216, 0.37255
+Op play 2?
+I played 3, op played 1
+I lost
+
+13, 13, 15 => 0.31707, 0.31707, 0.36585
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 28, 35 => 0.38835, 0.27184, 0.33981
+Op play 1?
+I played 2, op played 2
+I tied
+
+22, 26, 22 => 0.31429, 0.37143, 0.31429
+Op play 2?
+I played 3, op played 2
+I won
+
+21, 24, 15 => 0.35000, 0.40000, 0.25000
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 24, 10 => 0.35849, 0.45283, 0.18868
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 19, 10 => 0.27500, 0.47500, 0.25000
+Op play 2?
+I played 3, op played 3
+I tied
+
+12, 16, 10 => 0.31579, 0.42105, 0.26316
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 19, 12 => 0.35417, 0.39583, 0.25000
+Op play 2?
+I played 3, op played 3
+I tied
+
+11, 20, 12 => 0.25581, 0.46512, 0.27907
+Op play 2?
+I played 3, op played 1
+I lost
+
+13, 14, 14 => 0.31707, 0.34146, 0.34146
+Op play 3?
+I played 1, op played 3
+I won
+
+29, 22, 25 => 0.38158, 0.28947, 0.32895
+Op play 1?
+I played 2, op played 3
+I lost
+
+31, 22, 13 => 0.46970, 0.33333, 0.19697
+Op play 1?
+I played 2, op played 3
+I lost
+
+31, 23, 13 => 0.46269, 0.34328, 0.19403
+Op play 1?
+I played 2, op played 1
+I won
+
+25, 24, 23 => 0.34722, 0.33333, 0.31944
+Op play 1?
+I played 2, op played 1
+I won
+
+28, 20, 24 => 0.38889, 0.27778, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+20, 31, 20 => 0.28169, 0.43662, 0.28169
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 29, 18 => 0.29851, 0.43284, 0.26866
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 26, 14 => 0.32203, 0.44068, 0.23729
+Op play 2?
+I played 3, op played 3
+I tied
+
+13, 20, 14 => 0.27660, 0.42553, 0.29787
+Op play 2?
+I played 3, op played 3
+I tied
+
+13, 21, 11 => 0.28889, 0.46667, 0.24444
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 20, 19 => 0.30357, 0.35714, 0.33929
+Op play 2?
+I played 3, op played 3
+I tied
+
+18, 21, 14 => 0.33962, 0.39623, 0.26415
+Op play 2?
+I played 3, op played 1
+I lost
+
+13, 14, 22 => 0.26531, 0.28571, 0.44898
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 30, 35 => 0.38095, 0.28571, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+22, 30, 22 => 0.29730, 0.40541, 0.29730
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 19, 20 => 0.31579, 0.33333, 0.35088
+Op play 3?
+I played 1, op played 2
+I lost
+
+26, 27, 25 => 0.33333, 0.34615, 0.32051
+Op play 2?
+I played 3, op played 1
+I lost
+
+15, 16, 16 => 0.31915, 0.34043, 0.34043
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 14, 16 => 0.37500, 0.29167, 0.33333
+Op play 1?
+I played 2, op played 3
+I lost
+
+34, 27, 14 => 0.45333, 0.36000, 0.18667
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 25, 24 => 0.34667, 0.33333, 0.32000
+Op play 1?
+I played 2, op played 3
+I lost
+
+32, 27, 16 => 0.42667, 0.36000, 0.21333
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 24, 25 => 0.34667, 0.32000, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+20, 34, 20 => 0.27027, 0.45946, 0.27027
+Op play 2?
+I played 3, op played 1
+I lost
+
+17, 20, 20 => 0.29825, 0.35088, 0.35088
+Op play 3?
+I played 1, op played 1
+I tied
+
+40, 32, 35 => 0.37383, 0.29907, 0.32710
+Op play 1?
+I played 2, op played 2
+I tied
+
+26, 30, 22 => 0.33333, 0.38462, 0.28205
+Op play 2?
+I played 3, op played 2
+I won
+
+21, 30, 19 => 0.30000, 0.42857, 0.27143
+Op play 2?
+I played 3, op played 3
+I tied
+
+15, 22, 15 => 0.28846, 0.42308, 0.28846
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 15, 18 => 0.35294, 0.29412, 0.35294
+Op play 3?
+I played 1, op played 2
+I lost
+
+28, 23, 25 => 0.36842, 0.30263, 0.32895
+Op play 1?
+I played 2, op played 3
+I lost
+
+34, 27, 17 => 0.43590, 0.34615, 0.21795
+Op play 1?
+I played 2, op played 2
+I tied
+
+21, 30, 25 => 0.27632, 0.39474, 0.32895
+Op play 2?
+I played 3, op played 1
+I lost
+
+19, 20, 21 => 0.31667, 0.33333, 0.35000
+Op play 3?
+I played 1, op played 3
+I won
+
+31, 23, 27 => 0.38272, 0.28395, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+20, 31, 20 => 0.28169, 0.43662, 0.28169
+Op play 2?
+I played 3, op played 2
+I won
+
+21, 28, 21 => 0.30000, 0.40000, 0.30000
+Op play 2?
+I played 3, op played 3
+I tied
+
+18, 22, 15 => 0.32727, 0.40000, 0.27273
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 19, 19 => 0.32143, 0.33929, 0.33929
+Op play 2?
+I played 3, op played 3
+I tied
+
+15, 18, 12 => 0.33333, 0.40000, 0.26667
+Op play 2?
+I played 3, op played 1
+I lost
+
+17, 17, 20 => 0.31481, 0.31481, 0.37037
+Op play 3?
+I played 1, op played 3
+I won
+
+29, 24, 28 => 0.35802, 0.29630, 0.34568
+Op play 1?
+I played 2, op played 3
+I lost
+
+34, 23, 17 => 0.45946, 0.31081, 0.22973
+Op play 1?
+I played 2, op played 2
+I tied
+
+23, 30, 24 => 0.29870, 0.38961, 0.31169
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 25, 14 => 0.33898, 0.42373, 0.23729
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 20, 12 => 0.34694, 0.40816, 0.24490
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 20, 21 => 0.29310, 0.34483, 0.36207
+Op play 3?
+I played 1, op played 3
+I won
+
+29, 24, 28 => 0.35802, 0.29630, 0.34568
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 24, 23 => 0.35616, 0.32877, 0.31507
+Op play 1?
+I played 2, op played 2
+I tied
+
+23, 35, 21 => 0.29114, 0.44304, 0.26582
+Op play 2?
+I played 3, op played 3
+I tied
+
+19, 25, 15 => 0.32203, 0.42373, 0.25424
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 21, 22 => 0.28333, 0.35000, 0.36667
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 25, 27 => 0.35802, 0.30864, 0.33333
+Op play 1?
+I played 2, op played 3
+I lost
+
+34, 31, 17 => 0.41463, 0.37805, 0.20732
+Op play 1?
+I played 2, op played 2
+I tied
+
+24, 31, 28 => 0.28916, 0.37349, 0.33735
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 29, 24 => 0.27397, 0.39726, 0.32877
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 27, 21 => 0.28358, 0.40299, 0.31343
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 23, 19 => 0.32258, 0.37097, 0.30645
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 29, 13 => 0.28814, 0.49153, 0.22034
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 23, 31 => 0.23944, 0.32394, 0.43662
+Op play 3?
+I played 1, op played 1
+I tied
+
+39, 28, 37 => 0.37500, 0.26923, 0.35577
+Op play 1?
+I played 2, op played 1
+I won
+
+28, 23, 24 => 0.37333, 0.30667, 0.32000
+Op play 1?
+I played 2, op played 2
+I tied
+
+23, 37, 23 => 0.27711, 0.44578, 0.27711
+Op play 2?
+I played 3, op played 1
+I lost
+
+20, 21, 24 => 0.30769, 0.32308, 0.36923
+Op play 3?
+I played 1, op played 3
+I won
+
+31, 26, 29 => 0.36047, 0.30233, 0.33721
+Op play 1?
+I played 2, op played 1
+I won
+
+28, 27, 23 => 0.35897, 0.34615, 0.29487
+Op play 1?
+I played 2, op played 2
+I tied
+
+25, 36, 24 => 0.29412, 0.42353, 0.28235
+Op play 2?
+I played 3, op played 3
+I tied
+
+19, 30, 16 => 0.29231, 0.46154, 0.24615
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 26, 14 => 0.29825, 0.45614, 0.24561
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 23, 26 => 0.28986, 0.33333, 0.37681
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 25, 30 => 0.34524, 0.29762, 0.35714
+Op play 3?
+I played 1, op played 2
+I lost
+
+30, 23, 29 => 0.36585, 0.28049, 0.35366
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 28, 26 => 0.30769, 0.35897, 0.33333
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 23, 20 => 0.28333, 0.38333, 0.33333
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 27, 18 => 0.30769, 0.41538, 0.27692
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 30, 15 => 0.27419, 0.48387, 0.24194
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 27, 17 => 0.27869, 0.44262, 0.27869
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 26, 26 => 0.27778, 0.36111, 0.36111
+Op play 3?
+I played 1, op played 2
+I lost
+
+30, 29, 30 => 0.33708, 0.32584, 0.33708
+Op play 1?
+I played 2, op played 3
+I lost
+
+34, 35, 17 => 0.39535, 0.40698, 0.19767
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 18, 22 => 0.31034, 0.31034, 0.37931
+Op play 3?
+I played 1, op played 2
+I lost
+
+29, 24, 29 => 0.35366, 0.29268, 0.35366
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 30, 26 => 0.30000, 0.37500, 0.32500
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 24, 23 => 0.26562, 0.37500, 0.35938
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 28, 23 => 0.28169, 0.39437, 0.32394
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 27, 24 => 0.27143, 0.38571, 0.34286
+Op play 2?
+I played 3, op played 3
+I tied
+
+22, 28, 21 => 0.30986, 0.39437, 0.29577
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 27, 27 => 0.26027, 0.36986, 0.36986
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 29, 24 => 0.26389, 0.40278, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+23, 17, 22 => 0.37097, 0.27419, 0.35484
+Op play 1?
+I played 2, op played 3
+I lost
+
+38, 31, 14 => 0.45783, 0.37349, 0.16867
+Op play 1?
+I played 2, op played 2
+I tied
+
+24, 32, 28 => 0.28571, 0.38095, 0.33333
+Op play 2?
+I played 3, op played 2
+I won
+
+22, 35, 28 => 0.25882, 0.41176, 0.32941
+Op play 2?
+I played 3, op played 2
+I won
+
+22, 31, 28 => 0.27160, 0.38272, 0.34568
+Op play 2?
+I played 3, op played 2
+I won
+
+22, 33, 24 => 0.27848, 0.41772, 0.30380
+Op play 2?
+I played 3, op played 2
+I won
+
+24, 35, 24 => 0.28916, 0.42169, 0.28916
+Op play 2?
+I played 3, op played 2
+I won
+
+23, 39, 24 => 0.26744, 0.45349, 0.27907
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 17, 25 => 0.37313, 0.25373, 0.37313
+Op play 1?
+I played 2, op played 3
+I lost
+
+38, 35, 14 => 0.43678, 0.40230, 0.16092
+Op play 1?
+I played 2, op played 3
+I lost
+
+36, 27, 14 => 0.46753, 0.35065, 0.18182
+Op play 1?
+I played 2, op played 2
+I tied
+
+25, 34, 28 => 0.28736, 0.39080, 0.32184
+Op play 2?
+I played 3, op played 1
+I lost
+
+19, 21, 31 => 0.26761, 0.29577, 0.43662
+Op play 3?
+I played 1, op played 2
+I lost
+
+32, 26, 29 => 0.36782, 0.29885, 0.33333
+Op play 1?
+I played 2, op played 2
+I tied
+
+24, 43, 27 => 0.25532, 0.45745, 0.28723
+Op play 2?
+I played 3, op played 2
+I won
+
+24, 43, 33 => 0.24000, 0.43000, 0.33000
+Op play 2?
+I played 3, op played 1
+I lost
+
+22, 18, 26 => 0.33333, 0.27273, 0.39394
+Op play 3?
+I played 1, op played 3
+I won
+
+32, 24, 29 => 0.37647, 0.28235, 0.34118
+Op play 1?
+I played 2, op played 3
+I lost
+
+35, 29, 17 => 0.43210, 0.35802, 0.20988
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 32, 25 => 0.31325, 0.38554, 0.30120
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 29, 24 => 0.27397, 0.39726, 0.32877
+Op play 2?
+I played 3, op played 1
+I lost
+
+21, 18, 28 => 0.31343, 0.26866, 0.41791
+Op play 3?
+I played 1, op played 1
+I tied
+
+41, 37, 35 => 0.36283, 0.32743, 0.30973
+Op play 1?
+I played 2, op played 3
+I lost
+
+36, 31, 17 => 0.42857, 0.36905, 0.20238
+Op play 1?
+I played 2, op played 2
+I tied
+
+27, 35, 30 => 0.29348, 0.38043, 0.32609
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 34, 23 => 0.25974, 0.44156, 0.29870
+Op play 2?
+I played 3, op played 3
+I tied
+
+17, 34, 18 => 0.24638, 0.49275, 0.26087
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 19, 26 => 0.28571, 0.30159, 0.41270
+Op play 3?
+I played 1, op played 2
+I lost
+
+31, 26, 30 => 0.35632, 0.29885, 0.34483
+Op play 1?
+I played 2, op played 3
+I lost
+
+37, 37, 18 => 0.40217, 0.40217, 0.19565
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 34, 25 => 0.30588, 0.40000, 0.29412
+Op play 2?
+I played 3, op played 2
+I won
+
+23, 29, 24 => 0.30263, 0.38158, 0.31579
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 19, 28 => 0.34722, 0.26389, 0.38889
+Op play 3?
+I played 1, op played 3
+I won
+
+32, 24, 32 => 0.36364, 0.27273, 0.36364
+Op play 3?
+I played 1, op played 3
+I won
+
+37, 25, 33 => 0.38947, 0.26316, 0.34737
+Op play 1?
+I played 2, op played 2
+I tied
+
+22, 35, 24 => 0.27160, 0.43210, 0.29630
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 32, 22 => 0.27027, 0.43243, 0.29730
+Op play 2?
+I played 3, op played 3
+I tied
+
+20, 33, 19 => 0.27778, 0.45833, 0.26389
+Op play 2?
+I played 3, op played 2
+I won
+
+25, 36, 30 => 0.27473, 0.39560, 0.32967
+Op play 2?
+I played 3, op played 2
+I won
+
+27, 37, 24 => 0.30682, 0.42045, 0.27273
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 19, 33 => 0.32468, 0.24675, 0.42857
+Op play 3?
+I played 1, op played 3
+I won
+
+32, 25, 35 => 0.34783, 0.27174, 0.38043
+Op play 3?
+I played 1, op played 1
+I tied
+
+48, 32, 44 => 0.38710, 0.25806, 0.35484
+Op play 1?
+I played 2, op played 3
+I lost
+
+37, 33, 18 => 0.42045, 0.37500, 0.20455
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 35, 26 => 0.29885, 0.40230, 0.29885
+Op play 2?
+I played 3, op played 1
+I lost
+
+19, 18, 26 => 0.30159, 0.28571, 0.41270
+Op play 3?
+I played 1, op played 2
+I lost
+
+31, 26, 31 => 0.35227, 0.29545, 0.35227
+Op play 3?
+I played 1, op played 2
+I lost
+
+33, 25, 30 => 0.37500, 0.28409, 0.34091
+Op play 1?
+I played 2, op played 3
+I lost
+
+40, 35, 18 => 0.43011, 0.37634, 0.19355
+Op play 1?
+I played 2, op played 3
+I lost
+
+40, 30, 15 => 0.47059, 0.35294, 0.17647
+Op play 1?
+I played 2, op played 3
+I lost
+
+39, 30, 17 => 0.45349, 0.34884, 0.19767
+Op play 1?
+I played 2, op played 3
+I lost
+
+39, 30, 20 => 0.43820, 0.33708, 0.22472
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 35, 31 => 0.29787, 0.37234, 0.32979
+Op play 2?
+I played 3, op played 2
+I won
+
+28, 42, 28 => 0.28571, 0.42857, 0.28571
+Op play 2?
+I played 3, op played 2
+I won
+
+29, 41, 28 => 0.29592, 0.41837, 0.28571
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 45, 24 => 0.30303, 0.45455, 0.24242
+Op play 2?
+I played 3, op played 3
+I tied
+
+21, 31, 26 => 0.26923, 0.39744, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+19, 23, 30 => 0.26389, 0.31944, 0.41667
+Op play 3?
+I played 1, op played 2
+I lost
+
+31, 28, 35 => 0.32979, 0.29787, 0.37234
+Op play 3?
+I played 1, op played 1
+I tied
+
+43, 30, 44 => 0.36752, 0.25641, 0.37607
+Op play 3?
+I played 1, op played 2
+I lost
+
+40, 27, 36 => 0.38835, 0.26214, 0.34951
+Op play 1?
+I played 2, op played 2
+I tied
+
+24, 42, 30 => 0.25000, 0.43750, 0.31250
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 45, 32 => 0.28037, 0.42056, 0.29907
+Op play 2?
+I played 3, op played 1
+I lost
+
+24, 21, 34 => 0.30380, 0.26582, 0.43038
+Op play 3?
+I played 1, op played 2
+I lost
+
+33, 29, 32 => 0.35106, 0.30851, 0.34043
+Op play 1?
+I played 2, op played 1
+I won
+
+25, 35, 26 => 0.29070, 0.40698, 0.30233
+Op play 2?
+I played 3, op played 1
+I lost
+
+18, 22, 26 => 0.27273, 0.33333, 0.39394
+Op play 3?
+I played 1, op played 1
+I tied
+
+42, 35, 38 => 0.36522, 0.30435, 0.33043
+Op play 1?
+I played 2, op played 1
+I won
+
+30, 30, 24 => 0.35714, 0.35714, 0.28571
+Op play 2?
+I played 3, op played 3
+I tied
+
+18, 26, 19 => 0.28571, 0.41270, 0.30159
+Op play 2?
+I played 3, op played 1
+I lost
+
+19, 25, 28 => 0.26389, 0.34722, 0.38889
+Op play 3?
+I played 1, op played 2
+I lost
+
+36, 29, 34 => 0.36364, 0.29293, 0.34343
+Op play 1?
+I played 2, op played 3
+I lost
+
+42, 38, 22 => 0.41176, 0.37255, 0.21569
+Op play 1?
+I played 2, op played 2
+I tied
+
+29, 40, 32 => 0.28713, 0.39604, 0.31683
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 47, 29 => 0.28302, 0.44340, 0.27358
+Op play 2?
+I played 0, op played 3
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 3, op played 2
+I won
+
+24, 31, 23 => 0.30769, 0.39744, 0.29487
+Op play 2?
+I played 3, op played 2
+I won
+
+29, 40, 27 => 0.30208, 0.41667, 0.28125
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 45, 28 => 0.29808, 0.43269, 0.26923
+Op play 2?
+I played 3, op played 2
+I won
+
+33, 49, 28 => 0.30000, 0.44545, 0.25455
+Op play 2?
+I played 3, op played 1
+I lost
+
+28, 24, 37 => 0.31461, 0.26966, 0.41573
+Op play 3?
+I played 1, op played 2
+I lost
+
+36, 29, 34 => 0.36364, 0.29293, 0.34343
+Op play 1?
+I played 2, op played 3
+I lost
+
+41, 40, 22 => 0.39806, 0.38835, 0.21359
+Op play 1?
+I played 2, op played 1
+I won
+
+29, 38, 26 => 0.31183, 0.40860, 0.27957
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 35, 26 => 0.33696, 0.38043, 0.28261
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 45, 27 => 0.30097, 0.43689, 0.26214
+Op play 2?
+I played 3, op played 3
+I tied
+
+25, 31, 26 => 0.30488, 0.37805, 0.31707
+Op play 2?
+I played 3, op played 1
+I lost
+
+20, 31, 30 => 0.24691, 0.38272, 0.37037
+Op play 2?
+I played 3, op played 2
+I won
+
+27, 35, 24 => 0.31395, 0.40698, 0.27907
+Op play 2?
+I played 3, op played 1
+I lost
+
+24, 27, 32 => 0.28916, 0.32530, 0.38554
+Op play 3?
+I played 1, op played 1
+I tied
+
+43, 38, 39 => 0.35833, 0.31667, 0.32500
+Op play 1?
+I played 2, op played 1
+I won
+
+30, 31, 27 => 0.34091, 0.35227, 0.30682
+Op play 2?
+I played 3, op played 1
+I lost
+
+21, 25, 26 => 0.29167, 0.34722, 0.36111
+Op play 3?
+I played 1, op played 3
+I won
+
+34, 25, 33 => 0.36957, 0.27174, 0.35870
+Op play 1?
+I played 2, op played 2
+I tied
+
+22, 40, 26 => 0.25000, 0.45455, 0.29545
+Op play 2?
+I played 3, op played 1
+I lost
+
+22, 30, 32 => 0.26190, 0.35714, 0.38095
+Op play 3?
+I played 1, op played 1
+I tied
+
+45, 36, 38 => 0.37815, 0.30252, 0.31933
+Op play 1?
+I played 2, op played 1
+I won
+
+33, 31, 27 => 0.36264, 0.34066, 0.29670
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 42, 27 => 0.28866, 0.43299, 0.27835
+Op play 2?
+I played 3, op played 2
+I won
+
+32, 52, 33 => 0.27350, 0.44444, 0.28205
+Op play 2?
+I played 3, op played 3
+I tied
+
+28, 32, 25 => 0.32941, 0.37647, 0.29412
+Op play 2?
+I played 3, op played 1
+I lost
+
+22, 34, 32 => 0.25000, 0.38636, 0.36364
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 35, 25 => 0.34066, 0.38462, 0.27473
+Op play 2?
+I played 3, op played 1
+I lost
+
+30, 28, 33 => 0.32967, 0.30769, 0.36264
+Op play 3?
+I played 1, op played 2
+I lost
+
+36, 29, 37 => 0.35294, 0.28431, 0.36275
+Op play 3?
+I played 1, op played 2
+I lost
+
+35, 27, 35 => 0.36082, 0.27835, 0.36082
+Op play 3?
+I played 1, op played 1
+I tied
+
+46, 34, 45 => 0.36800, 0.27200, 0.36000
+Op play 1?
+I played 2, op played 1
+I won
+
+32, 33, 26 => 0.35165, 0.36264, 0.28571
+Op play 2?
+I played 3, op played 3
+I tied
+
+23, 26, 19 => 0.33824, 0.38235, 0.27941
+Op play 2?
+I played 3, op played 3
+I tied
+
+23, 33, 20 => 0.30263, 0.43421, 0.26316
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 44, 33 => 0.28037, 0.41121, 0.30841
+Op play 2?
+I played 3, op played 1
+I lost
+
+27, 30, 33 => 0.30000, 0.33333, 0.36667
+Op play 3?
+I played 1, op played 2
+I lost
+
+37, 32, 37 => 0.34906, 0.30189, 0.34906
+Op play 3?
+I played 1, op played 3
+I won
+
+34, 25, 33 => 0.36957, 0.27174, 0.35870
+Op play 1?
+I played 2, op played 3
+I lost
+
+41, 31, 19 => 0.45055, 0.34066, 0.20879
+Op play 1?
+I played 2, op played 3
+I lost
+
+41, 33, 20 => 0.43617, 0.35106, 0.21277
+Op play 1?
+I played 2, op played 1
+I won
+
+33, 39, 27 => 0.33333, 0.39394, 0.27273
+Op play 2?
+I played 3, op played 1
+I lost
+
+23, 29, 28 => 0.28750, 0.36250, 0.35000
+Op play 2?
+I played 3, op played 3
+I tied
+
+22, 27, 20 => 0.31884, 0.39130, 0.28986
+Op play 2?
+I played 3, op played 1
+I lost
+
+21, 34, 31 => 0.24419, 0.39535, 0.36047
+Op play 2?
+I played 3, op played 2
+I won
+
+34, 35, 25 => 0.36170, 0.37234, 0.26596
+Op play 2?
+I played 3, op played 1
+I lost
+
+29, 35, 34 => 0.29592, 0.35714, 0.34694
+Op play 2?
+I played 3, op played 2
+I won
+
+34, 35, 25 => 0.36170, 0.37234, 0.26596
+Op play 2?
+I played 3, op played 1
+I lost
+
+28, 37, 34 => 0.28283, 0.37374, 0.34343
+Op play 2?
+I played 3, op played 3
+I tied
+
+24, 27, 20 => 0.33803, 0.38028, 0.28169
+Op play 2?
+I played 3, op played 2
+I won
+
+33, 41, 30 => 0.31731, 0.39423, 0.28846
+Op play 2?
+I played 3, op played 1
+I lost
+
+27, 36, 36 => 0.27273, 0.36364, 0.36364
+Op play 3?
+I played 1, op played 3
+I won
+
+35, 27, 36 => 0.35714, 0.27551, 0.36735
+Op play 3?
+I played 1, op played 2
+I lost
+
+36, 28, 42 => 0.33962, 0.26415, 0.39623
+Op play 3?
+I played 1, op played 1
+I tied
+
+49, 32, 46 => 0.38583, 0.25197, 0.36220
+Op play 1?
+I played 2, op played 3
+I lost
+
+42, 35, 21 => 0.42857, 0.35714, 0.21429
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 41, 34 => 0.27184, 0.39806, 0.33010
+Op play 2?
+I played 3, op played 2
+I won
+
+37, 50, 35 => 0.30328, 0.40984, 0.28689
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 52, 34 => 0.30645, 0.41935, 0.27419
+Op play 2?
+I played 3, op played 1
+I lost
+
+30, 36, 41 => 0.28037, 0.33645, 0.38318
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 30, 36 => 0.35294, 0.29412, 0.35294
+Op play 3?
+I played 1, op played 1
+I tied
+
+52, 33, 50 => 0.38519, 0.24444, 0.37037
+Op play 1?
+I played 2, op played 1
+I won
+
+33, 33, 29 => 0.34737, 0.34737, 0.30526
+Op play 2?
+I played 3, op played 1
+I lost
+
+22, 30, 34 => 0.25581, 0.34884, 0.39535
+Op play 3?
+I played 1, op played 1
+I tied
+
+51, 35, 39 => 0.40800, 0.28000, 0.31200
+Op play 1?
+I played 2, op played 1
+I won
+
+36, 34, 30 => 0.36000, 0.34000, 0.30000
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 47, 27 => 0.27451, 0.46078, 0.26471
+Op play 2?
+I played 3, op played 3
+I tied
+
+25, 36, 26 => 0.28736, 0.41379, 0.29885
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 45, 31 => 0.32143, 0.40179, 0.27679
+Op play 2?
+I played 3, op played 3
+I tied
+
+31, 35, 24 => 0.34444, 0.38889, 0.26667
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 44, 33 => 0.31858, 0.38938, 0.29204
+Op play 2?
+I played 3, op played 2
+I won
+
+43, 48, 31 => 0.35246, 0.39344, 0.25410
+Op play 2?
+I played 3, op played 2
+I won
+
+42, 53, 32 => 0.33071, 0.41732, 0.25197
+Op play 2?
+I played 3, op played 2
+I won
+
+45, 57, 32 => 0.33582, 0.42537, 0.23881
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 61, 32 => 0.33094, 0.43885, 0.23022
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 66, 32 => 0.31944, 0.45833, 0.22222
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 72, 32 => 0.30667, 0.48000, 0.21333
+Op play 2?
+I played 3, op played 1
+I lost
+
+32, 38, 47 => 0.27350, 0.32479, 0.40171
+Op play 3?
+I played 1, op played 1
+I tied
+
+52, 42, 40 => 0.38806, 0.31343, 0.29851
+Op play 1?
+I played 2, op played 3
+I lost
+
+41, 39, 21 => 0.40594, 0.38614, 0.20792
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 39, 28 => 0.33663, 0.38614, 0.27723
+Op play 2?
+I played 3, op played 1
+I lost
+
+26, 32, 34 => 0.28261, 0.34783, 0.36957
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 30, 34 => 0.36000, 0.30000, 0.34000
+Op play 1?
+I played 2, op played 2
+I tied
+
+26, 42, 27 => 0.27368, 0.44211, 0.28421
+Op play 2?
+I played 3, op played 1
+I lost
+
+29, 35, 37 => 0.28713, 0.34653, 0.36634
+Op play 3?
+I played 1, op played 3
+I won
+
+38, 33, 34 => 0.36190, 0.31429, 0.32381
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 43, 27 => 0.28571, 0.43878, 0.27551
+Op play 2?
+I played 3, op played 2
+I won
+
+40, 55, 38 => 0.30075, 0.41353, 0.28571
+Op play 2?
+I played 3, op played 2
+I won
+
+43, 62, 34 => 0.30935, 0.44604, 0.24460
+Op play 2?
+I played 3, op played 1
+I lost
+
+34, 36, 47 => 0.29060, 0.30769, 0.40171
+Op play 3?
+I played 1, op played 3
+I won
+
+41, 34, 36 => 0.36937, 0.30631, 0.32432
+Op play 1?
+I played 2, op played 2
+I tied
+
+28, 45, 27 => 0.28000, 0.45000, 0.27000
+Op play 2?
+I played 3, op played 3
+I tied
+
+25, 38, 26 => 0.28090, 0.42697, 0.29213
+Op play 2?
+I played 3, op played 3
+I tied
+
+25, 42, 21 => 0.28409, 0.47727, 0.23864
+Op play 2?
+I played 3, op played 2
+I won
+
+40, 56, 36 => 0.30303, 0.42424, 0.27273
+Op play 2?
+I played 3, op played 3
+I tied
+
+33, 39, 25 => 0.34021, 0.40206, 0.25773
+Op play 2?
+I played 3, op played 1
+I lost
+
+26, 41, 40 => 0.24299, 0.38318, 0.37383
+Op play 2?
+I played 3, op played 2
+I won
+
+45, 43, 27 => 0.39130, 0.37391, 0.23478
+Op play 1?
+I played 2, op played 2
+I tied
+
+24, 39, 30 => 0.25806, 0.41935, 0.32258
+Op play 2?
+I played 3, op played 1
+I lost
+
+26, 36, 40 => 0.25490, 0.35294, 0.39216
+Op play 3?
+I played 1, op played 1
+I tied
+
+52, 36, 41 => 0.40310, 0.27907, 0.31783
+Op play 1?
+I played 2, op played 2
+I tied
+
+32, 44, 29 => 0.30476, 0.41905, 0.27619
+Op play 2?
+I played 3, op played 3
+I tied
+
+26, 40, 27 => 0.27957, 0.43011, 0.29032
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 53, 36 => 0.29921, 0.41732, 0.28346
+Op play 2?
+I played 3, op played 2
+I won
+
+45, 63, 32 => 0.32143, 0.45000, 0.22857
+Op play 2?
+I played 3, op played 3
+I tied
+
+33, 38, 28 => 0.33333, 0.38384, 0.28283
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 46, 38 => 0.22936, 0.42202, 0.34862
+Op play 2?
+I played 3, op played 3
+I tied
+
+28, 33, 21 => 0.34146, 0.40244, 0.25610
+Op play 2?
+I played 3, op played 2
+I won
+
+39, 53, 35 => 0.30709, 0.41732, 0.27559
+Op play 2?
+I played 3, op played 3
+I tied
+
+36, 41, 25 => 0.35294, 0.40196, 0.24510
+Op play 2?
+I played 3, op played 3
+I tied
+
+26, 45, 23 => 0.27660, 0.47872, 0.24468
+Op play 2?
+I played 3, op played 1
+I lost
+
+24, 40, 38 => 0.23529, 0.39216, 0.37255
+Op play 2?
+I played 3, op played 1
+I lost
+
+26, 30, 36 => 0.28261, 0.32609, 0.39130
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 35, 34 => 0.34286, 0.33333, 0.32381
+Op play 1?
+I played 2, op played 2
+I tied
+
+29, 45, 31 => 0.27619, 0.42857, 0.29524
+Op play 2?
+I played 3, op played 3
+I tied
+
+28, 42, 31 => 0.27723, 0.41584, 0.30693
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 56, 39 => 0.28571, 0.42105, 0.29323
+Op play 2?
+I played 3, op played 2
+I won
+
+45, 64, 37 => 0.30822, 0.43836, 0.25342
+Op play 2?
+I played 3, op played 3
+I tied
+
+39, 40, 30 => 0.35780, 0.36697, 0.27523
+Op play 2?
+I played 3, op played 1
+I lost
+
+27, 46, 45 => 0.22881, 0.38983, 0.38136
+Op play 2?
+I played 3, op played 3
+I tied
+
+30, 41, 22 => 0.32258, 0.44086, 0.23656
+Op play 2?
+I played 3, op played 1
+I lost
+
+26, 40, 44 => 0.23636, 0.36364, 0.40000
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 37, 39 => 0.32143, 0.33036, 0.34821
+Op play 3?
+I played 1, op played 2
+I lost
+
+39, 28, 42 => 0.35780, 0.25688, 0.38532
+Op play 3?
+I played 1, op played 3
+I won
+
+37, 31, 38 => 0.34906, 0.29245, 0.35849
+Op play 3?
+I played 1, op played 2
+I lost
+
+38, 28, 44 => 0.34545, 0.25455, 0.40000
+Op play 3?
+I played 1, op played 1
+I tied
+
+51, 33, 50 => 0.38060, 0.24627, 0.37313
+Op play 1?
+I played 2, op played 2
+I tied
+
+29, 41, 32 => 0.28431, 0.40196, 0.31373
+Op play 2?
+I played 3, op played 3
+I tied
+
+30, 46, 28 => 0.28846, 0.44231, 0.26923
+Op play 2?
+I played 3, op played 3
+I tied
+
+31, 47, 23 => 0.30693, 0.46535, 0.22772
+Op play 2?
+I played 3, op played 1
+I lost
+
+27, 41, 43 => 0.24324, 0.36937, 0.38739
+Op play 3?
+I played 1, op played 1
+I tied
+
+51, 39, 41 => 0.38931, 0.29771, 0.31298
+Op play 1?
+I played 2, op played 1
+I won
+
+37, 37, 29 => 0.35922, 0.35922, 0.28155
+Op play 1?
+I played 2, op played 1
+I won
+
+38, 33, 27 => 0.38776, 0.33673, 0.27551
+Op play 1?
+I played 2, op played 2
+I tied
+
+30, 46, 33 => 0.27523, 0.42202, 0.30275
+Op play 2?
+I played 3, op played 2
+I won
+
+40, 65, 41 => 0.27397, 0.44521, 0.28082
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 67, 42 => 0.29677, 0.43226, 0.27097
+Op play 2?
+I played 3, op played 3
+I tied
+
+42, 40, 36 => 0.35593, 0.33898, 0.30508
+Op play 1?
+I played 2, op played 3
+I lost
+
+41, 34, 18 => 0.44086, 0.36559, 0.19355
+Op play 1?
+I played 2, op played 3
+I lost
+
+43, 34, 21 => 0.43878, 0.34694, 0.21429
+Op play 1?
+I played 2, op played 1
+I won
+
+39, 41, 27 => 0.36449, 0.38318, 0.25234
+Op play 2?
+I played 3, op played 3
+I tied
+
+29, 34, 25 => 0.32955, 0.38636, 0.28409
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 56, 39 => 0.28571, 0.42105, 0.29323
+Op play 2?
+I played 3, op played 3
+I tied
+
+41, 43, 31 => 0.35652, 0.37391, 0.26957
+Op play 2?
+I played 3, op played 3
+I tied
+
+34, 47, 26 => 0.31776, 0.43925, 0.24299
+Op play 2?
+I played 3, op played 1
+I lost
+
+32, 40, 43 => 0.27826, 0.34783, 0.37391
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 41, 36 => 0.31858, 0.36283, 0.31858
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 30, 38 => 0.26882, 0.32258, 0.40860
+Op play 3?
+I played 1, op played 2
+I lost
+
+38, 31, 39 => 0.35185, 0.28704, 0.36111
+Op play 3?
+I played 1, op played 1
+I tied
+
+51, 36, 47 => 0.38060, 0.26866, 0.35075
+Op play 1?
+I played 2, op played 3
+I lost
+
+45, 38, 22 => 0.42857, 0.36190, 0.20952
+Op play 1?
+I played 2, op played 1
+I won
+
+38, 40, 30 => 0.35185, 0.37037, 0.27778
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 50, 35 => 0.30894, 0.40650, 0.28455
+Op play 2?
+I played 3, op played 3
+I tied
+
+39, 43, 33 => 0.33913, 0.37391, 0.28696
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 58, 44 => 0.27143, 0.41429, 0.31429
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 66, 43 => 0.29677, 0.42581, 0.27742
+Op play 2?
+I played 3, op played 2
+I won
+
+47, 75, 42 => 0.28659, 0.45732, 0.25610
+Op play 2?
+I played 3, op played 1
+I lost
+
+38, 39, 55 => 0.28788, 0.29545, 0.41667
+Op play 3?
+I played 1, op played 2
+I lost
+
+41, 32, 43 => 0.35345, 0.27586, 0.37069
+Op play 3?
+I played 1, op played 3
+I won
+
+36, 33, 37 => 0.33962, 0.31132, 0.34906
+Op play 3?
+I played 1, op played 1
+I tied
+
+56, 37, 50 => 0.39161, 0.25874, 0.34965
+Op play 1?
+I played 2, op played 2
+I tied
+
+30, 43, 34 => 0.28037, 0.40187, 0.31776
+Op play 2?
+I played 3, op played 3
+I tied
+
+32, 48, 33 => 0.28319, 0.42478, 0.29204
+Op play 2?
+I played 3, op played 2
+I won
+
+39, 64, 44 => 0.26531, 0.43537, 0.29932
+Op play 2?
+I played 3, op played 3
+I tied
+
+42, 47, 34 => 0.34146, 0.38211, 0.27642
+Op play 2?
+I played 3, op played 2
+I won
+
+39, 65, 45 => 0.26174, 0.43624, 0.30201
+Op play 2?
+I played 3, op played 1
+I lost
+
+33, 40, 50 => 0.26829, 0.32520, 0.40650
+Op play 3?
+I played 1, op played 2
+I lost
+
+41, 32, 45 => 0.34746, 0.27119, 0.38136
+Op play 3?
+I played 1, op played 2
+I lost
+
+42, 28, 38 => 0.38889, 0.25926, 0.35185
+Op play 1?
+I played 2, op played 2
+I tied
+
+27, 49, 35 => 0.24324, 0.44144, 0.31532
+Op play 2?
+I played 3, op played 1
+I lost
+
+30, 40, 45 => 0.26087, 0.34783, 0.39130
+Op play 3?
+I played 1, op played 3
+I won
+
+41, 43, 34 => 0.34746, 0.36441, 0.28814
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 35, 39 => 0.25253, 0.35354, 0.39394
+Op play 3?
+I played 1, op played 3
+I won
+
+41, 40, 34 => 0.35652, 0.34783, 0.29565
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 39, 26 => 0.34343, 0.39394, 0.26263
+Op play 2?
+I played 3, op played 3
+I tied
+
+30, 39, 26 => 0.31579, 0.41053, 0.27368
+Op play 2?
+I played 3, op played 3
+I tied
+
+34, 48, 26 => 0.31481, 0.44444, 0.24074
+Op play 2?
+I played 3, op played 1
+I lost
+
+30, 43, 48 => 0.24793, 0.35537, 0.39669
+Op play 3?
+I played 1, op played 2
+I lost
+
+41, 34, 45 => 0.34167, 0.28333, 0.37500
+Op play 3?
+I played 1, op played 2
+I lost
+
+41, 32, 38 => 0.36937, 0.28829, 0.34234
+Op play 1?
+I played 2, op played 1
+I won
+
+32, 40, 30 => 0.31373, 0.39216, 0.29412
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 51, 42 => 0.29008, 0.38931, 0.32061
+Op play 2?
+I played 3, op played 1
+I lost
+
+34, 42, 52 => 0.26562, 0.32812, 0.40625
+Op play 3?
+I played 1, op played 3
+I won
+
+45, 42, 37 => 0.36290, 0.33871, 0.29839
+Op play 1?
+I played 2, op played 3
+I lost
+
+46, 33, 23 => 0.45098, 0.32353, 0.22549
+Op play 1?
+I played 2, op played 2
+I tied
+
+30, 45, 39 => 0.26316, 0.39474, 0.34211
+Op play 2?
+I played 3, op played 2
+I won
+
+43, 68, 44 => 0.27742, 0.43871, 0.28387
+Op play 2?
+I played 3, op played 2
+I won
+
+51, 72, 47 => 0.30000, 0.42353, 0.27647
+Op play 2?
+I played 3, op played 1
+I lost
+
+37, 44, 61 => 0.26056, 0.30986, 0.42958
+Op play 3?
+I played 1, op played 3
+I won
+
+49, 44, 39 => 0.37121, 0.33333, 0.29545
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 40, 29 => 0.33010, 0.38835, 0.28155
+Op play 2?
+I played 3, op played 1
+I lost
+
+28, 35, 46 => 0.25688, 0.32110, 0.42202
+Op play 3?
+I played 1, op played 3
+I won
+
+45, 42, 36 => 0.36585, 0.34146, 0.29268
+Op play 1?
+I played 2, op played 2
+I tied
+
+32, 47, 36 => 0.27826, 0.40870, 0.31304
+Op play 2?
+I played 3, op played 3
+I tied
+
+33, 51, 36 => 0.27500, 0.42500, 0.30000
+Op play 2?
+I played 3, op played 3
+I tied
+
+38, 54, 27 => 0.31933, 0.45378, 0.22689
+Op play 2?
+I played 3, op played 1
+I lost
+
+31, 47, 51 => 0.24031, 0.36434, 0.39535
+Op play 3?
+I played 1, op played 1
+I tied
+
+56, 40, 42 => 0.40580, 0.28986, 0.30435
+Op play 1?
+I played 2, op played 1
+I won
+
+44, 40, 31 => 0.38261, 0.34783, 0.26957
+Op play 1?
+I played 2, op played 2
+I tied
+
+31, 51, 37 => 0.26050, 0.42857, 0.31092
+Op play 2?
+I played 3, op played 2
+I won
+
+44, 72, 47 => 0.26994, 0.44172, 0.28834
+Op play 2?
+I played 3, op played 1
+I lost
+
+35, 43, 57 => 0.25926, 0.31852, 0.42222
+Op play 3?
+I played 1, op played 1
+I tied
+
+56, 43, 44 => 0.39161, 0.30070, 0.30769
+Op play 1?
+I played 2, op played 2
+I tied
+
+36, 46, 38 => 0.30000, 0.38333, 0.31667
+Op play 2?
+I played 3, op played 3
+I tied
+
+34, 53, 36 => 0.27642, 0.43089, 0.29268
+Op play 2?
+I played 3, op played 3
+I tied
+
+42, 51, 28 => 0.34711, 0.42149, 0.23140
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 65, 50 => 0.28571, 0.40373, 0.31056
+Op play 2?
+I played 3, op played 3
+I tied
+
+48, 50, 37 => 0.35556, 0.37037, 0.27407
+Op play 2?
+I played 3, op played 1
+I lost
+
+34, 52, 56 => 0.23944, 0.36620, 0.39437
+Op play 3?
+I played 1, op played 3
+I won
+
+46, 43, 41 => 0.35385, 0.33077, 0.31538
+Op play 1?
+I played 2, op played 2
+I tied
+
+30, 48, 40 => 0.25424, 0.40678, 0.33898
+Op play 2?
+I played 3, op played 2
+I won
+
+47, 68, 46 => 0.29193, 0.42236, 0.28571
+Op play 2?
+I played 3, op played 1
+I lost
+
+39, 43, 58 => 0.27857, 0.30714, 0.41429
+Op play 3?
+I played 1, op played 3
+I won
+
+48, 46, 40 => 0.35821, 0.34328, 0.29851
+Op play 1?
+I played 2, op played 2
+I tied
+
+30, 51, 41 => 0.24590, 0.41803, 0.33607
+Op play 2?
+I played 3, op played 3
+I tied
+
+35, 52, 43 => 0.26923, 0.40000, 0.33077
+Op play 2?
+I played 3, op played 1
+I lost
+
+31, 45, 53 => 0.24031, 0.34884, 0.41085
+Op play 3?
+I played 1, op played 1
+I tied
+
+57, 42, 42 => 0.40426, 0.29787, 0.29787
+Op play 1?
+I played 2, op played 2
+I tied
+
+34, 47, 42 => 0.27642, 0.38211, 0.34146
+Op play 2?
+I played 3, op played 1
+I lost
+
+35, 45, 54 => 0.26119, 0.33582, 0.40299
+Op play 3?
+I played 1, op played 2
+I lost
+
+45, 41, 41 => 0.35433, 0.32283, 0.32283
+Op play 1?
+I played 2, op played 3
+I lost
+
+48, 42, 24 => 0.42105, 0.36842, 0.21053
+Op play 1?
+I played 2, op played 2
+I tied
+
+33, 53, 41 => 0.25984, 0.41732, 0.32283
+Op play 2?
+I played 3, op played 2
+I won
+
+48, 72, 47 => 0.28743, 0.43114, 0.28144
+Op play 2?
+I played 3, op played 1
+I lost
+
+39, 44, 61 => 0.27083, 0.30556, 0.42361
+Op play 3?
+I played 1, op played 2
+I lost
+
+43, 38, 46 => 0.33858, 0.29921, 0.36220
+Op play 3?
+I played 1, op played 1
+I tied
+
+52, 39, 50 => 0.36879, 0.27660, 0.35461
+Op play 1?
+I played 2, op played 1
+I won
+
+39, 40, 31 => 0.35455, 0.36364, 0.28182
+Op play 2?
+I played 3, op played 3
+I tied
+
+35, 40, 32 => 0.32710, 0.37383, 0.29907
+Op play 2?
+I played 3, op played 3
+I tied
+
+41, 52, 29 => 0.33607, 0.42623, 0.23770
+Op play 2?
+I played 3, op played 2
+I won
+
+51, 63, 51 => 0.30909, 0.38182, 0.30909
+Op play 2?
+I played 3, op played 3
+I tied
+
+52, 51, 38 => 0.36879, 0.36170, 0.26950
+Op play 1?
+I played 2, op played 3
+I lost
+
+43, 36, 21 => 0.43000, 0.36000, 0.21000
+Op play 1?
+I played 2, op played 2
+I tied
+
+31, 51, 41 => 0.25203, 0.41463, 0.33333
+Op play 2?
+I played 3, op played 1
+I lost
+
+33, 44, 55 => 0.25000, 0.33333, 0.41667
+Op play 3?
+I played 1, op played 3
+I won
+
+49, 50, 36 => 0.36296, 0.37037, 0.26667
+Op play 2?
+I played 3, op played 1
+I lost
+
+28, 38, 49 => 0.24348, 0.33043, 0.42609
+Op play 3?
+I played 1, op played 3
+I won
+
+50, 46, 36 => 0.37879, 0.34848, 0.27273
+Op play 1?
+I played 2, op played 2
+I tied
+
+32, 52, 43 => 0.25197, 0.40945, 0.33858
+Op play 2?
+I played 3, op played 2
+I won
+
+53, 68, 47 => 0.31548, 0.40476, 0.27976
+Op play 2?
+I played 3, op played 1
+I lost
+
+40, 47, 65 => 0.26316, 0.30921, 0.42763
+Op play 3?
+I played 1, op played 3
+I won
+
+50, 54, 40 => 0.34722, 0.37500, 0.27778
+Op play 2?
+I played 3, op played 3
+I tied
+
+37, 40, 31 => 0.34259, 0.37037, 0.28704
+Op play 2?
+I played 3, op played 3
+I tied
+
+41, 51, 31 => 0.33333, 0.41463, 0.25203
+Op play 2?
+I played 3, op played 3
+I tied
+
+40, 52, 33 => 0.32000, 0.41600, 0.26400
+Op play 2?
+I played 3, op played 1
+I lost
+
+36, 48, 57 => 0.25532, 0.34043, 0.40426
+Op play 3?
+I played 1, op played 3
+I won
+
+49, 50, 40 => 0.35252, 0.35971, 0.28777
+Op play 2?
+I played 3, op played 3
+I tied
+
+38, 40, 35 => 0.33628, 0.35398, 0.30973
+Op play 2?
+I played 3, op played 2
+I won
+
+47, 60, 48 => 0.30323, 0.38710, 0.30968
+Op play 2?
+I played 3, op played 1
+I lost
+
+37, 47, 65 => 0.24832, 0.31544, 0.43624
+Op play 3?
+I played 1, op played 2
+I lost
+
+45, 39, 47 => 0.34351, 0.29771, 0.35878
+Op play 3?
+I played 1, op played 3
+I won
+
+44, 37, 41 => 0.36066, 0.30328, 0.33607
+Op play 1?
+I played 2, op played 3
+I lost
+
+45, 36, 26 => 0.42056, 0.33645, 0.24299
+Op play 1?
+I played 2, op played 1
+I won
+
+37, 46, 31 => 0.32456, 0.40351, 0.27193
+Op play 2?
+I played 3, op played 1
+I lost
+
+32, 39, 56 => 0.25197, 0.30709, 0.44094
+Op play 3?
+I played 1, op played 3
+I won
+
+47, 52, 41 => 0.33571, 0.37143, 0.29286
+Op play 2?
+I played 3, op played 3
+I tied
+
+38, 43, 35 => 0.32759, 0.37069, 0.30172
+Op play 2?
+I played 3, op played 2
+I won
+
+51, 60, 48 => 0.32075, 0.37736, 0.30189
+Op play 2?
+I played 3, op played 2
+I won
+
+56, 70, 46 => 0.32558, 0.40698, 0.26744
+Op play 2?
+I played 3, op played 1
+I lost
+
+40, 49, 73 => 0.24691, 0.30247, 0.45062
+Op play 3?
+I played 1, op played 1
+I tied
+
+57, 49, 45 => 0.37748, 0.32450, 0.29801
+Op play 1?
+I played 2, op played 1
+I won
+
+43, 43, 33 => 0.36134, 0.36134, 0.27731
+Op play 1?
+I played 2, op played 1
+I won
+
+41, 40, 30 => 0.36937, 0.36036, 0.27027
+Op play 1?
+I played 2, op played 1
+I won
+
+44, 38, 33 => 0.38261, 0.33043, 0.28696
+Op play 1?
+I played 2, op played 2
+I tied
+
+33, 55, 37 => 0.26400, 0.44000, 0.29600
+Op play 2?
+I played 3, op played 1
+I lost
+
+35, 46, 60 => 0.24823, 0.32624, 0.42553
+Op play 3?
+I played 1, op played 1
+I tied
+
+59, 46, 42 => 0.40136, 0.31293, 0.28571
+Op play 1?
+I played 2, op played 3
+I lost
+
+48, 41, 22 => 0.43243, 0.36937, 0.19820
+Op play 1?
+I played 2, op played 1
+I won
+
+44, 46, 32 => 0.36066, 0.37705, 0.26230
+Op play 2?
+I played 3, op played 1
+I lost
+
+34, 40, 61 => 0.25185, 0.29630, 0.45185
+Op play 3?
+I played 1, op played 3
+I won
+
+47, 54, 45 => 0.32192, 0.36986, 0.30822
+Op play 2?
+I played 3, op played 2
+I won
+
+45, 52, 38 => 0.33333, 0.38519, 0.28148
+Op play 2?
+I played 3, op played 2
+I won
+
+56, 68, 44 => 0.33333, 0.40476, 0.26190
+Op play 2?
+I played 3, op played 3
+I tied
+
+49, 50, 44 => 0.34266, 0.34965, 0.30769
+Op play 2?
+I played 3, op played 1
+I lost
+
+36, 54, 67 => 0.22930, 0.34395, 0.42675
+Op play 3?
+I played 1, op played 1
+I tied
+
+60, 46, 44 => 0.40000, 0.30667, 0.29333
+Op play 1?
+I played 2, op played 3
+I lost
+
+51, 41, 22 => 0.44737, 0.35965, 0.19298
+Op play 1?
+I played 2, op played 2
+I tied
+
+35, 53, 44 => 0.26515, 0.40152, 0.33333
+Op play 2?
+I played 3, op played 3
+I tied
+
+Op: r1
+Wins 339
+Loss 318
+Ties 343
+
+
+
+
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 0, op played 0
+I tied
+
+0, 0, 0 => 0.0000, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+1, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 0 => 0.00000, 0.00000, 0.00000
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 1, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 2, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+0, 2, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 1 => 0.50000, 0.00000, 0.50000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 2 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 0, 1 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+0, 1, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+1, 0, 1 => 0.50000, 0.00000, 0.50000
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 3 => 0.25000, 0.00000, 0.75000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 1, 1 => 0.00000, 0.50000, 0.50000
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 3, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+1, 5, 0 => 0.16667, 0.83333, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+3, 3, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+5, 0, 1 => 0.83333, 0.00000, 0.16667
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 0, 0 => 1.00000, 0.00000, 0.00000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 2 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 2 => 0.00000, 0.50000, 0.50000
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 3, 0 => 0.40000, 0.60000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+2, 3, 0 => 0.40000, 0.60000, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+5, 0, 1 => 0.83333, 0.00000, 0.16667
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 0, 3 => 0.25000, 0.00000, 0.75000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 2 => 0.00000, 0.50000, 0.50000
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 5, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+3, 8, 0 => 0.27273, 0.72727, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+8, 4, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+1, 0, 2 => 0.33333, 0.00000, 0.66667
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 4 => 0.20000, 0.00000, 0.80000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 4 => 0.00000, 0.33333, 0.66667
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 2, 4 => 0.00000, 0.33333, 0.66667
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 4, 0 => 0.33333, 0.66667, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+6, 4, 0 => 0.60000, 0.40000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 0, 2 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 0, 2 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 4 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 6, 4 => 0.00000, 0.60000, 0.40000
+Op play 2?
+I played 3, op played 2
+I won
+
+5, 4, 0 => 0.55556, 0.44444, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+1, 1, 0 => 0.50000, 0.50000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+3, 0, 3 => 0.50000, 0.00000, 0.50000
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 0, 4 => 0.50000, 0.00000, 0.50000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 7 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 10, 4 => 0.00000, 0.71429, 0.28571
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 9, 0 => 0.18182, 0.81818, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+11, 5, 0 => 0.68750, 0.31250, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+11, 0, 1 => 0.91667, 0.00000, 0.08333
+Op play 1?
+I played 2, op played 1
+I won
+
+4, 0, 12 => 0.25000, 0.00000, 0.75000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 10 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 14, 4 => 0.00000, 0.77778, 0.22222
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 15, 0 => 0.11765, 0.88235, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+5, 1, 0 => 0.83333, 0.16667, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+5, 0, 5 => 0.50000, 0.00000, 0.50000
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 6 => 0.14286, 0.00000, 0.85714
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 6, 7 => 0.00000, 0.46154, 0.53846
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 9, 5 => 0.00000, 0.64286, 0.35714
+Op play 2?
+I played 3, op played 2
+I won
+
+6, 6, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+9, 6, 0 => 0.60000, 0.40000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 0, 5 => 0.61538, 0.00000, 0.38462
+Op play 1?
+I played 2, op played 1
+I won
+
+6, 0, 8 => 0.42857, 0.00000, 0.57143
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 7, 6 => 0.00000, 0.53846, 0.46154
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 8, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+7, 14, 0 => 0.33333, 0.66667, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+4, 1, 0 => 0.80000, 0.20000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+9, 0, 6 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 0, 11 => 0.38889, 0.00000, 0.61111
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 14 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 20, 6 => 0.00000, 0.76923, 0.23077
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 20, 0 => 0.09091, 0.90909, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 7, 0 => 0.74074, 0.25926, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+20, 0, 1 => 0.95238, 0.00000, 0.04762
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 0, 24 => 0.22581, 0.00000, 0.77419
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 23 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 30, 6 => 0.00000, 0.83333, 0.16667
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 32, 0 => 0.05882, 0.94118, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+24, 7, 0 => 0.77419, 0.22581, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+25, 0, 1 => 0.96154, 0.00000, 0.03846
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 0, 30 => 0.18919, 0.00000, 0.81081
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 28 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 36, 6 => 0.00000, 0.85714, 0.14286
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 39, 0 => 0.04878, 0.95122, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+35, 7, 0 => 0.83333, 0.16667, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+37, 0, 1 => 0.97368, 0.00000, 0.02632
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 0, 43 => 0.14000, 0.00000, 0.86000
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 42 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 51, 6 => 0.00000, 0.89474, 0.10526
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 55, 0 => 0.03509, 0.96491, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+52, 7, 0 => 0.88136, 0.11864, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+55, 0, 1 => 0.98214, 0.00000, 0.01786
+Op play 1?
+I played 2, op played 1
+I won
+
+7, 0, 62 => 0.10145, 0.00000, 0.89855
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 62 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 72, 6 => 0.00000, 0.92308, 0.07692
+Op play 2?
+I played 3, op played 2
+I won
+
+11, 11, 0 => 0.50000, 0.50000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+9, 1, 0 => 0.90000, 0.10000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+15, 0, 11 => 0.57692, 0.00000, 0.42308
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 0, 22 => 0.26667, 0.00000, 0.73333
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 30 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 41, 6 => 0.00000, 0.87234, 0.12766
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 42, 0 => 0.04545, 0.95455, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+46, 8, 0 => 0.85185, 0.14815, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+50, 0, 1 => 0.98039, 0.00000, 0.01961
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 0, 59 => 0.11940, 0.00000, 0.88060
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 63 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 75, 6 => 0.00000, 0.92593, 0.07407
+Op play 2?
+I played 3, op played 2
+I won
+
+12, 21, 0 => 0.36364, 0.63636, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+17, 9, 0 => 0.65385, 0.34615, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+21, 0, 1 => 0.95455, 0.00000, 0.04545
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 0, 30 => 0.21053, 0.00000, 0.78947
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 39 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 52, 6 => 0.00000, 0.89655, 0.10345
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 48, 0 => 0.04000, 0.96000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+52, 9, 0 => 0.85246, 0.14754, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+58, 0, 1 => 0.98305, 0.00000, 0.01695
+Op play 1?
+I played 2, op played 1
+I won
+
+8, 0, 69 => 0.10390, 0.00000, 0.89610
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 72 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 86, 6 => 0.00000, 0.93478, 0.06522
+Op play 2?
+I played 3, op played 2
+I won
+
+14, 33, 0 => 0.29787, 0.70213, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+29, 10, 0 => 0.74359, 0.25641, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+14, 0, 15 => 0.48276, 0.00000, 0.51724
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 10 => 0.09091, 0.00000, 0.90909
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 16, 13 => 0.00000, 0.55172, 0.44828
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 10, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+15, 20, 0 => 0.42857, 0.57143, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+27, 11, 0 => 0.71053, 0.28947, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+18, 0, 15 => 0.54545, 0.00000, 0.45455
+Op play 1?
+I played 2, op played 1
+I won
+
+10, 0, 23 => 0.30303, 0.00000, 0.69697
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 16, 12 => 0.00000, 0.57143, 0.42857
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 16, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+16, 27, 0 => 0.37209, 0.62791, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 12, 0 => 0.72093, 0.27907, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 0, 16 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+11, 0, 29 => 0.27500, 0.00000, 0.72500
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 16, 19 => 0.00000, 0.45714, 0.54286
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 18, 9 => 0.00000, 0.66667, 0.33333
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 23, 0 => 0.08000, 0.92000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 12, 0 => 0.75000, 0.25000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+20, 0, 17 => 0.54054, 0.00000, 0.45946
+Op play 1?
+I played 2, op played 1
+I won
+
+12, 0, 31 => 0.27907, 0.00000, 0.72093
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 17, 19 => 0.00000, 0.47222, 0.52778
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 23, 10 => 0.00000, 0.69697, 0.30303
+Op play 2?
+I played 3, op played 2
+I won
+
+18, 18, 0 => 0.50000, 0.50000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 13, 0 => 0.69767, 0.30233, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+27, 0, 18 => 0.60000, 0.00000, 0.40000
+Op play 1?
+I played 2, op played 1
+I won
+
+13, 0, 36 => 0.26531, 0.00000, 0.73469
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 18, 28 => 0.00000, 0.39130, 0.60870
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 29, 11 => 0.00000, 0.72500, 0.27500
+Op play 2?
+I played 3, op played 2
+I won
+
+19, 24, 0 => 0.44186, 0.55814, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+37, 14, 0 => 0.72549, 0.27451, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+35, 0, 19 => 0.64815, 0.00000, 0.35185
+Op play 1?
+I played 2, op played 1
+I won
+
+14, 0, 45 => 0.23729, 0.00000, 0.76271
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 19, 38 => 0.00000, 0.33333, 0.66667
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 40, 12 => 0.00000, 0.76923, 0.23077
+Op play 2?
+I played 3, op played 2
+I won
+
+20, 36, 0 => 0.35714, 0.64286, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+50, 15, 0 => 0.76923, 0.23077, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+49, 0, 20 => 0.71014, 0.00000, 0.28986
+Op play 1?
+I played 2, op played 1
+I won
+
+15, 0, 60 => 0.20000, 0.00000, 0.80000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 20, 54 => 0.00000, 0.27027, 0.72973
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 57, 13 => 0.00000, 0.81429, 0.18571
+Op play 2?
+I played 3, op played 2
+I won
+
+21, 54, 0 => 0.28000, 0.72000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 16, 0 => 0.81176, 0.18824, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+69, 0, 21 => 0.76667, 0.00000, 0.23333
+Op play 1?
+I played 2, op played 1
+I won
+
+16, 0, 81 => 0.16495, 0.00000, 0.83505
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 21, 76 => 0.00000, 0.21649, 0.78351
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 80, 14 => 0.00000, 0.85106, 0.14894
+Op play 2?
+I played 3, op played 2
+I won
+
+22, 78, 0 => 0.22000, 0.78000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+94, 17, 0 => 0.84685, 0.15315, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 22 => 0.81197, 0.00000, 0.18803
+Op play 1?
+I played 2, op played 1
+I won
+
+17, 0, 108 => 0.13600, 0.00000, 0.86400
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 33 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 54, 14 => 0.00000, 0.79412, 0.20588
+Op play 2?
+I played 3, op played 2
+I won
+
+23, 37, 0 => 0.38333, 0.61667, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+48, 18, 0 => 0.72727, 0.27273, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+48, 0, 23 => 0.67606, 0.00000, 0.32394
+Op play 1?
+I played 2, op played 1
+I won
+
+18, 0, 60 => 0.23077, 0.00000, 0.76923
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 23, 51 => 0.00000, 0.31081, 0.68919
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 58, 15 => 0.00000, 0.79452, 0.20548
+Op play 2?
+I played 3, op played 2
+I won
+
+24, 58, 0 => 0.29268, 0.70732, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+76, 19, 0 => 0.80000, 0.20000, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+79, 0, 24 => 0.76699, 0.00000, 0.23301
+Op play 1?
+I played 2, op played 1
+I won
+
+19, 0, 94 => 0.16814, 0.00000, 0.83186
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 24, 80 => 0.00000, 0.23077, 0.76923
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 87, 16 => 0.00000, 0.84466, 0.15534
+Op play 2?
+I played 3, op played 2
+I won
+
+25, 88, 0 => 0.22124, 0.77876, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+107, 20, 0 => 0.84252, 0.15748, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+27, 0, 1 => 0.96429, 0.00000, 0.03571
+Op play 1?
+I played 2, op played 1
+I won
+
+19, 0, 48 => 0.28358, 0.00000, 0.71642
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 25, 29 => 0.00000, 0.46296, 0.53704
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 43, 17 => 0.00000, 0.71667, 0.28333
+Op play 2?
+I played 3, op played 2
+I won
+
+26, 48, 0 => 0.35135, 0.64865, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+68, 21, 0 => 0.76404, 0.23596, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+67, 0, 26 => 0.72043, 0.00000, 0.27957
+Op play 1?
+I played 2, op played 1
+I won
+
+20, 0, 84 => 0.19231, 0.00000, 0.80769
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 26, 76 => 0.00000, 0.25490, 0.74510
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 85, 18 => 0.00000, 0.82524, 0.17476
+Op play 2?
+I played 3, op played 2
+I won
+
+27, 88, 0 => 0.23478, 0.76522, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+109, 22, 0 => 0.83206, 0.16794, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+39, 0, 1 => 0.97500, 0.00000, 0.02500
+Op play 1?
+I played 2, op played 1
+I won
+
+20, 0, 62 => 0.24390, 0.00000, 0.75610
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 27, 45 => 0.00000, 0.37500, 0.62500
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 61, 19 => 0.00000, 0.76250, 0.23750
+Op play 2?
+I played 3, op played 2
+I won
+
+28, 68, 0 => 0.29167, 0.70833, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+90, 23, 0 => 0.79646, 0.20354, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+85, 0, 28 => 0.75221, 0.00000, 0.24779
+Op play 1?
+I played 2, op played 1
+I won
+
+21, 0, 104 => 0.16800, 0.00000, 0.83200
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 41 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 68, 19 => 0.00000, 0.78161, 0.21839
+Op play 2?
+I played 3, op played 2
+I won
+
+29, 57, 0 => 0.33721, 0.66279, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 24, 0 => 0.75510, 0.24490, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+72, 0, 29 => 0.71287, 0.00000, 0.28713
+Op play 1?
+I played 2, op played 1
+I won
+
+22, 0, 90 => 0.19643, 0.00000, 0.80357
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 29, 81 => 0.00000, 0.26364, 0.73636
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 94, 20 => 0.00000, 0.82456, 0.17544
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 100, 0 => 0.23077, 0.76923, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+10, 1, 0 => 0.90909, 0.09091, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+31, 0, 30 => 0.50820, 0.00000, 0.49180
+Op play 1?
+I played 2, op played 1
+I won
+
+23, 0, 56 => 0.29114, 0.00000, 0.70886
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 30, 47 => 0.00000, 0.38961, 0.61039
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 66, 21 => 0.00000, 0.75862, 0.24138
+Op play 2?
+I played 3, op played 2
+I won
+
+30, 75, 0 => 0.28571, 0.71429, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+94, 26, 0 => 0.78333, 0.21667, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+90, 0, 31 => 0.74380, 0.00000, 0.25620
+Op play 1?
+I played 2, op played 1
+I won
+
+24, 0, 112 => 0.17647, 0.00000, 0.82353
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 50 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 80, 21 => 0.00000, 0.79208, 0.20792
+Op play 2?
+I played 3, op played 2
+I won
+
+31, 72, 0 => 0.30097, 0.69903, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+89, 27, 0 => 0.76724, 0.23276, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+90, 0, 32 => 0.73770, 0.00000, 0.26230
+Op play 1?
+I played 2, op played 1
+I won
+
+25, 0, 111 => 0.18382, 0.00000, 0.81618
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 51 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 82, 21 => 0.00000, 0.79612, 0.20388
+Op play 2?
+I played 3, op played 2
+I won
+
+32, 75, 0 => 0.29907, 0.70093, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+93, 28, 0 => 0.76860, 0.23140, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 33 => 0.74219, 0.00000, 0.25781
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 0, 117 => 0.18182, 0.00000, 0.81818
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 63 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 21 => 0.00000, 0.81897, 0.18103
+Op play 2?
+I played 3, op played 2
+I won
+
+33, 89, 0 => 0.27049, 0.72951, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+108, 29, 0 => 0.78832, 0.21168, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+37, 0, 1 => 0.97368, 0.00000, 0.02632
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 0, 67 => 0.27957, 0.00000, 0.72043
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 34, 47 => 0.00000, 0.41975, 0.58025
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 70, 22 => 0.00000, 0.76087, 0.23913
+Op play 2?
+I played 3, op played 2
+I won
+
+34, 84, 0 => 0.28814, 0.71186, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+108, 30, 0 => 0.78261, 0.21739, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+43, 0, 1 => 0.97727, 0.00000, 0.02273
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 0, 74 => 0.26000, 0.00000, 0.74000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 35, 57 => 0.00000, 0.38043, 0.61957
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 81, 23 => 0.00000, 0.77885, 0.22115
+Op play 2?
+I played 3, op played 2
+I won
+
+35, 96, 0 => 0.26718, 0.73282, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+121, 31, 0 => 0.79605, 0.20395, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+53, 0, 1 => 0.98148, 0.00000, 0.01852
+Op play 1?
+I played 2, op played 1
+I won
+
+26, 0, 85 => 0.23423, 0.00000, 0.76577
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 36, 69 => 0.00000, 0.34286, 0.65714
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 94, 24 => 0.00000, 0.79661, 0.20339
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 110, 0 => 0.24658, 0.75342, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+15, 1, 0 => 0.93750, 0.06250, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+40, 0, 37 => 0.51948, 0.00000, 0.48052
+Op play 1?
+I played 2, op played 1
+I won
+
+27, 0, 72 => 0.27273, 0.00000, 0.72727
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 37, 61 => 0.00000, 0.37755, 0.62245
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 87, 25 => 0.00000, 0.77679, 0.22321
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 103, 0 => 0.25899, 0.74101, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+21, 1, 0 => 0.95455, 0.04545, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+47, 0, 38 => 0.55294, 0.00000, 0.44706
+Op play 1?
+I played 2, op played 1
+I won
+
+28, 0, 80 => 0.25926, 0.00000, 0.74074
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 38, 70 => 0.00000, 0.35185, 0.64815
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 97, 26 => 0.00000, 0.78862, 0.21138
+Op play 2?
+I played 3, op played 2
+I won
+
+36, 114, 0 => 0.24000, 0.76000, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+32, 1, 0 => 0.96970, 0.03030, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+59, 0, 39 => 0.60204, 0.00000, 0.39796
+Op play 1?
+I played 2, op played 1
+I won
+
+29, 0, 93 => 0.23770, 0.00000, 0.76230
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 39, 84 => 0.00000, 0.31707, 0.68293
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 112, 27 => 0.00000, 0.80576, 0.19424
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 28, 0 => 0.06667, 0.93333, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+60, 34, 0 => 0.63830, 0.36170, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+57, 0, 40 => 0.58763, 0.00000, 0.41237
+Op play 1?
+I played 2, op played 1
+I won
+
+30, 0, 91 => 0.24793, 0.00000, 0.75207
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 40, 82 => 0.00000, 0.32787, 0.67213
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 109, 28 => 0.00000, 0.79562, 0.20438
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 34, 0 => 0.05556, 0.94444, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+67, 34, 0 => 0.66337, 0.33663, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+65, 0, 41 => 0.61321, 0.00000, 0.38679
+Op play 1?
+I played 2, op played 1
+I won
+
+31, 0, 100 => 0.23664, 0.00000, 0.76336
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 56 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 96, 28 => 0.00000, 0.77419, 0.22581
+Op play 2?
+I played 3, op played 2
+I won
+
+38, 94, 0 => 0.28788, 0.71212, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+109, 35, 0 => 0.75694, 0.24306, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+53, 0, 1 => 0.98148, 0.00000, 0.01852
+Op play 1?
+I played 2, op played 1
+I won
+
+31, 0, 91 => 0.25410, 0.00000, 0.74590
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 42, 77 => 0.00000, 0.35294, 0.64706
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 108, 29 => 0.00000, 0.78832, 0.21168
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 35, 0 => 0.05405, 0.94595, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+70, 35, 0 => 0.66667, 0.33333, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+68, 0, 43 => 0.61261, 0.00000, 0.38739
+Op play 1?
+I played 2, op played 1
+I won
+
+32, 0, 105 => 0.23358, 0.00000, 0.76642
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 64 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 106, 29 => 0.00000, 0.78519, 0.21481
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 52, 0 => 0.03704, 0.96296, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+85, 35, 0 => 0.70833, 0.29167, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+65, 0, 44 => 0.59633, 0.00000, 0.40367
+Op play 1?
+I played 2, op played 1
+I won
+
+33, 0, 103 => 0.24265, 0.00000, 0.75735
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 67 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 110, 29 => 0.00000, 0.79137, 0.20863
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 60, 0 => 0.03226, 0.96774, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+94, 35, 0 => 0.72868, 0.27132, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+75, 0, 45 => 0.62500, 0.00000, 0.37500
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 0, 114 => 0.22973, 0.00000, 0.77027
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 79 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 123, 29 => 0.00000, 0.80921, 0.19079
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 74, 0 => 0.02632, 0.97368, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+109, 35, 0 => 0.75694, 0.24306, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+70, 0, 1 => 0.98592, 0.00000, 0.01408
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 0, 113 => 0.23129, 0.00000, 0.76871
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 95 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 140, 29 => 0.00000, 0.82840, 0.17160
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 91, 0 => 0.02151, 0.97849, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+120, 35, 0 => 0.77419, 0.22581, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+96, 0, 1 => 0.98969, 0.00000, 0.01031
+Op play 1?
+I played 2, op played 1
+I won
+
+34, 0, 140 => 0.19540, 0.00000, 0.80460
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 121 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 167, 29 => 0.00000, 0.85204, 0.14796
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 112, 0 => 0.01754, 0.98246, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+22, 1, 0 => 0.95652, 0.04348, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+52, 0, 48 => 0.52000, 0.00000, 0.48000
+Op play 1?
+I played 2, op played 1
+I won
+
+35, 0, 85 => 0.29167, 0.00000, 0.70833
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 48, 74 => 0.00000, 0.39344, 0.60656
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 111, 30 => 0.00000, 0.78723, 0.21277
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 53, 0 => 0.03636, 0.96364, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+91, 35, 0 => 0.72222, 0.27778, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+87, 0, 49 => 0.63971, 0.00000, 0.36029
+Op play 1?
+I played 2, op played 1
+I won
+
+36, 0, 130 => 0.21687, 0.00000, 0.78313
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 89 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 137, 30 => 0.00000, 0.82036, 0.17964
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 88, 0 => 0.02222, 0.97778, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+122, 35, 0 => 0.77707, 0.22293, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+86, 0, 1 => 0.98851, 0.00000, 0.01149
+Op play 1?
+I played 2, op played 1
+I won
+
+36, 0, 133 => 0.21302, 0.00000, 0.78698
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 117 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 166, 30 => 0.00000, 0.84694, 0.15306
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 121, 0 => 0.01626, 0.98374, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+34, 1, 0 => 0.97143, 0.02857, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+66, 0, 51 => 0.56410, 0.00000, 0.43590
+Op play 1?
+I played 2, op played 1
+I won
+
+37, 0, 101 => 0.26812, 0.00000, 0.73188
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 71 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 121, 30 => 0.00000, 0.80132, 0.19868
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 89, 0 => 0.02198, 0.97802, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+120, 35, 0 => 0.77419, 0.22581, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+93, 0, 1 => 0.98936, 0.00000, 0.01064
+Op play 1?
+I played 2, op played 1
+I won
+
+37, 0, 142 => 0.20670, 0.00000, 0.79330
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 128 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 179, 30 => 0.00000, 0.85646, 0.14354
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 135, 0 => 0.01460, 0.98540, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+47, 1, 0 => 0.97917, 0.02083, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+80, 0, 53 => 0.60150, 0.00000, 0.39850
+Op play 1?
+I played 2, op played 1
+I won
+
+38, 0, 116 => 0.24675, 0.00000, 0.75325
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 88 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 140, 30 => 0.00000, 0.82353, 0.17647
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 110, 0 => 0.01786, 0.98214, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+31, 1, 0 => 0.96875, 0.03125, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+65, 0, 54 => 0.54622, 0.00000, 0.45378
+Op play 1?
+I played 2, op played 1
+I won
+
+39, 0, 110 => 0.26174, 0.00000, 0.73826
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 89 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 142, 30 => 0.00000, 0.82558, 0.17442
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 113, 0 => 0.01739, 0.98261, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+42, 1, 0 => 0.97674, 0.02326, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+77, 0, 55 => 0.58333, 0.00000, 0.41667
+Op play 1?
+I played 2, op played 1
+I won
+
+40, 0, 123 => 0.24540, 0.00000, 0.75460
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 103 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 157, 30 => 0.00000, 0.83957, 0.16043
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 129, 0 => 0.01527, 0.98473, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+59, 1, 0 => 0.98333, 0.01667, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 56 => 0.62914, 0.00000, 0.37086
+Op play 1?
+I played 2, op played 1
+I won
+
+41, 0, 142 => 0.22404, 0.00000, 0.77596
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 123 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 178, 30 => 0.00000, 0.85577, 0.14423
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 151, 0 => 0.01307, 0.98693, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+82, 1, 0 => 0.98795, 0.01205, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+119, 0, 57 => 0.67614, 0.00000, 0.32386
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 15 => 0.06250, 0.00000, 0.93750
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 57, 42 => 0.00000, 0.57576, 0.42424
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 16, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+47, 51, 0 => 0.47959, 0.52041, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+86, 36, 0 => 0.70492, 0.29508, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+94, 0, 57 => 0.62252, 0.00000, 0.37748
+Op play 1?
+I played 2, op played 1
+I won
+
+43, 0, 140 => 0.23497, 0.00000, 0.76503
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 101 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 157, 31 => 0.00000, 0.83511, 0.16489
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 119, 0 => 0.01653, 0.98347, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+55, 1, 0 => 0.98214, 0.01786, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+94, 0, 58 => 0.61842, 0.00000, 0.38158
+Op play 1?
+I played 2, op played 1
+I won
+
+44, 0, 136 => 0.24444, 0.00000, 0.75556
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 119 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 176, 31 => 0.00000, 0.85024, 0.14976
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 151, 0 => 0.01307, 0.98693, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+84, 1, 0 => 0.98824, 0.01176, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+124, 0, 59 => 0.67760, 0.00000, 0.32240
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 29 => 0.03333, 0.00000, 0.96667
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 59, 57 => 0.00000, 0.50862, 0.49138
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 32, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+48, 68, 0 => 0.41379, 0.58621, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+104, 37, 0 => 0.73759, 0.26241, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+56, 0, 1 => 0.98246, 0.00000, 0.01754
+Op play 1?
+I played 2, op played 1
+I won
+
+45, 0, 110 => 0.29032, 0.00000, 0.70968
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 101 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 159, 32 => 0.00000, 0.83246, 0.16754
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 136, 0 => 0.01449, 0.98551, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+69, 1, 0 => 0.98571, 0.01429, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+110, 0, 60 => 0.64706, 0.00000, 0.35294
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 31 => 0.03125, 0.00000, 0.96875
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 60, 60 => 0.00000, 0.50000, 0.50000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 33 => 0.00000, 0.74219, 0.25781
+Op play 2?
+I played 3, op played 2
+I won
+
+49, 92, 0 => 0.34752, 0.65248, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+123, 38, 0 => 0.76398, 0.23602, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+66, 0, 1 => 0.98507, 0.00000, 0.01493
+Op play 1?
+I played 2, op played 1
+I won
+
+46, 0, 122 => 0.27381, 0.00000, 0.72619
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 104 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 164, 33 => 0.00000, 0.83249, 0.16751
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 141, 0 => 0.01399, 0.98601, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+77, 1, 0 => 0.98718, 0.01282, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+119, 0, 61 => 0.66111, 0.00000, 0.33889
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 41 => 0.02381, 0.00000, 0.97619
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 62, 71 => 0.00000, 0.46617, 0.53383
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 108, 34 => 0.00000, 0.76056, 0.23944
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 74, 0 => 0.02632, 0.97368, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+98, 38, 0 => 0.72059, 0.27941, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+98, 0, 61 => 0.61635, 0.00000, 0.38365
+Op play 1?
+I played 2, op played 1
+I won
+
+48, 0, 149 => 0.24365, 0.00000, 0.75635
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 125 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 187, 34 => 0.00000, 0.84615, 0.15385
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 150, 0 => 0.01316, 0.98684, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+78, 1, 0 => 0.98734, 0.01266, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+122, 0, 62 => 0.66304, 0.00000, 0.33696
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 45 => 0.02174, 0.00000, 0.97826
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 64, 76 => 0.00000, 0.45714, 0.54286
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 113, 35 => 0.00000, 0.76351, 0.23649
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 86, 0 => 0.02273, 0.97727, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+109, 38, 0 => 0.74150, 0.25850, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+71, 0, 1 => 0.98611, 0.00000, 0.01389
+Op play 1?
+I played 2, op played 1
+I won
+
+49, 0, 130 => 0.27374, 0.00000, 0.72626
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 128 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 192, 35 => 0.00000, 0.84581, 0.15419
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 167, 0 => 0.01183, 0.98817, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+96, 1, 0 => 0.98969, 0.01031, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+141, 0, 63 => 0.69118, 0.00000, 0.30882
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 58 => 0.01695, 0.00000, 0.98305
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 66, 90 => 0.00000, 0.42308, 0.57692
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 131, 36 => 0.00000, 0.78443, 0.21557
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 100, 0 => 0.01961, 0.98039, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+52, 1, 0 => 0.98113, 0.01887, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+99, 0, 63 => 0.61111, 0.00000, 0.38889
+Op play 1?
+I played 2, op played 1
+I won
+
+51, 0, 131 => 0.28022, 0.00000, 0.71978
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 121 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 187, 36 => 0.00000, 0.83857, 0.16143
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 169, 0 => 0.01170, 0.98830, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+106, 1, 0 => 0.99065, 0.00935, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+153, 0, 64 => 0.70507, 0.00000, 0.29493
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 66 => 0.01493, 0.00000, 0.98507
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 68, 99 => 0.00000, 0.40719, 0.59281
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 134, 37 => 0.00000, 0.78363, 0.21637
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 111, 0 => 0.01770, 0.98230, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+66, 1, 0 => 0.98507, 0.01493, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+115, 0, 64 => 0.64246, 0.00000, 0.35754
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 48 => 0.02041, 0.00000, 0.97959
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 69, 82 => 0.00000, 0.45695, 0.54305
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 130, 38 => 0.00000, 0.77381, 0.22619
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 112, 0 => 0.01754, 0.98246, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+73, 1, 0 => 0.98649, 0.01351, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+123, 0, 64 => 0.65775, 0.00000, 0.34225
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 59 => 0.01667, 0.00000, 0.98333
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 70, 94 => 0.00000, 0.42683, 0.57317
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 143, 39 => 0.00000, 0.78571, 0.21429
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 126, 0 => 0.01562, 0.98438, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+88, 1, 0 => 0.98876, 0.01124, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+139, 0, 64 => 0.68473, 0.00000, 0.31527
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 76 => 0.01299, 0.00000, 0.98701
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 71, 112 => 0.00000, 0.38798, 0.61202
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 30, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+52, 68, 0 => 0.43333, 0.56667, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+108, 39, 0 => 0.73469, 0.26531, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+71, 0, 1 => 0.98611, 0.00000, 0.01389
+Op play 1?
+I played 2, op played 1
+I won
+
+55, 0, 130 => 0.29730, 0.00000, 0.70270
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 126 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 196, 40 => 0.00000, 0.83051, 0.16949
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 183, 0 => 0.01081, 0.98919, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+121, 1, 0 => 0.99180, 0.00820, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+172, 0, 65 => 0.72574, 0.00000, 0.27426
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 96 => 0.01031, 0.00000, 0.98969
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 72, 133 => 0.00000, 0.35122, 0.64878
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 41, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+53, 80, 0 => 0.39850, 0.60150, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+121, 40, 0 => 0.75155, 0.24845, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+83, 0, 1 => 0.98810, 0.00000, 0.01190
+Op play 1?
+I played 2, op played 1
+I won
+
+56, 0, 143 => 0.28141, 0.00000, 0.71859
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 140 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 211, 41 => 0.00000, 0.83730, 0.16270
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 199, 0 => 0.00995, 0.99005, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+138, 1, 0 => 0.99281, 0.00719, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+190, 0, 66 => 0.74219, 0.00000, 0.25781
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 115 => 0.00862, 0.00000, 0.99138
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 73, 153 => 0.00000, 0.32301, 0.67699
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 60, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+54, 100, 0 => 0.35065, 0.64935, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+38, 1, 0 => 0.97436, 0.02564, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+94, 0, 66 => 0.58750, 0.00000, 0.41250
+Op play 1?
+I played 2, op played 1
+I won
+
+58, 0, 131 => 0.30688, 0.00000, 0.69312
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 122 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 194, 42 => 0.00000, 0.82203, 0.17797
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 182, 0 => 0.01087, 0.98913, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+123, 1, 0 => 0.99194, 0.00806, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+177, 0, 67 => 0.72541, 0.00000, 0.27459
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 100 => 0.00990, 0.00000, 0.99010
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 74, 139 => 0.00000, 0.34742, 0.65258
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 63, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+54, 104, 0 => 0.34177, 0.65823, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+50, 1, 0 => 0.98039, 0.01961, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+108, 0, 67 => 0.61714, 0.00000, 0.38286
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 50 => 0.01961, 0.00000, 0.98039
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 74, 90 => 0.00000, 0.45122, 0.54878
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 131, 44 => 0.00000, 0.74857, 0.25143
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 122, 0 => 0.01613, 0.98387, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+94, 1, 0 => 0.98947, 0.01053, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+151, 0, 67 => 0.69266, 0.00000, 0.30734
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 93 => 0.01064, 0.00000, 0.98936
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 75, 134 => 0.00000, 0.35885, 0.64115
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 62, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+54, 104, 0 => 0.34177, 0.65823, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+58, 1, 0 => 0.98305, 0.01695, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+118, 0, 67 => 0.63784, 0.00000, 0.36216
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 64 => 0.01538, 0.00000, 0.98462
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 75, 106 => 0.00000, 0.41436, 0.58564
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 51, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+54, 94, 0 => 0.36486, 0.63514, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+118, 44, 0 => 0.72840, 0.27160, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+85, 0, 1 => 0.98837, 0.00000, 0.01163
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 147 => 0.29665, 0.00000, 0.70335
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 146 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 220, 46 => 0.00000, 0.82707, 0.17293
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 211, 0 => 0.00939, 0.99061, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+144, 44, 0 => 0.76596, 0.23404, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+122, 0, 1 => 0.99187, 0.00000, 0.00813
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 187 => 0.24900, 0.00000, 0.75100
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 183 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 258, 46 => 0.00000, 0.84868, 0.15132
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 233, 0 => 0.00851, 0.99149, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+166, 44, 0 => 0.79048, 0.20952, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+145, 0, 1 => 0.99315, 0.00000, 0.00685
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 211 => 0.22711, 0.00000, 0.77289
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 212 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 288, 46 => 0.00000, 0.86228, 0.13772
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 259, 0 => 0.00766, 0.99234, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+189, 44, 0 => 0.81116, 0.18884, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+169, 0, 1 => 0.99412, 0.00000, 0.00588
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 236 => 0.20805, 0.00000, 0.79195
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 238 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 315, 46 => 0.00000, 0.87258, 0.12742
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 281, 0 => 0.00707, 0.99293, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+212, 44, 0 => 0.82812, 0.17188, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+193, 0, 1 => 0.99485, 0.00000, 0.00515
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 261 => 0.19195, 0.00000, 0.80805
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 264 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 342, 46 => 0.00000, 0.88144, 0.11856
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 305, 0 => 0.00651, 0.99349, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+237, 44, 0 => 0.84342, 0.15658, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+219, 0, 1 => 0.99545, 0.00000, 0.00455
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 288 => 0.17714, 0.00000, 0.82286
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 292 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 371, 46 => 0.00000, 0.88969, 0.11031
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 335, 0 => 0.00593, 0.99407, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+268, 44, 0 => 0.85897, 0.14103, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+251, 0, 1 => 0.99603, 0.00000, 0.00397
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 321 => 0.16188, 0.00000, 0.83812
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 326 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 406, 46 => 0.00000, 0.89823, 0.10177
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 371, 0 => 0.00536, 0.99464, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+305, 44, 0 => 0.87393, 0.12607, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+289, 0, 1 => 0.99655, 0.00000, 0.00345
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 360 => 0.14692, 0.00000, 0.85308
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 366 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 447, 46 => 0.00000, 0.90669, 0.09331
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 413, 0 => 0.00482, 0.99518, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+348, 44, 0 => 0.88776, 0.11224, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+333, 0, 1 => 0.99701, 0.00000, 0.00299
+Op play 1?
+I played 2, op played 1
+I won
+
+62, 0, 405 => 0.13276, 0.00000, 0.86724
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 412 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 494, 46 => 0.00000, 0.91481, 0.08519
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 131, 0 => 0.32474, 0.67526, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+78, 1, 0 => 0.98734, 0.01266, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+139, 0, 76 => 0.64651, 0.00000, 0.35349
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 61 => 0.01613, 0.00000, 0.98387
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 104 => 0.00000, 0.44681, 0.55319
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 57, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 102, 0 => 0.38182, 0.61818, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+63, 1, 0 => 0.98438, 0.01562, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+125, 0, 76 => 0.62189, 0.00000, 0.37811
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 75 => 0.01316, 0.00000, 0.98684
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 119 => 0.00000, 0.41379, 0.58621
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 68, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 114, 0 => 0.35593, 0.64407, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+71, 1, 0 => 0.98611, 0.01389, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+134, 0, 76 => 0.63810, 0.00000, 0.36190
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 85 => 0.01163, 0.00000, 0.98837
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 130 => 0.00000, 0.39252, 0.60748
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 80, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 127, 0 => 0.33158, 0.66842, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+85, 1, 0 => 0.98837, 0.01163, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+149, 0, 76 => 0.66222, 0.00000, 0.33778
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 101 => 0.00980, 0.00000, 0.99020
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 147 => 0.00000, 0.36364, 0.63636
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 98, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 146, 0 => 0.30144, 0.69856, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+105, 1, 0 => 0.99057, 0.00943, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+170, 0, 76 => 0.69106, 0.00000, 0.30894
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 123 => 0.00806, 0.00000, 0.99194
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 170 => 0.00000, 0.33071, 0.66929
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 122, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 171, 0 => 0.26923, 0.73077, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+131, 1, 0 => 0.99242, 0.00758, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+197, 0, 76 => 0.72161, 0.00000, 0.27839
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 151 => 0.00658, 0.00000, 0.99342
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 199 => 0.00000, 0.29682, 0.70318
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 152, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 202, 0 => 0.23774, 0.76226, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+163, 1, 0 => 0.99390, 0.00610, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+230, 0, 76 => 0.75163, 0.00000, 0.24837
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 185 => 0.00538, 0.00000, 0.99462
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 234 => 0.00000, 0.26415, 0.73585
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 188, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 239, 0 => 0.20861, 0.79139, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+201, 1, 0 => 0.99505, 0.00495, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+269, 0, 76 => 0.77971, 0.00000, 0.22029
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 225 => 0.00442, 0.00000, 0.99558
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 275 => 0.00000, 0.23398, 0.76602
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 230, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 282, 0 => 0.18261, 0.81739, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+245, 1, 0 => 0.99593, 0.00407, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+314, 0, 76 => 0.80513, 0.00000, 0.19487
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 271 => 0.00368, 0.00000, 0.99632
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 322 => 0.00000, 0.20690, 0.79310
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 278, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 331, 0 => 0.15990, 0.84010, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+295, 1, 0 => 0.99662, 0.00338, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+365, 0, 76 => 0.82766, 0.00000, 0.17234
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 323 => 0.00309, 0.00000, 0.99691
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 375 => 0.00000, 0.18301, 0.81699
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 332, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 386, 0 => 0.14031, 0.85969, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+351, 1, 0 => 0.99716, 0.00284, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+422, 0, 76 => 0.84739, 0.00000, 0.15261
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 381 => 0.00262, 0.00000, 0.99738
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 434 => 0.00000, 0.16216, 0.83784
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 392, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 447, 0 => 0.12353, 0.87647, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+413, 1, 0 => 0.99758, 0.00242, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+485, 0, 76 => 0.86453, 0.00000, 0.13547
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 445 => 0.00224, 0.00000, 0.99776
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 499 => 0.00000, 0.14408, 0.85592
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 458, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 514, 0 => 0.10919, 0.89081, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+481, 1, 0 => 0.99793, 0.00207, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+554, 0, 76 => 0.87937, 0.00000, 0.12063
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 515 => 0.00194, 0.00000, 0.99806
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 570 => 0.00000, 0.12844, 0.87156
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 530, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 587, 0 => 0.09692, 0.90308, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+555, 1, 0 => 0.99820, 0.00180, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+629, 0, 76 => 0.89220, 0.00000, 0.10780
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 591 => 0.00169, 0.00000, 0.99831
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 84, 647 => 0.00000, 0.11491, 0.88509
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 608, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+63, 666, 0 => 0.08642, 0.91358, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+139, 59, 0 => 0.70202, 0.29798, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+115, 0, 1 => 0.99138, 0.00000, 0.00862
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 186 => 0.29008, 0.00000, 0.70992
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 194 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 277, 60 => 0.00000, 0.82196, 0.17804
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 271, 0 => 0.00733, 0.99267, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+213, 59, 0 => 0.78309, 0.21691, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+200, 0, 1 => 0.99502, 0.00000, 0.00498
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 274 => 0.21714, 0.00000, 0.78286
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 279 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 363, 60 => 0.00000, 0.85816, 0.14184
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 335, 0 => 0.00593, 0.99407, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+277, 59, 0 => 0.82440, 0.17560, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+265, 0, 1 => 0.99624, 0.00000, 0.00376
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 340 => 0.18269, 0.00000, 0.81731
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 350 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 435, 60 => 0.00000, 0.87879, 0.12121
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 397, 0 => 0.00501, 0.99499, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+336, 59, 0 => 0.85063, 0.14937, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+325, 0, 1 => 0.99693, 0.00000, 0.00307
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 401 => 0.15933, 0.00000, 0.84067
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 412 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 498, 60 => 0.00000, 0.89247, 0.10753
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 449, 0 => 0.00443, 0.99557, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+389, 59, 0 => 0.86830, 0.13170, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+379, 0, 1 => 0.99737, 0.00000, 0.00263
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 456 => 0.14286, 0.00000, 0.85714
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 468 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 555, 60 => 0.00000, 0.90244, 0.09756
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 497, 0 => 0.00401, 0.99599, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+438, 59, 0 => 0.88129, 0.11871, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+429, 0, 1 => 0.99767, 0.00000, 0.00233
+Op play 1?
+I played 2, op played 1
+I won
+
+76, 0, 507 => 0.13036, 0.00000, 0.86964
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 520 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 608, 60 => 0.00000, 0.91018, 0.08982
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 181, 0 => 0.27600, 0.72400, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+141, 1, 0 => 0.99296, 0.00704, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+216, 0, 82 => 0.72483, 0.00000, 0.27517
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 152 => 0.00654, 0.00000, 0.99346
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 209 => 0.00000, 0.30100, 0.69900
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 176, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 236, 0 => 0.22623, 0.77377, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+204, 1, 0 => 0.99512, 0.00488, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+280, 0, 82 => 0.77348, 0.00000, 0.22652
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 244 => 0.00408, 0.00000, 0.99592
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 302 => 0.00000, 0.22959, 0.77041
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 265, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 326, 0 => 0.17468, 0.82532, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+284, 1, 0 => 0.99649, 0.00351, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+361, 0, 82 => 0.81490, 0.00000, 0.18510
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 326 => 0.00306, 0.00000, 0.99694
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 385 => 0.00000, 0.18947, 0.81053
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 349, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 411, 0 => 0.14375, 0.85625, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+364, 1, 0 => 0.99726, 0.00274, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+442, 0, 82 => 0.84351, 0.00000, 0.15649
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 408 => 0.00244, 0.00000, 0.99756
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 468 => 0.00000, 0.16129, 0.83871
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 433, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 496, 0 => 0.12212, 0.87788, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+444, 1, 0 => 0.99775, 0.00225, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+523, 0, 82 => 0.86446, 0.00000, 0.13554
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 490 => 0.00204, 0.00000, 0.99796
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 551 => 0.00000, 0.14041, 0.85959
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 517, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 581, 0 => 0.10615, 0.89385, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+524, 1, 0 => 0.99810, 0.00190, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+604, 0, 82 => 0.88047, 0.00000, 0.11953
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 572 => 0.00175, 0.00000, 0.99825
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 634 => 0.00000, 0.12431, 0.87569
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 601, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 666, 0 => 0.09388, 0.90612, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+604, 1, 0 => 0.99835, 0.00165, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+685, 0, 82 => 0.89309, 0.00000, 0.10691
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 654 => 0.00153, 0.00000, 0.99847
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 90, 717 => 0.00000, 0.11152, 0.88848
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 685, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+69, 751, 0 => 0.08415, 0.91585, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+188, 67, 0 => 0.73725, 0.26275, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+170, 0, 1 => 0.99415, 0.00000, 0.00585
+Op play 1?
+I played 2, op played 1
+I won
+
+83, 0, 247 => 0.25152, 0.00000, 0.74848
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 261 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 350, 67 => 0.00000, 0.83933, 0.16067
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 344, 0 => 0.00578, 0.99422, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+292, 67, 0 => 0.81337, 0.18663, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+285, 0, 1 => 0.99650, 0.00000, 0.00350
+Op play 1?
+I played 2, op played 1
+I won
+
+83, 0, 365 => 0.18527, 0.00000, 0.81473
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 376 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 466, 67 => 0.00000, 0.87430, 0.12570
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 432, 0 => 0.00461, 0.99539, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+380, 67, 0 => 0.85011, 0.14989, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+374, 0, 1 => 0.99733, 0.00000, 0.00267
+Op play 1?
+I played 2, op played 1
+I won
+
+83, 0, 455 => 0.15428, 0.00000, 0.84572
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 471 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 562, 67 => 0.00000, 0.89348, 0.10652
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 512, 0 => 0.00389, 0.99611, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+457, 67, 0 => 0.87214, 0.12786, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+452, 0, 1 => 0.99779, 0.00000, 0.00221
+Op play 1?
+I played 2, op played 1
+I won
+
+83, 0, 534 => 0.13452, 0.00000, 0.86548
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 551 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 643, 67 => 0.00000, 0.90563, 0.09437
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 576, 0 => 0.00346, 0.99654, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+522, 67, 0 => 0.88625, 0.11375, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+518, 0, 1 => 0.99807, 0.00000, 0.00193
+Op play 1?
+I played 2, op played 1
+I won
+
+83, 0, 601 => 0.12135, 0.00000, 0.87865
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 619 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 712, 67 => 0.00000, 0.91399, 0.08601
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 212, 0 => 0.25874, 0.74126, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+178, 1, 0 => 0.99441, 0.00559, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+260, 0, 87 => 0.74928, 0.00000, 0.25072
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 203 => 0.00490, 0.00000, 0.99510
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 267 => 0.00000, 0.26243, 0.73757
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 241, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 309, 0 => 0.19321, 0.80679, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+277, 1, 0 => 0.99640, 0.00360, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+360, 0, 87 => 0.80537, 0.00000, 0.19463
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 331 => 0.00301, 0.00000, 0.99699
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 396 => 0.00000, 0.19348, 0.80652
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 366, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 435, 0 => 0.14538, 0.85462, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+387, 1, 0 => 0.99742, 0.00258, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+471, 0, 87 => 0.84409, 0.00000, 0.15591
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 443 => 0.00225, 0.00000, 0.99775
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 509 => 0.00000, 0.15728, 0.84272
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 480, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 550, 0 => 0.11859, 0.88141, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+491, 1, 0 => 0.99797, 0.00203, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+576, 0, 87 => 0.86878, 0.00000, 0.13122
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 549 => 0.00182, 0.00000, 0.99818
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 616 => 0.00000, 0.13361, 0.86639
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 588, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 659, 0 => 0.10095, 0.89905, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+589, 1, 0 => 0.99831, 0.00169, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+675, 0, 87 => 0.88583, 0.00000, 0.11417
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 649 => 0.00154, 0.00000, 0.99846
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 95, 717 => 0.00000, 0.11700, 0.88300
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 690, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+74, 762, 0 => 0.08852, 0.91148, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+212, 73, 0 => 0.74386, 0.25614, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+199, 0, 1 => 0.99500, 0.00000, 0.00500
+Op play 1?
+I played 2, op played 1
+I won
+
+88, 0, 281 => 0.23848, 0.00000, 0.76152
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 300 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 394, 72 => 0.00000, 0.84549, 0.15451
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 387, 0 => 0.00514, 0.99486, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+340, 73, 0 => 0.82324, 0.17676, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+338, 0, 1 => 0.99705, 0.00000, 0.00295
+Op play 1?
+I played 2, op played 1
+I won
+
+88, 0, 423 => 0.17221, 0.00000, 0.82779
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 439 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 534, 72 => 0.00000, 0.88119, 0.11881
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 493, 0 => 0.00404, 0.99596, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+446, 73, 0 => 0.85934, 0.14066, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+445, 0, 1 => 0.99776, 0.00000, 0.00224
+Op play 1?
+I played 2, op played 1
+I won
+
+88, 0, 531 => 0.14216, 0.00000, 0.85784
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 552 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 648, 72 => 0.00000, 0.90000, 0.10000
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 585, 0 => 0.00341, 0.99659, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+535, 73, 0 => 0.87993, 0.12007, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+535, 0, 1 => 0.99813, 0.00000, 0.00187
+Op play 1?
+I played 2, op played 1
+I won
+
+88, 0, 622 => 0.12394, 0.00000, 0.87606
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 644 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 741, 72 => 0.00000, 0.91144, 0.08856
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 225, 0 => 0.25743, 0.74257, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+195, 1, 0 => 0.99490, 0.00510, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+282, 0, 91 => 0.75603, 0.00000, 0.24397
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 234 => 0.00426, 0.00000, 0.99574
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 99, 303 => 0.00000, 0.24627, 0.75373
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 282, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 356, 0 => 0.17972, 0.82028, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+322, 1, 0 => 0.99690, 0.00310, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+410, 0, 91 => 0.81836, 0.00000, 0.18164
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 386 => 0.00258, 0.00000, 0.99742
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 99, 456 => 0.00000, 0.17838, 0.82162
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 431, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 506, 0 => 0.13356, 0.86644, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+450, 1, 0 => 0.99778, 0.00222, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+539, 0, 91 => 0.85556, 0.00000, 0.14444
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 516 => 0.00193, 0.00000, 0.99807
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 99, 587 => 0.00000, 0.14431, 0.85569
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 563, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 639, 0 => 0.10879, 0.89121, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+566, 1, 0 => 0.99824, 0.00176, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+656, 0, 91 => 0.87818, 0.00000, 0.12182
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 634 => 0.00157, 0.00000, 0.99843
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 99, 706 => 0.00000, 0.12298, 0.87702
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 683, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 760, 0 => 0.09308, 0.90692, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+670, 1, 0 => 0.99851, 0.00149, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+761, 0, 91 => 0.89319, 0.00000, 0.10681
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 740 => 0.00135, 0.00000, 0.99865
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 99, 813 => 0.00000, 0.10855, 0.89145
+Op play 2?
+I played 3, op played 3
+I tied
+
+0, 791, 0 => 0.00000, 1.00000, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+78, 869, 0 => 0.08237, 0.91763, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+270, 79, 0 => 0.77364, 0.22636, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+261, 0, 1 => 0.99618, 0.00000, 0.00382
+Op play 1?
+I played 2, op played 1
+I won
+
+93, 0, 347 => 0.21136, 0.00000, 0.78864
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 370 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 468, 77 => 0.00000, 0.85872, 0.14128
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 459, 0 => 0.00434, 0.99566, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+416, 79, 0 => 0.84040, 0.15960, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+418, 0, 1 => 0.99761, 0.00000, 0.00239
+Op play 1?
+I played 2, op played 1
+I won
+
+93, 0, 507 => 0.15500, 0.00000, 0.84500
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 527 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 626, 77 => 0.00000, 0.89047, 0.10953
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 577, 0 => 0.00345, 0.99655, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+534, 79, 0 => 0.87113, 0.12887, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+537, 0, 1 => 0.99814, 0.00000, 0.00186
+Op play 1?
+I played 2, op played 1
+I won
+
+93, 0, 627 => 0.12917, 0.00000, 0.87083
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 652 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 752, 77 => 0.00000, 0.90712, 0.09288
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 675, 0 => 0.00295, 0.99705, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+629, 79, 0 => 0.88842, 0.11158, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+633, 0, 1 => 0.99842, 0.00000, 0.00158
+Op play 1?
+I played 2, op played 1
+I won
+
+93, 0, 724 => 0.11383, 0.00000, 0.88617
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 750 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 851, 77 => 0.00000, 0.91703, 0.08297
+Op play 2?
+I played 3, op played 2
+I won
+
+82, 308, 0 => 0.21026, 0.78974, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+282, 1, 0 => 0.99647, 0.00353, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+374, 0, 95 => 0.79744, 0.00000, 0.20256
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 331 => 0.00301, 0.00000, 0.99699
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 103, 405 => 0.00000, 0.20276, 0.79724
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 165, 78 => 0.00000, 0.67901, 0.32099
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 175, 0 => 0.01130, 0.98870, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+135, 1, 0 => 0.99265, 0.00735, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+226, 0, 95 => 0.70405, 0.00000, 0.29595
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 202 => 0.00493, 0.00000, 0.99507
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 104, 277 => 0.00000, 0.27297, 0.72703
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 193, 79 => 0.00000, 0.70956, 0.29044
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 200, 0 => 0.00990, 0.99010, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+192, 80, 0 => 0.70588, 0.29412, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+187, 0, 1 => 0.99468, 0.00000, 0.00532
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 279 => 0.25401, 0.00000, 0.74599
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 310 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 414, 79 => 0.00000, 0.83976, 0.16024
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 389, 0 => 0.00512, 0.99488, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+351, 80, 0 => 0.81439, 0.18561, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+357, 0, 1 => 0.99721, 0.00000, 0.00279
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 450 => 0.17431, 0.00000, 0.82569
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 478 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 583, 79 => 0.00000, 0.88066, 0.11934
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 517, 0 => 0.00385, 0.99615, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+474, 80, 0 => 0.85560, 0.14440, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+481, 0, 1 => 0.99793, 0.00000, 0.00207
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 575 => 0.14179, 0.00000, 0.85821
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 604 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 710, 79 => 0.00000, 0.89987, 0.10013
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 609, 0 => 0.00327, 0.99673, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+565, 80, 0 => 0.87597, 0.12403, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+573, 0, 1 => 0.99826, 0.00000, 0.00174
+Op play 1?
+I played 2, op played 1
+I won
+
+95, 0, 668 => 0.12451, 0.00000, 0.87549
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 698 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 805, 79 => 0.00000, 0.91063, 0.08937
+Op play 2?
+I played 3, op played 2
+I won
+
+86, 286, 0 => 0.23118, 0.76882, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+262, 1, 0 => 0.99620, 0.00380, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+356, 0, 99 => 0.78242, 0.00000, 0.21758
+Op play 3?
+I played 1, op played 1
+I tied
+
+1, 0, 313 => 0.00318, 0.00000, 0.99682
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 109, 389 => 0.00000, 0.21888, 0.78112
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 203, 80 => 0.00000, 0.71731, 0.28269
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 217, 0 => 0.00913, 0.99087, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+204, 81, 0 => 0.71579, 0.28421, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+205, 0, 1 => 0.99515, 0.00000, 0.00485
+Op play 1?
+I played 2, op played 1
+I won
+
+96, 0, 301 => 0.24181, 0.00000, 0.75819
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 336 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 445, 80 => 0.00000, 0.84762, 0.15238
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 417, 0 => 0.00477, 0.99523, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+385, 81, 0 => 0.82618, 0.17382, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+395, 0, 1 => 0.99747, 0.00000, 0.00253
+Op play 1?
+I played 2, op played 1
+I won
+
+96, 0, 492 => 0.16327, 0.00000, 0.83673
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 524 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 634, 80 => 0.00000, 0.88796, 0.11204
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 559, 0 => 0.00357, 0.99643, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+520, 81, 0 => 0.86522, 0.13478, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+531, 0, 1 => 0.99812, 0.00000, 0.00188
+Op play 1?
+I played 2, op played 1
+I won
+
+96, 0, 629 => 0.13241, 0.00000, 0.86759
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 662 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 773, 80 => 0.00000, 0.90621, 0.09379
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 657, 0 => 0.00303, 0.99697, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+617, 81, 0 => 0.88395, 0.11605, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+629, 0, 1 => 0.99841, 0.00000, 0.00159
+Op play 1?
+I played 2, op played 1
+I won
+
+96, 0, 728 => 0.11650, 0.00000, 0.88350
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 762 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 874, 80 => 0.00000, 0.91614, 0.08386
+Op play 2?
+I played 3, op played 2
+I won
+
+90, 316, 0 => 0.22167, 0.77833, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+293, 1, 0 => 0.99660, 0.00340, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+388, 0, 103 => 0.79022, 0.00000, 0.20978
+Op play 1?
+I played 2, op played 1
+I won
+
+97, 0, 201 => 0.32550, 0.00000, 0.67450
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 225 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 338, 80 => 0.00000, 0.80861, 0.19139
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 339, 0 => 0.00587, 0.99413, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+325, 82, 0 => 0.79853, 0.20147, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+336, 0, 1 => 0.99703, 0.00000, 0.00297
+Op play 1?
+I played 2, op played 1
+I won
+
+97, 0, 437 => 0.18165, 0.00000, 0.81835
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 475 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 589, 80 => 0.00000, 0.88042, 0.11958
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 510, 0 => 0.00391, 0.99609, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+469, 82, 0 => 0.85118, 0.14882, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+483, 0, 1 => 0.99793, 0.00000, 0.00207
+Op play 1?
+I played 2, op played 1
+I won
+
+97, 0, 585 => 0.14223, 0.00000, 0.85777
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 622 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 737, 80 => 0.00000, 0.90208, 0.09792
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 637, 0 => 0.00313, 0.99687, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+599, 82, 0 => 0.87959, 0.12041, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+614, 0, 1 => 0.99837, 0.00000, 0.00163
+Op play 1?
+I played 2, op played 1
+I won
+
+97, 0, 717 => 0.11916, 0.00000, 0.88084
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 755 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 871, 80 => 0.00000, 0.91588, 0.08412
+Op play 2?
+I played 3, op played 2
+I won
+
+93, 310, 0 => 0.23077, 0.76923, 0.00000
+Op play 1?
+I played 2, op played 2
+I tied
+
+288, 1, 0 => 0.99654, 0.00346, 0.00000
+Op play 1?
+I played 2, op played 1
+I won
+
+384, 0, 107 => 0.78208, 0.00000, 0.21792
+Op play 1?
+I played 2, op played 1
+I won
+
+98, 0, 225 => 0.30341, 0.00000, 0.69659
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 253 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 370, 80 => 0.00000, 0.82222, 0.17778
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 371, 0 => 0.00536, 0.99464, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+360, 83, 0 => 0.81264, 0.18736, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+374, 0, 1 => 0.99733, 0.00000, 0.00267
+Op play 1?
+I played 2, op played 1
+I won
+
+98, 0, 479 => 0.16984, 0.00000, 0.83016
+Op play 1?
+I played 2, op played 3
+I lost
+
+0, 0, 521 => 0.00000, 0.00000, 1.00000
+Op play 3?
+I played 1, op played 3
+I won
+
+0, 639, 80 => 0.00000, 0.88873, 0.11127
+Op play 3?
+I played 1, op played 2
+I lost
+
+2, 558, 0 => 0.00357, 0.99643, 0.00000
+Op play 2?
+I played 3, op played 2
+I won
+
+520, 83, 0 => 0.86235, 0.13765, 0.00000
+Op play 2?
+I played 3, op played 1
+I lost
+
+537, 0, 1 => 0.99814, 0.00000, 0.00186
+Op play 1?
+I played 2, op played 1
+I won
+
+Op: Double Thrower
+Wins 586
+Loss 240
+Ties 174
+
+
+
+
+

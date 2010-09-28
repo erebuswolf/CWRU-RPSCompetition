@@ -1,0 +1,123 @@
+debug: len 15
+debug: len 9
+broadcast 230.0.0.1
+debug: len 4
+port bytes
+0 0 26 -123 
+port is 6789
+debug: len 10
+name: pinky
+garbage: -40
+rock: -116
+paper: -115
+scissors: -6
+request: -15 56
+client_signature: 102
+shutdownSignal: 85 10
+resultSignature: -58
+
+My oppenent is Final Countdown
+joined multicast group
+0 0 0 
+0 0 0 
+0 0 0 
+no clue, throwing a rand
+I throw 1
+-------
+they threw 0
+0 0 0 
+0 0 0 
+0 0 0 
+I throw 2
+-------
+they threw 0
+1 0 0 
+0 0 0 
+0 0 0 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+2 0 0 
+0 0 0 
+0 0 0 
+I throw 2
+-------
+In favor of BeatLast
+they threw 0
+3 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+4 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+5 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+6 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+7 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+8 0 0 
+0 0 0 
+0 0 0 
+I throw 2
+-------
+they threw 0
+9 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+In favor of BeatLast
+they threw 0
+10 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+11 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+they threw 0
+12 0 0 
+0 0 0 
+0 0 0 
+I throw 1
+-------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+game over, shutting down
+they threw 0

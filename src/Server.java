@@ -465,9 +465,9 @@ public class Server {
 			synchronized(this){
 				resultLock=true;
 			}
-			System.out.println("results are in at "+elapsed + "ns");
+		//	System.out.println("results are in at "+elapsed + "ns");
 			//determine winner
-			System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
+		//	System.out.printf("A:%-10s B:%-10s times: %d \t %d \n",client_a.lastThrow.name(),client_b.lastThrow.name(),(client_a.submitTime-start) ,(client_b.submitTime-start) );
 
 			results[throwCount]=new ThrowResult(client_a.lastThrow,client_b.lastThrow,(client_a.submitTime-start),(client_b.submitTime-start));
 			results[throwCount].findWinner();
@@ -581,7 +581,7 @@ public class Server {
 		System.out.println("\nFINAL RESULTS:");
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_a.name,Awins,Bwins,ties);
 		System.out.printf("%-20s wins: %-5d  losses: %-5d  ties: %-5d\n",client_b.name,Bwins,Awins,ties);
-		System.out.printf("%-20s missed %d throws",client_a.name,Amisses);
+     	System.out.printf("%-20s missed %d throws\n",client_a.name,Amisses);
 		System.out.printf("%-20s missed %d throws",client_b.name,Bmisses);
 	}
 
